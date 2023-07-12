@@ -1,0 +1,148 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Xin chào",
+        "Chào bạn",
+        "Chào",
+        "Hi"
+      ],
+      "responses": [
+        "Xin chào! Tôi có thể giúp gì cho bạn?",
+        "Chào bạn! Cần tôi giúp gì?",
+        "Hello! Bạn cần hỗ trợ gì?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Tạm biệt",
+        "Bye",
+        "Hẹn gặp lại"
+      ],
+      "responses": [
+        "Tạm biệt! Chúc bạn một ngày tốt lành!",
+        "Bye! Hẹn gặp lại!",
+        "Hẹn gặp lại bạn sau!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Cảm ơn",
+        "Thank you",
+        "Rất cảm ơn"
+      ],
+      "responses": [
+        "Rất vui được giúp bạn!",
+        "Không có gì! Bạn cần thêm thông tin gì nữa không?",
+        "Tôi rất vui khi có thể hỗ trợ!"
+      ]
+    },
+     {
+      "tag": "items",
+      "patterns": [
+        "Which items do you have?",
+        "What kinds of items are there?",
+        "What do you sell?"
+      ],
+      "responses": [
+        "We sell coffee and tea",
+        "We have coffee and tea"
+      ]
+    },
+     {
+      "tag": "SoTaySinhVien",
+      "patterns": [
+        "Sổ tay sinh viên là gì?",
+        "Mục đích của sổ tay sinh viên là gì?"
+
+      ],
+      "responses": [
+       "Sổ tay sinh viên được phát hành vào đầu mỗi khóa học nhằm giúp sinhviên khóa trúng tuyển tìm hiểu hoạt động đào tạo của Trường và tự tổ chức,lên kế hoạch học tập.\nNội dung sổ tay là tổng hợp một số quy định của nhà trường, thông tin vềcác dịch vụ tiện ích mà sinh viên sử dụng và được thụ hưởng liên quan đến việc học tập và các hoạt động khác của sinh viên trong suốt thời gian học tại trường.\n Việc tuân thủ các quy định và hiểu biết về các tiện ích giúp sinh viêncó kế hoạch học tập chủ động và đạt hiệu quả cao trong học tập."
+      ]
+    },
+    {
+      "tag": "MucLucSoTaySinhVien",
+      "patterns": [
+        "Mục lục sổ tay sinh viên?",
+        "Các thông tin trong sổ tay sinh viên?",
+        "Menu của sổ tay sinh viên?",
+        "Các nội dung trong sổ tay sinh viên?"
+      ],
+      "responses": [
+        "SỔ TAY SINH VIÊN 1\nPhần I: GIỚI THIỆU KHÁI QUÁT 3\n1. Sơ đồ tổ chức bộ máy 8\n2. Hội đồng trường 8\n3. Ban giám hiệu 8\n4. Đơn vị quản lý đào tạo 8\n5. Khoa và các ngành đào tạo 8\n6. Nơi sinh viên liên hệ 9\n7. Lịch tiếp công dân 10\n8. Khung thời gian ra - vào lớp 19\n9. Giới thiệu về hệ thống thông tin dành cho sinh viên 19\n10. Mục tiêu và kế hoạch học tập 21\nPhần II: CÁC NỘI DUNG HOẠT ĐỘNG CÔNG TÁC SINH VIÊN 29\n1. Chế độ chính sách 29\n2. Hành chính sinh viên 30\n3. Cổng thông tin “chủ nhiệm lớp - cố vấn học tập” 30\n4. Đánh giá kết quả rèn luyện online 30\n5. Ngoại trú 31\n6. Hoạt động ngoại khóa 31\n7. Khen thưởng 32\n8. Hoạt động dịch vụ hỗ trợ 32\n9. Hoạt động hướng nghiệp, tư vấn việc làm 33\nPhần III: CÁC QUY CHẾ 35\n1. Quy chế đào tạo trình độ đại học hình thức đào tạo chính quy 35\n2. Quy định đào tạo ngoại ngữ không chuyên 65\n3. Quy định tổ chức dạy, học đánh giá kết quả học tập chương trình 73\nGiáo dục quốc phòng và an ninh \n4. Quy định miễn, giảm môn học 81\n5. Quy định đăng ký môn học 80\n6. Quy định điều chỉnh lịch thi 90\n7. Chuyển vào/ra chương trình chất lượng cao 93\n8. Quy chế CTSV đối với chương trình đào tạo đại học 95\n9. Quy định sử dụng hệ thống thư điện tử và các dịch vụ trực tuyến 118\n10. Quy định về văn hóa ứng xử người học 124\n"
+      ]
+    },
+    {
+    "tag": "DaiHocMo",
+    "patterns": [
+        "Đại học mở",
+      "Thông tin trường đại học mở"
+    ],
+    "responses": [
+        "(Ho Chi Minh City Open University) Loại hình trường Công lập từ năm 2006.\nCơ quan/Bộ chủ quản: Bộ Giáo dục và Đào tạo\nĐịa chỉ: 35-37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1, Thành phố Hồ Chí Minh\nWebsite: https://ou.edu.vn Email: ou@ou.edu.vn\nĐiện thoại: (028) 38364748 Fax: (028) 39207639 hoặc (028) 39207640"
+    ]
+    },
+    {
+    "tag": "QuaTrinhPhatTrienDHM",
+    "patterns": [
+      "Quá trình phát trỉnh đại học mở",
+      "Thời gian phát trỉnh của đại học mở"
+    ],
+    "responses": [
+      "Ngày 15/6/1990, Bộ trưởng Bộ Giáo dục và Đào tạo ban hành Quyết định \nsố 451/TCCB thành lập Viện Đào tạo Mở rộng trực thuộc Trường Cán bộ quản \nlý đại học - Trung học chuyên nghiệp và Dạy nghề.\nVới sự phát triển nhanh chóng và nhu cầu học tập của xã hội, ngày \n26/7/1993 Thủ tướng Chính phủ quyết định thành lập Đại học Mở bán công \nThành phố Hồ Chí Minh trên cơ sở Viện Đào tạo mở rộng Thành phố Hồ Chí \nMinh, với chức năng là đào tạo từ xa, đào tạo tại chỗ, đào tạo tại các điểm vệ\ntinh,… nhằm đáp ứng nhu cầu học tập đa dạng của xã hội, góp phần tăng \ncường đội ngũ cán bộ khoa học - kỹ thuật cho đất nước.\nNgày 22/6/2006, Thủ Tướng Chính phủ ban hành Quyết định số\n146/2006/QĐ-TTg chuyển loại hình một số trường đại học và cao đẳng bán \ncông, dân lập. Theo quyết định này, Trường Đại học Mở bán công Thành phố\nHồ Chí Minh được chuyển sang trường đại học công lập và có tên gọi là \nTrường Đại học Mở Thành phố Hồ Chí Minh, là đơn vị sự nghiệp công lập trực \nthuộc Bộ Giáo dục và Đào tạo, được giao quyền tự chủ, tự chịu trách nhiệm \nvề thực hiện nhiệm vụ, tổ chức bộ máy, biên chế và tài chính theo Nghị định \nsố 43/2006/NĐ-CP ngày 25/4/2006 của Chính phủ.\nNgày 12/6/2015 Thủ tướng Chính phủ ban hành Quyết định số 850/QĐ\u0002TTg phê duyệt Đề án thí điểm đổi mới cơ chế hoạt động của Trường Đại học \nMở Thành phố Hồ Chí Minh giai đoạn 2015 - 2017 và Nghị quyết số 117/NQ\u0002CP ngày 09 tháng 11 năm 2017 của Chính phủ về Phiên họp Chính phủ\nthường kỳ tháng 10 năm 2017 cho Trường tiếp tục thực hiện thí điểm cho tới \nkhi có Nghị định của Chính phủ quy định cơ chế tự chủ của cơ sở giáo dục đại \nhọc công lập có hiệu lực thi hành."
+    ]
+     },
+     {
+    "tag": "SuMangDHM",
+    "patterns": [
+      "Sứ mạng của đại học mở"
+    ],
+    "responses": [
+"SỨ MẠNG: Trường Đại học Mở Thành phố Hồ Chí Minh thực hiện \ngiáo dục mở; tạo bình đẳng cho mọi người trong tiếp cận giáo dục đại học; \n4 Sổ tay sinh viên 2022\ngóp phần xây dựng xã hội học tập, nâng cao tri thức và năng lực nghề nghiệp \ncho người học bằng các phương thức linh hoạt, thuận tiện và hiệu quả."
+    ]
+     },
+    {
+      "tag": "TamNhinDHM",
+      "patterns": [
+        "Tầm nhìn của đại học mở"
+      ],
+      "responses": [
+       "TẦM NHÌN: Trường Đại học Mở Thành phố Hồ Chí Minh phấn đấu trở\nthành Đại học thực hiện giáo dục mở, định hướng ứng dụng với chất lượng \ncao."
+      ]
+    },{
+      "tag": "TamNhinVaSuMang",
+      "patterns": [
+
+        "Tầm nhìn và sứ mạng của đại học mở"
+      ],
+      "responses": [
+        "SỨ MẠNG: Trường Đại học Mở Thành phố Hồ Chí Minh thực hiện \ngiáo dục mở; tạo bình đẳng cho mọi người trong tiếp cận giáo dục đại học; \n4 Sổ tay sinh viên 2022\ngóp phần xây dựng xã hội học tập, nâng cao tri thức và năng lực nghề nghiệp \ncho người học bằng các phương thức linh hoạt, thuận tiện và hiệu quả.\nTẦM NHÌN: Trường Đại học Mở Thành phố Hồ Chí Minh phấn đấu trở\nthành Đại học thực hiện giáo dục mở, định hướng ứng dụng với chất lượng \ncao."
+
+      ]
+    },{
+      "tag": "GiaTriCotLoi",
+      "patterns": [
+
+        "Giá trị cốt lõi của đại học mở"
+      ],
+      "responses": [
+        "Nâng cao tri thức và năng lực nghề nghiệp\n- Cung cấp cơ hội học tập suốt đời và bình đẳng cho mọi người.\n- Đáp ứng yêu cầu ngày càng cao của xã hội về chất lượng đào tạo và \nnghiên cứu khoa học.\n- Chú trọng tiếp cận và ứng dụng tri thức và khoa học công nghệ mới trên \nthế giới, hướng đến hội nhập quốc tế.\n- Thích ứng nhanh chóng với sự thay đổi.\nGắn kết thực tiễn\nThúc đẩy việc giảng dạy và nghiên cứu đáp ứng các yêu cầu thực tiễn \nnhằm nâng cao tri thức và năng lực nghề nghiệp cho người học.\nPhục vụ cộng đồng\nHướng đến phục vụ lợi ích cộng đồng trong đào tạo, nghiên cứu và các \nhoạt động khác.\nChuyên nghiệp, sáng tạo và hiệu quả\n- Phát triển đội ngũ có trách nhiệm, năng động, sáng tạo và chuyên nghiệp \ncó khả năng thực hiện nhiệm vụ đào tạo, nghiên cứu, và các hoạt động \ncộng đồng với hiệu quả cao nhất.\n- Khuyến khích tư duy sáng tạo với tinh thần đổi mới cách nghĩ, cách làm, \nbiến thách thức thành cơ hội.\n- Tạo lập và duy trì môi trường làm việc, giảng dạy và học tập thân thiện \nvới thái độ hợp tác, tôn trọng lẫn nhau để cùng đạt mục tiêu."
+
+      ]
+    },
+    {
+      "tag": "TrietLyGiaoDuc",
+      "patterns": [
+
+        "Triết lý giáo dục của đại học mở"
+      ],
+      "responses": [
+        "Trường xác định mục tiêu giáo dục và các hoạt động dạy và học trong nhà \ntrường dựa trên bốn trụ cột như sau: Nhân bản, Rộng mở, Thực tiễn và Hội \nnhập.\n Sổ tay sinh viên 2022 5\nNhân bản\nTrường cổ vũ mục đích giáo dục là mang lại cho mỗi người cơ hội phát \ntriển tiềm năng của bản thân để trở thành các cá nhân có năng lực sống và \nlàm việc cũng như ý thức trách nhiệm đối với bản thân, môi trường sống và xã \nhội.\nRộng mở\nTrường cho rằng mọi người đều có quyền bình đẳng về giáo dục và vai \ntrò của Trường là cung cấp cơ hội học tập để mọi người vượt qua các rào cản \nvề không gian, thời gian và những ràng buộc khác.\nThực tiễn\nTrường mong muốn người học không chỉ có kiến thức nền tảng mà còn \ncó năng lực giải quyết các vấn đề đặt ra trong cuộc sống và công việc.\nHội nhập\nTrường cho rằng trong bối cảnh toàn cầu hóa hiện nay, trường đại học \nphải hướng đến hội nhập quốc tế trong đào tạo, nghiên cứu và quản lý nhà \ntrường."
+
+      ]
+    }
+  ]
+}
