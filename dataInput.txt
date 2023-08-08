@@ -17,37 +17,6 @@ Tiết 3 14:55 15:45
 Tiết 4 15:45 16:35
 Bố trí 4,5 tiết 17:00
 Tối 5 Bố trí 3,0 tiết Từ 17:30 đến 20:00
-8.1 dfsa
-Hệ thống thông tin Trường Đại học Mở Thành phố Hồ Chí Minh trên mạng
-Internet cung cấp cho sinh viên các dịch vụ sau:
-Website chính của trường tại địa chỉ: www.ou.edu.vn
-Đây là nơi cung cấp các thông tin giới thiệu về trường. Giới thiệu thông
-tin về các khoa, phòng ban trực thuộc về chức năng, nhiệm vụ, đội ngũ quản
-lý, giảng viên và nhân viên, chương trình đào tạo,... Ngoài ra website còn cung
-cấp các thông báo cho sinh viên, tin tức về các hoạt động của trường.
-Hệ thống thông tin Trường Đại học Mở Thành phố Hồ Chí Minh trên mạng
-Internet cung cấp cho sinh viên các dịch vụ sau:
-Website chính của trường tại địa chỉ: www.ou.edu.vn
-Đây là nơi cung cấp các thông tin giới thiệu về trường. Giới thiệu thông
-tin về các khoa, phòng ban trực thuộc về chức năng, nhiệm vụ, đội ngũ quản
-lý, giảng viên và nhân viên, chương trình đào tạo,... Ngoài ra website còn cung
-cấp các thông báo cho sinh viên, tin tức về các hoạt động của trường.
-a. sfawg
-8.2 dfsa
-Hệ thống thông tin Trường Đại học Mở Thành phố Hồ Chí Minh trên mạng
-Internet cung cấp cho sinh viên các dịch vụ sau:
-Website chính của trường tại địa chỉ: www.ou.edu.vn
-Đây là nơi cung cấp các thông tin giới thiệu về trường. Giới thiệu thông
-tin về các khoa, phòng ban trực thuộc về chức năng, nhiệm vụ, đội ngũ quản
-lý, giảng viên và nhân viên, chương trình đào tạo,... Ngoài ra website còn cung
-cấp các thông báo cho sinh viên, tin tức về các hoạt động của trường.
-Hệ thống thông tin Trường Đại học Mở Thành phố Hồ Chí Minh trên mạng
-Internet cung cấp cho sinh viên các dịch vụ sau:
-Website chính của trường tại địa chỉ: www.ou.edu.vn
-Đây là nơi cung cấp các thông tin giới thiệu về trường. Giới thiệu thông
-tin về các khoa, phòng ban trực thuộc về chức năng, nhiệm vụ, đội ngũ quản
-lý, giảng viên và nhân viên, chương trình đào tạo,... Ngoài ra website còn cung
-cấp các thông báo cho sinh viên, tin tức về các hoạt động của trường.
 9. GIỚI THIỆU VỀ HỆ THỐNG THÔNG TIN DÀNH CHO SINH VIÊN
 Hệ thống thông tin Trường Đại học Mở Thành phố Hồ Chí Minh trên mạng
 Internet cung cấp cho sinh viên các dịch vụ sau:

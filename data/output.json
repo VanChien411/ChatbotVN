@@ -1,0 +1,185 @@
+{
+  "intents": [
+    {
+      "tag": "6NơiSinhViênLiênHệ",
+      "patterns": [
+        " Tôi cần liên hệ với văn phòng của các khoa ở đại học, điều đó có thể làm ở đâu?",
+        " Tôi nên liên hệ với phòng Quản lý đào tạo ở đâu?",
+        " Tôi phải liên hệ với phòng Công tác Sinh viên và Truyền thông ở đâu?",
+        " Tôi muốn liên hệ với phòng Tài chính - Kế toán, tôi phải làm thế nào?",
+        " Ở đại học có trạm Y tế nào mà sinh viên có thể liên hệ?",
+        " Tôi cần liên hệ với phòng Khảo thí, tôi nên tìm đến đâu?",
+        " Tôi muốn tìm hiểu về thư viện của đại học, tôi nên hỏi ai?",
+        " Tôi cần liên hệ với đoàn Thanh niên - Hội Sinh viên, tôi phải nhờ ai?",
+        " Tôi muốn liên hệ với Trung tâm Quản lý hệ thống thông tin, điều đó có thể làm ở đâu?",
+        " Tôi cần liên hệ với phòng Thanh tra - Pháp chế, tôi nên tìm đến đâu?",
+        " Tôi muốn biết về Khoa khoa học cơ bản, tôi phải liên hệ với ai?",
+        " Liên hệ với phòng Hợp tác & Quản lý khoa học làm sao?",
+        " Tôi muốn tìm hiểu về Trung tâm Đào tạo ngắn hạn và Ngoại ngữ - Tin học, tôi nên hỏi ai?",
+        " Tôi cần liên hệ với Trung tâm Đào tạo Từ xa, tôi phải làm thế nào?",
+        " Liên hệ với Trung tâm Đào tạo trực tuyến làm sao?",
+        " Tôi muốn biết về Trung tâm học liệu, tôi nên tìm đến đâu?"
+      ],
+      "responses": [
+        "\n6. NƠI SINH VIÊN LIÊN HỆ\n6.1. Văn phòng các khoa\n6.2. Phòng Quản lý đào tạo\n6.3. Phòng Công tác Sinh viên và Truyền Thông\n6.4. Phòng Tài chính – Kế toán\n6.5. Trạm Y tế\n6.6. Phòng Khảo thí\n6.7. Thư viện\n6.8. Đoàn Thanh niên – Hội Sinh viên\n6.9. Trung tâm Quản lý hệ thống thông tin\n6.10. Phòng Thanh tra – Pháp chế\n6.11. Khoa khoa học cơ bản\n6.12. Phòng Hợp tác & Quản lý khoa học\n6.13. Trung tâm Đào tạo ngắn hạn và Ngoại ngữ - Tin học (Center for\n6.14. Trung tâm Đào tạo Từ xa\n6.15. Trung tâm Đào tạo trực tuyến\n6.16. Trung tâm học liệu\nTP. Thủ Dầu Một, Bình Dương"
+      ]
+    },
+    {
+      "tag": "61VănPhòngCácKhoa",
+      "patterns": [
+        " Làm thế nào để lập kế hoạch học tập cho học kỳ, năm học?",
+        " Kế hoạch học tập bao gồm những gì (học lý thuyết, thực hành, thực tập tốt nghiệp, thi học kỳ...) và được hướng dẫn thực hiện như thế nào?",
+        " Làm thế nào để có được giấy giới thiệu để thực tập hoặc tham quan?",
+        " Có những quy định nào về tổ chức lớp sinh viên, Ban cán sự lớp, cố vấn học tập, chủ nhiệm lớp tại khoa?",
+        " Làm thế nào để tổ chức hoạt động ngoại khóa, hoạt động tình nguyện, xã hội tại khoa?",
+        " Làm thế nào để được hướng dẫn về học bổng tại khoa?"
+      ],
+      "responses": [
+        "\n6.1. Văn phòng các khoa\n- Kế hoạch học tập học kỳ, năm học (học lý thuyết, thực hành, thực tập tốt nghiệp, thi học kỳ…) và hướng dẫn thực hiện kế hoạch;\n- Cấp giấy giới thiệu cho sinh viên đi thực tập; tham quan;\n Sổ tay sinh viên 2022 11\n- Tổ chức lớp sinh viên, Ban cán sự lớp, cố vấn học tập, chủ nhiệm lớp, tổ chức hoạt động ngoại khóa, hoạt động tình nguyện, xã hội, các cuộc thi cấp khoa; hướng dẫn học bổng;…"
+      ]
+    },
+    {
+      "tag": "62PhòngQuảnLýĐàoTạo",
+      "patterns": [
+        " Liên hệ với Phòng Quản lý đào tạo ở đâu và thông tin liên lạc là gì?",
+        " Lịch tiếp sinh viên hàng ngày của Phòng Quản lý đào tạo là khi nào?",
+        " Làm thế nào để lấy giấy giới thiệu cho sinh viên đi thực tập hoặc tham quan?",
+        " Phòng Quản lý đào tạo có hướng dẫn về kế hoạch học tập học kỳ và năm học không?",
+        " Ai là người hướng dẫn thực hiện kế hoạch học tập và có thể cung cấp thông tin liên quan?",
+        " Có tổ chức lớp sinh viên và Ban cán sự lớp không? Làm thế nào để tham gia và cần biết những điều gì?",
+        " Phòng Quản lý đào tạo có tổ chức hoạt động ngoại khóa và hoạt động tình nguyện không? Tôi có thể tham gia như thế nào?",
+        " Làm thế nào để đăng ký học bổng và có hướng dẫn cụ thể về quy trình?",
+        " Có thông tin về cấp giấy chứng nhận tốt nghiệp không? Tôi nên liên hệ với ai để biết thêm thông tin?"
+      ],
+      "responses": [
+        "\n6.2. Phòng Quản lý đào tạo\nLiên hệ: Phòng 005 - 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3; Phòng 001\n- 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1\nĐiện thoại: (028) 39300072 - (028) 392 07626\nWebsite: www.ou.edu.vn/qldt E-mail: quanlydaotao@ou.edu.vn\n- Lịch tiếp sinh viên hàng ngày, buổi sáng từ 8:00 đến 11:30, buổi chiều từ 13:00 đến 16:30 tại phòng 005 từ thứ 2- thứ 6;\n- Quản lý thực hiện Chương trình đào tạo;\n- Xây dựng kế hoạch và giám sát việc thực hiện kế hoạch đào tạo năm học, học kỳ;\n- Xếp thời khóa biểu, lịch thi học kỳ, điều phối giảng đường;\n- Tổ chức đăng ký môn học trực tuyến cho sinh viên;\n- Cấp chứng nhận sinh viên, thẻ sinh viên, bảng điểm;\n- Xét miễn, giảm môn học, hoàn học phí;\n- Giải quyết đơn chuyển trường, chuyển ngành, đăng ký học hai ngành;\n- Giải quyết thôi học và rút hồ sơ;\n- Cấp chứng nhận tốt nghiệp tạm thời; bản sao bằng tốt nghiệp, bản sao các giấy tờ, chứng chỉ do nhà trường cấp;\n- Cấp chứng chỉ Giáo dục thể chất, chứng chỉ giáo dục quốc phòng và an ninh, chứng chỉ Tin học, Ngoại ngữ;\n- Xét tạm ngừng học tập, học lại sau khi tạm nghỉ, khóa/mở mã số sinh viên khi sinh viên bị buộc tạm dừng học."
+      ]
+    },
+    {
+      "tag": "63PhòngCôngTácSinhViênVàTruyềnThông",
+      "patterns": [
+        " Lịch tiếp sinh viên hàng ngày của Phòng Công tác Sinh viên và Truyền Thông là khi nào?",
+        " Địa chỉ và thông tin liên hệ của Phòng Công tác Sinh viên và Truyền Thông là gì?",
+        " Có thể liên hệ với Phòng Công tác Sinh viên và Truyền Thông qua số điện thoại nào?",
+        " Phòng Công tác Sinh viên và Truyền Thông có hotline không? Vui lòng cung cấp số hotline.",
+        " Phòng Công tác Sinh viên và Truyền Thông hoạt động vào các buổi nào trong ngày?",
+        " Trang web của Phòng Công tác Sinh viên và Truyền Thông là gì?",
+        " Email liên hệ với Phòng Công tác Sinh viên và Truyền Thông là gì?",
+        " Phòng Công tác Sinh viên và Truyền Thông có cung cấp thông tin về hoạt động sinh viên không?",
+        " Phòng Công tác Sinh viên và Truyền Thông đảm nhiệm nhiệm vụ gì trong trường Đại học?",
+        " Có thể tìm hiểu thêm thông tin về Phòng Công tác Sinh viên và Truyền Thông ở đâu?"
+      ],
+      "responses": [
+        "\n6.3. Phòng Công tác Sinh viên và Truyền Thông\nLiên hệ: Phòng 003, 008 – 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3\nĐiện thoại: (028) 39302146 – (028) 39300077 Hotline: (028) 39330660\nWebsite: www.ou.edu.vn/osa E-mail: osa@ou.edu.vn\n- Lịch tiếp sinh viên hàng ngày: sáng từ 8:00 đến 12:00, chiều từ 13:00 đến\n17:00 từ Thứ hai đến Thứ sáu tại Phòng 003 và văn phòng đại diện tại cơ sở Nguyễn Kiệm;\n12 Sổ tay sinh viên 2022\n- Tổ chức tuần lễ sinh hoạt công dân đầu năm học, đầu khóa, cuối khóa;\n- Nắm bắt, định hướng về công tác tư tưởng, đạo đức, lối sống trong sinh viên;\n- Quản lý công tác thông tin tư liệu, hình ảnh về các mặt hoạt động, công tác tuyên truyền, cổ động của trường và các đơn vị trong và ngoài trường;\n- Quản lý thực hiện các chế độ chính sách cho sinh viên: thực hiện miễn giảm học phí sinh viên diện chính sách, vay vốn Ngân hàng chính sách xã hội, sổ ưu đãi giáo dục, hỗ trợ chi phí học tập,…\n- Theo dõi lớp sinh viên, ban cán sự lớp, chủ nhiệm lớp, cố vấn học tập.\n- Theo dõi công tác đánh giá kết quả rèn luyện, đăng ký ngoại trú, công tác khen thưởng, kỷ luật, xác nhận hạnh kiểm…\n- Tổ chức xét học bổng Tài năng, học bổng Khuyến khích học tập, học bổng Vượt khó học tập, học bổng Tiếp sức đến Trường,học bổng Tuyển sinh, các học bổng tài trợ khác,…\n- Tổ chức các hoạt động ngoại khóa như văn hóa, văn nghệ, thể dục thể thao, ngày hội nghề nghiệp, các cuộc thi của sinh viên;\n- Tổ chức hoạt động hỗ trợ và dịch vụ sinh viên như: tổ chức lễ khai giảng, tổ chức lễ tốt nghiệp, công tác cựu sinh viên, tổ chức báo cáo chuyên đề, Câu lạc bộ - Đội - Nhóm, giới thiệu nhà trọ;\n- Trung tâm Hướng nghiệp và tư vấn việc làm, thực tập, tư vấn hướng nghiệp, nơi thực tập, tư vấn học tập, tổ chức huấn luyện, đào tạo, bồi dưỡng kỹ năng mềm…\n- Cung cấp đồng phục giáo dục thể chất cho sinh viên toàn trường."
+      ]
+    },
+    {
+      "tag": "64PhòngTàiChínhKếToán",
+      "patterns": [
+        " Làm thủ tục đóng học phí như thế nào?",
+        " Cách thu học phí khi nhập học đầu khóa ra sao?",
+        " Quy trình và thời gian xin cấp lại bảng điểm?",
+        " Tôi muốn biết về các khoản dịch vụ tài chính khác mà phòng tài chính - kế toán hỗ trợ?",
+        " Làm thế nào để liên hệ với phòng tài chính - kế toán của trường?",
+        " Tôi muốn biết về thông tin tài chính liên quan đến khoá học của mình, tôi có thể tham khảo ở đâu?",
+        " Có thể giải đáp về các vấn đề tài chính, quy tắc thanh toán và hỗ trợ tài chính khác từ phòng tài chính - kế toán không?"
+      ],
+      "responses": [
+        "\n6.4. Phòng Tài chính – Kế toán\nLiên hệ: Phòng 601 - 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1\nĐiện thoại: (028) 39207632\nQuầy giao dịch: phòng 009 - 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3\nWebsite: www.ou.edu.vn/Pages/Phong-tai-chinh-ke-toan\nE-mail: ptckt@ou.edu.vn\n- Thu học phí khi nhập học đầu khóa;\n- Thu các khoản dịch vụ khác như: cấp lại bảng điểm, cấp lại thẻ sinh viên,\n Sổ tay sinh viên 2022 13 cấp giấy xác nhận sinh viên, mở khóa mã số sinh viên, sao y bản chính, lễ tốt nghiệp;\n- Hoàn trả học phí cho sinh viên: Thủ tục hoàn học phí như sau:\n+ Đối với sinh viên hệ chính quy liên hệ Phòng Quản lý đào tạo (P.005);\n+ Sinh viên đến Phòng Tài chính - Kế toán để hoàn trả học phí phải mang theo các giấy tờ sau: Phiếu hoàn học phí, Thẻ sinh viên hoặc CMND, bản chính + 01 bản photo của biên lai đóng tiền học phí có môn học được hoàn;\n- Chi, chuyển khoản tiền khen thưởng, học bổng, phụ cấp ban cán sự lớp;\n- Xác nhận đã đóng học phí cho sinh viên làm mất biên lai đóng tiền (nếu có);\n- Đổi biên lai cho những sinh viên đóng tiền học phí qua ngân hàng."
+      ]
+    },
+    {
+      "tag": "65TrạmYTế",
+      "patterns": [
+        " Trạm Y tế có địa chỉ và thông tin liên hệ như thế nào?",
+        " Trạm Y tế có cung cấp bảo hiểm y tế và bảo hiểm tai nạn cho sinh viên không?",
+        " Làm thế nào để quản lý hồ sơ khám sức khỏe ban đầu của sinh viên?",
+        " Trạm Y tế có tổ chức hệ thống y tế học đường không? Cung cấp dịch vụ khám và tư vấn sức khỏe không?",
+        " Làm thế nào để xem thông báo và biểu mẫu thanh quyết toán BHYT-BHTN tại trang web của Trạm Y tế?",
+        " Làm thế nào để tra cứu mã BHYT và quyền lợi thẻ BHYT của sinh viên?"
+      ],
+      "responses": [
+        "\n6.5. Trạm Y tế\nLiên hệ: Phòng 104 - 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3\nĐiện thoại: (028) 393 01374\nWebsite: www.ou.edu.vn/tramyte E-mail: tramytesv@ou.edu.vn\n- Bảo hiểm y tế, bảo hiểm tai nạn cho sinh viên;\n- Quản lý hồ sơ khám sức khỏe ban đầu của sinh viên;\n- Tổ chức hệ thống y tế học đường, khám và tư vấn sức khỏe;\n- SV xem thông báo, biểu mẫu thanh quyết toán BHYT-BHTN tại trang web của Trạm y tế.\n- Sinh viên tra cứu mã BHYT và quyền lợi thẻ BHYT trên web: https://baohiemxahoi.gov.vn/tracuu/pages/tra-cuu-thoi-han-su-dung-the\u0002bhyt.aspx"
+      ]
+    },
+    {
+      "tag": "66PhòngKhảoThí",
+      "patterns": [
+        " Lịch thi kết thúc học kỳ sẽ được công bố khi nào?",
+        " Làm thế nào để biết thông tin về điểm thi kết thúc học kỳ?",
+        " Tôi muốn tìm hiểu về quy trình quản lý điểm thi giữa kỳ, thi kết thúc học kỳ và thi/bảo vệ khóa luận/đồ án tốt nghiệp. Bạn có thể giúp tôi không?",
+        " Tôi có thắc mắc về điểm thi, làm thế nào để nhận được giải đáp?",
+        " Có thông tin nào về quy định và quy trình bảo vệ khóa luận/đồ án tốt nghiệp không?"
+      ],
+      "responses": [
+        "\n6.6. Phòng Khảo thí\nLiên hệ: Phòng 501 – 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1\nĐiện thoại: (028) 39207628\nWebsite: www.ou.edu.vn/ttkt E-mail: pktdbcl@ou.edu.vn\n- Tổ chức thi kết thúc học kỳ, công bố điểm thi;\n- Quản lý điểm thi giữa kỳ, thi kết thúc học kỳ, thi/bảo vệ khóa luận/đồ án tốt nghiệp;\n- Giải đáp thắc mắc về điểm thi.\n14 Sổ tay sinh viên 2022"
+      ]
+    },
+    {
+      "tag": "68ĐoànThanhNiênHộiSinhViên",
+      "patterns": [
+        " Địa chỉ và liên hệ của Phòng Đoàn Thanh niên - Hội Sinh viên là gì?",
+        " Văn phòng Đoàn - Hội có nhiệm vụ gì?",
+        " Có thể liên hệ với Đoàn - Hội qua điện thoại hay email như thế nào?",
+        " Trang web và fanpage của Đoàn - Hội là gì?",
+        " Làm thế nào để tham gia Đoàn Thanh niên - Hội Sinh viên trường?",
+        " Đoàn - Hội tổ chức những hoạt động gì cho sinh viên?",
+        " Có thông tin về các cuộc thi, sự kiện do Đoàn - Hội tổ chức không?",
+        " Đoàn - Hội có chương trình tình nguyện nào dành cho sinh viên không?",
+        " Làm thế nào để trở thành thành viên Đoàn Thanh niên - Hội Sinh viên?",
+        " Có chính sách hỗ trợ học bổng từ Đoàn - Hội không?",
+        " Lịch tiếp sinh viên tại Văn phòng Đoàn - Hội là khi nào?"
+      ],
+      "responses": [
+        "\n6.8. Đoàn Thanh niên – Hội Sinh viên\nLiên hệ: Phòng 101 và 103A – 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3\nĐiện thoại: (028) 39 300 154\nWebsite: www.ou.edu.vn/dtn E-mail: vanphongdoanhoi@ou.edu.vn\nFanpage: https://www.facebook.com/aoxanhou.\nVăn phòng Đoàn - Hội là nơi Đoàn trường - Hội sinh viên trường tiếp nhận các thông tin và là cơ quan phát ngôn đại diện của BTV Đoàn trường và BTK Hội sinh viên trường;\nMột số nghiệp vụ thường được thực hiện tại Văn phòng Đoàn - Hội:\n- Lưu giữ, rút sổ Đoàn; chuyển sinh hoạt Đoàn cho Đoàn viên;\n- Tiếp nhận thông tin và cố vấn cho sinh viên về các vấn đề như sinh hoạt, việc làm, nhà trọ, bảo vệ quyền lợi hợp pháp chính đáng cho sinh viên\n Sổ tay sinh viên 2022 15\n- Giới thiệu thông tin về các chương trình, hoạt động, phong trào liên quan trực tiếp đến sinh viên;\n- Tiếp nhận và đăng thông tin của các cá nhân về các vấn đề như chia sẻ phòng trọ, tìm kiếm nhà trọ, tìm đồ thất lạc, thông báo cá nhân, lên Bảng thông tin và Cổng thông tin điện tử của Đoàn TN - Hội SV;\n- Cung cấp tại chỗ các tài liệu về đoàn thể chính trị, văn hóa, kiến thức, lịch sử;\nCác hỗ trợ khác dành cho sinh viên."
+      ]
+    },
+    {
+      "tag": "69TrungTâmQuảnLýHệThốngThôngTin",
+      "patterns": [
+        " Trung tâm Quản lý hệ thống thông tin cung cấp những dịch vụ gì?",
+        " Làm thế nào để truy cập vào hệ thống mạng nội bộ của trường?",
+        " Làm thế nào để đăng ký môn học trực tuyến?",
+        " Trung tâm có phụ trách quản lý website của trường không? ",
+        " Làm thế nào để đăng ký và sử dụng email đại học?",
+        " Hệ thống E-Learning của trường được quản lý bởi trung tâm hay không?",
+        " Trung tâm có quản lý hệ thống đăng ký môn học trực tuyến không?",
+        " Đâu là các hệ thống hỗ trợ đào tạo trực tuyến mà trung tâm quản lý?",
+        " Tôi cần hỗ trợ với việc sử dụng hệ thống MOOC, tôi nên liên hệ ở đâu?",
+        " Trung tâm có hỗ trợ về vấn đề kỹ thuật cho sinh viên không?"
+      ],
+      "responses": [
+        "\n6.9. Trung tâm Quản lý hệ thống thông tin\nLiên hệ: phòng 101 – số 35, 37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1\nĐiện thoại: (028) 39.303.595 – (028) 39.207.621\nWebsite: www.qlhttt.ou.edu.vn/vi E-mail: cism@ou.edu.vn\nThực hiện quản trị về mặt kỹ thuật và phối hợp với Thư viện xây dựng và phát triển thư viện điện tử đáp ứng nhu cầu nghiên cứu và học tập.\nTổ chức, xây dựng, vận hành, quản trị và bảo quản hệ thống mạng nội bộ của trường hoạt động ổn định, an toàn và bảo đảm an ninh. Đảm bảo toàn bộ hệ thống thông tin của trường hoạt động tốt và thông suốt.\nQuản lý mặt kỹ thuật các thành phần trong hệ thống thông tin của trường bao gồm: Website, Mail, Đăng ký môn học trực tuyến, E-Learning, Edusoft, Thunhap, Egov, CVHT,...\nXây dựng, quản lý, vận hành, phát triển các hệ thống hỗ trợ đào tạo trực tuyến như LMS, MOOC."
+      ]
+    },
+    {
+      "tag": "610PhòngThanhTraPhápChế",
+      "patterns": [
+        " Phòng Thanh tra - Pháp chế có địa chỉ và số điện thoại liên hệ là gì?",
+        " Phòng này có nhiệm vụ gì?",
+        " Thanh tra việc thực hiện các chế độ chính sách cho sinh viên và các công tác quản lý sinh viên như thế nào?",
+        " Làm thế nào để tiếp công dân giải quyết đơn khiếu nại, tố cáo thuộc lĩnh vực giáo dục trong nhà trường?",
+        " Làm thế nào để phản ánh, gửi kiến nghị về những vấn đề bức xúc của sinh viên?",
+        " Làm thế nào để kiểm tra kết quả chấm thi kết thúc môn học của sinh viên?",
+        " Tại đâu có thể tra cứu quy định và biểu mẫu về xem lại kết quả bài thi?"
+      ],
+      "responses": [
+        "\n6.10. Phòng Thanh tra – Pháp chế\nLiên hệ: Phòng 701 – 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1\nĐiện thoại: (028) 39207634\nWebsite: www.ou.edu.vn/thanhtra E-mail: ttdt@ou.edu.vn\n- Thanh tra việc thực hiện các chế độ chính sách cho sinh viên và các công tác quản lý sinh viên;\n- Thực hiện nhiệm vụ tiếp công dân giải quyết đơn khiếu nại, tố cáo thuộc lĩnh vực giáo dục trong nhà trường theo quy định của pháp luật;\n- Tiếp nhận và xử lý các phản ánh, kiến nghị về những vấn đề bức xúc của sinh viên;\n- Kiểm tra kết quả chấm thi kết thúc môn học của sinh viên. Sinh viên tra cứu quy định và biểu mẫu về xem lại kết quả bài thi tại: http://ou.edu.vn/thanhtra/Pages/Quy-trinh-nghiep-vu.aspx."
+      ]
+    },
+    {
+      "tag": "611KhoaKhoaHọcCơBản",
+      "patterns": [],
+      "responses": [
+        "\n6.11. Khoa khoa học cơ bản\nLiên hệ: Phòng 502 – 35-37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1\nĐiện thoại: (028) 38386607\nWebsite: www.ou.edu.vn/bancoban E-mail: bancoban@ou.edu.vn\n- Phụ trách giảng dạy các môn học thuộc khối giáo dục đại cương gồm các bộ môn Lý luận Chính trị, Toán, Giáo dục thể chất và Giáo dục quốc phòng –\nAn ninh và Tin học không chuyên."
+      ]
+    },
+    {
+      "tag": "612PhòngHợpTácQuảnLýKhoaHọc",
+      "patterns": [],
+      "responses": [
+        "\n6.12. Phòng Hợp tác & Quản lý khoa học\nLiên hệ: Phòng 201 – 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1\nĐiện thoại: (028) 39207622\nWebsite: www.ou.edu.vn/htqlkh E-mail: phtqlkh@ou.edu.vn\n- Quản lý công tác nghiên cứu khoa học (NCKH) của sinh viên: các đề tài đã thực hiện, tập huấn, hỗ trợ, lập kế họach, theo dõi hàng năm…\n- Xác nhận sinh viên tham gia NCKH;\n- Khen thưởng sinh viên NCKH các cấp;\n- Quản lý việc sinh viên xin phép tham gia các hoạt động ở nước ngoài."
+      ]
+    }
+  ]
+}

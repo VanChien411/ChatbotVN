@@ -1,20 +1,2 @@
-def standardize_data(input_file, output_file):
-    try:
-        with open(input_file, 'r', encoding='utf-8') as f_input:
-            with open(output_file, 'w', encoding='utf-8') as f_output:
-                for line in f_input:
-                    current_line = line.strip()
-                    if current_line and current_line[0].islower():
-                        f_output.write(' ' + current_line)
-                    else:
-                        f_output.write('\n' + current_line)
+data = {0: [{'index': 1, 'wordForm': 'Ông', 'posTag': 'Nc', 'nerLabel': 'O', 'head': 4, 'depLabel': 'sub'}, {'index': 2, 'wordForm': 'Nguyễn_Khắc_Chúc', 'posTag': 'Np', 'nerLabel': 'B-PER', 'head': 1, 'depLabel': 'nmod'}, {'index': 3, 'wordForm': 'đang', 'posTag': 'R', 'nerLabel': 'O', 'head': 4, 'depLabel': 'adv'}, {'index': 4, 'wordForm': 'làm_việc', 'posTag': 'V', 'nerLabel': 'O', 'head': 0, 'depLabel': 'root'}, {'index': 5, 'wordForm': 'tại', 'posTag': 'E', 'nerLabel': 'O', 'head': 4, 'depLabel': 'loc'}, {'index': 6, 'wordForm': 'Đại_học', 'posTag': 'N', 'nerLabel': 'B-ORG', 'head': 5, 'depLabel': 'pob'}, {'index': 7, 'wordForm': 'Quốc_gia', 'posTag': 'N', 'nerLabel': 'I-ORG', 'head': 6, 'depLabel': 'nmod'}, {'index': 8, 'wordForm': 'Hà_Nội', 'posTag': 'Np', 'nerLabel': 'I-ORG', 'head': 6, 'depLabel': 'nmod'}, {'index': 9, 'wordForm': '.', 'posTag': 'CH', 'nerLabel': 'O', 'head': 4, 'depLabel': 'punct'}], 1: [{'index': 1, 'wordForm': 'Bà', 'posTag': 'Nc', 'nerLabel': 'O', 'head': 9, 'depLabel': 'sub'}, {'index': 2, 'wordForm': 'Lan', 'posTag': 'Np', 'nerLabel': 'B-PER', 'head': 1, 'depLabel': 'nmod'}, {'index': 3, 'wordForm': ',', 'posTag': 'CH', 'nerLabel': 'O', 'head': 1, 'depLabel': 'punct'}, {'index': 4, 'wordForm': 'vợ', 'posTag': 'N', 'nerLabel': 'O', 'head': 1, 'depLabel': 'nmod'}, {'index': 5, 'wordForm': 'ông', 'posTag': 'Nc', 'nerLabel': 'O', 'head': 4, 'depLabel': 'nmod'}, {'index': 6, 'wordForm': 'Chúc', 'posTag': 'Np', 'nerLabel': 'B-PER', 'head': 5, 'depLabel': 'nmod'}, {'index': 7, 'wordForm': ',', 'posTag': 'CH', 'nerLabel': 'O', 'head': 1, 'depLabel': 'punct'}, {'index': 8, 'wordForm': 'cũng', 'posTag': 'R', 'nerLabel': 'O', 'head': 9, 'depLabel': 'adv'}, {'index': 9, 'wordForm': 'làm_việc', 'posTag': 'V', 'nerLabel': 'O', 'head': 0, 'depLabel': 'root'}, {'index': 10, 'wordForm': 'tại', 'posTag': 'E', 'nerLabel': 'O', 'head': 9, 'depLabel': 'loc'}, {'index': 11, 'wordForm': 'đây', 'posTag': 'P', 'nerLabel': 'O', 'head': 10, 'depLabel': 'pob'}, {'index': 12, 'wordForm': '.', 'posTag': 'CH', 'nerLabel': 'O', 'head': 9, 'depLabel': 'punct'}]}
 
-
-        print("Chuẩn hóa dữ liệu thành công!")
-    except FileNotFoundError:
-        print(f"Không tìm thấy file {input_file}.")
-
-
-
-# Gọi hàm để chuẩn hóa dữ liệu từ dataInput.txt đến dataOutput.txt
-standardize_data("dataInput.txt", "dataOutput.txt")

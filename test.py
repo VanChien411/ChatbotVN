@@ -1,16 +1,16 @@
-def process_data(input_string):
-    # Tách các phần số bằng dấu chấm và loại bỏ các ký tự không phải số
-    numbers = [int(num) for num in input_string.split('.') if num.isdigit()]
+import py_vncorenlp
 
-    return len(numbers), numbers
+# Automatically download VnCoreNLP components from the original repository
+# and save them in some local machine folderr
+py_vncorenlp.download_model(save_dir='C:/Users/phuth/AppData/Local/Programs/Python/Python311/Lib/site-packages/py_vncorenlp')
 
+model = py_vncorenlp.VnCoreNLP(save_dir='C:/Users/phuth/AppData/Local/Programs/Python/Python311/Lib/site-packages/py_vncorenlp')
+# Equivalent to: model = py_vncorenlp.VnCoreNLP(annotators=["wseg", "pos", "ner", "parse"], save_dir='/absolute/path/to/vncorenlp')
 
-# Ví dụ sử dụng hàm:
-input_data_1 = "1.3.14.5"
-input_data_2 = "1.32.3."
+# Annotate a raw corpus
+#model.annotate_file(input_file="/absolute/path/to/input/file", output_file="/absolute/path/to/output/file")
 
-count_1, numbers_1 = process_data(input_data_1)
-count_2, numbers_2 = process_data(input_data_2)
-
-print("Dữ liệu {} có {} số: {}".format(input_data_1, count_1, numbers_1))
-print("Dữ liệu {} có {} số: {}".format(input_data_2, count_2, numbers_2))
+# Annotate a raw text
+print(model.annotate_text("Ông Nguyễn Khắc Chúc  đang làm việc tại Đại học Quốc gia Hà Nội. Bà Lan, vợ ông Chúc, cũng làm việc tại đây."))
+model.print_out(model.annotate_text("Ông A được A điểm. Chú ông vàng."))
+model.print_out(model.annotate_text("Ông A là chú hàng xóng bên \nChú Ông vàng.\n Email: 2031@df"))
