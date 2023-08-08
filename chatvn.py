@@ -12,7 +12,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 with open('intents.json', 'r',encoding='utf-8') as json_data:
     intents = json.load(json_data)
 
-FILE = "data.pth"
+FILE = "data/dataTrain.pth"
 data = torch.load(FILE)
 
 input_size = data["input_size"]
@@ -52,3 +52,4 @@ while True:
                 print(f"{bot_name}: {random.choice(intent['responses'])}")
     else:
         print(f"{bot_name}: I do not understand...")
+        
