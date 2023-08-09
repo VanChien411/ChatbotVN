@@ -59,8 +59,8 @@ def tokenize(sentence,model):
     """
     doc = model.annotate_text(sentence)
     result_array = []
-    
-    # Trích xuất wordForm và posTag từ dictionary và lưu vào mảng
+    model.print_out(doc)
+    # Trích xuất wordForm và posTag từ dictionary và lưu vào mảngdoc
     for key in doc:
         for item in doc[key]:
             wordForm = item['wordForm']

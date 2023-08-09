@@ -2,7 +2,7 @@ import random
 import json
 
 import torch
-
+import py_vncorenlp
 from model import NeuralNet
 
 from nltk_utils import bag_of_words, tokenize, initVncorenlp, stem 
@@ -36,10 +36,11 @@ while True:
     sentence = input("You: ")
     if sentence == "quit":
         break
-
+        
     sentence = tokenize(sentence,model1)
     sentence = [{"wordForm": stem(item["wordForm"]), "posTag": item["posTag"]} for item in sentence]        
     print(sentence)
+   
     X = bag_of_words(sentence, all_words)
     X = X.reshape(1, X.shape[0])
     X = torch.from_numpy(X).to(device)
