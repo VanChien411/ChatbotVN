@@ -80,6 +80,7 @@ def countDots(str, char):
 # Từng đoạn đến level 0 tiếp theo
 def split_sections_zero(sections, arr):
     newSection = []
+    leaderParagraphs = []
     sum = 0
     # level có cấp bậc thấp nhất
     min_level = 0;
@@ -92,21 +93,39 @@ def split_sections_zero(sections, arr):
 
     if sum > 300 and len(sections) > 1:
 #         Tách mảng ra thành dạng menu
+        count_leader_paragraph = 0 
         for section in sections:
-            if section["level"] != min_level:
+            if section["level"] != min_level or min_level == 1:
                 sectionCopy = section.copy()
-                sectionCopy["paragraph"] = sectionCopy["paragraph"].split('\n')[0]
+                if count_leader_paragraph != 0: 
+                    sectionCopy["paragraph"] = sectionCopy["paragraph"].split('\n')[0]
+                else:
+                    sectionCopy["paragraph"] = sectionCopy["paragraph"].split('\n')[0] + '&menu&'
                 arr.append(sectionCopy)
+            count_leader_paragraph += 1 
+                
+        section_pre = {"level":sections[0]["level"], "paragraph":sections[0]["paragraph"]}
+
         for section in sections:
             if section["level"] != 0:
-                tam = {"level":section["level"] - 1, "paragraph":section["paragraph"]}
+                if section_pre != "" :
+                    if section_pre["level"] < section["level"]:
+                        leaderParagraphs.append(section_pre["paragraph"][:])
+                    elif section_pre["level"] > section["level"]:
+                        leaderParagraphs.pop()
+                if '\n' in section["paragraph"]:
+                    set_leader = section["paragraph"].split('\n')[:]
+                    tam = {"level":section["level"] - 1, "paragraph":set_leader[0] + " của " + leaderParagraphs[-1] + '\n' + set_leader[1] }
+                else:
+                    tam = {"level":section["level"] - 1, "paragraph":section["paragraph"] + " của " + leaderParagraphs[-1] }
                 newSection.append(tam)
+            section_pre = {"level":section["level"], "paragraph":section["paragraph"]}
 
         return split_sections_zero(newSection, arr)
     else:
         for section in sections:
             arr.append(section)
-        return arr
+        return  arr
 
 # Tạo ra menu và nội dung hoàn chỉnh
 def fineSection(sections):
@@ -123,6 +142,68 @@ def fineSection(sections):
         fineSection.append(item)
     return fineSection
 
+#Chuyển đổi dữ liệu sang dạng json để chatbot có thể train 
+def convert_data_to_json(sections):
+    arr_intent = []
+    tag = ""
+    patterns = []
+    responses = []
+    response = ""
+    leader_paragraph = ""
+    count = 0 
+    for section in sections:
+        if section["level"] == 0: 
+            
+            if count != 0:
+                responses.append(response)
+                arr_intent.append({"tag": tag,"patterns": patterns, "responses": responses})
+            patterns = []
+            responses = []
+            response = ""
+            if '&menu&' in section["paragraph"]:
+                #xóa ký tự '&menu&' vì đã nhận diện được đây là menu không cần giữ lại '&menu&'
+                section["paragraph"] = section["paragraph"].replace('&menu&', "")
+                leader_paragraph = "" 
+            else:                
+                leader_paragraph = section["paragraph"][:]
+            if '\n' in section["paragraph"]:              
+                split_section = section["paragraph"].split('\n')
+                patterns.append(split_section[0])
+                tag = tag_standardizationt(split_section[0])
+            else:
+                patterns.append(section["paragraph"])
+                tag = tag_standardizationt(section["paragraph"])  
+        else:  
+            #kiểm tra đây có phải những phần tử của menu (&menu&)
+            if leader_paragraph != "":
+                if '\n' in section["paragraph"]:
+                    set_leader = section["paragraph"].split('\n')[:]
+                    tam = set_leader[0]  
+                    patterns.append(tam)
+                else:
+                    patterns.append(section["paragraph"])       
+            
+        if count != 0:
+            response += '\n' + section["paragraph"]
+        else:
+            response += section["paragraph"]
+        count += 1 
+       
+    #Them doan  cuoi 
+    responses.append(response)
+    arr_intent.append({"tag": tag,"patterns": patterns, "responses": responses})    
+    return arr_intent
+    
+    
+# Chuẩn hóa tag     
+def tag_standardizationt(original_string):
+    words = original_string.split()  # Tách các từ theo khoảng trắng
+    lowercase_words = [word.lower() for word in words]  # Chuyển đổi thành chữ cái thường
+    result_string = [word.capitalize() for word in lowercase_words]
+    result_string = ''.join(result_string)  # Nối các từ lại thành một chuỗi
+    
+    return result_string
+
 def write_fileJson(answers):
     tas = {"intents":answers}
     with open("data/output.json", "w", encoding="utf-8") as f_output:
@@ -134,11 +215,12 @@ def standardize_data(input_file, output_file):
             content = f_input.read()
             sections = split_sections(content)
             sections2 = fineSection(sections)
+            sectionsJson = convert_data_to_json(sections2)
             # sau khi phan tách các section thì đưa cho chatgpt.py liệt kê câu hỏi
             question = "tôi muốn tạo chatbot trả lời câu hỏi và với nội dung thế này, hãy liệt kê những câu hỏi thường được sử dụng liên quan đến trọng tâm của nội dung "
             # answers = apiGpt.answer_The_Questions(sections2, question)
             # tas = [{'tag': '8KhungThờiGianRaVàoLớp', 'patterns': [' Buổi học có bao nhiêu tiết?', ' Tiết học đầu tiên vào lúc mấy giờ?', ' Tiết học cuối cùng vào lúc mấy giờ?', ' Giờ giải lao kéo dài bao lâu?', ' Buổi sáng có tổng cộng bao nhiêu tiết học?', ' Buổi chiều có tổng cộng bao nhiêu tiết học?', ' Buổi tối có tổng cộng bao nhiêu tiết học?', ' Cuối buổi học vào lúc mấy giờ?'], 'responses': ['\n8. KHUNG THỜI GIAN RA – VÀO LỚP\nPHỤ LỤC 2\nKHUNG THỜI GIAN RA – VÀO LỚP\nBuổi học Tiết học Giờ bắt đầu Giờ kết thúc\nSáng\nTiết 1 7:00 7:50\nTiết 2 7:50 8:40\nGiải lao 8:40 8:55\nTiết 3 8:55 9:45\nTiết 4 9:45 10:35\nBố trí 4,5 tiết 11:00\nChiều\nTiết 1 13:00 13:50\nTiết 2 13:50 14:40\nGiải lao 14:40 14:55\nTiết 3 14:55 15:45\nTiết 4 15:45 16:35\nBố trí 4,5 tiết 17:00\nTối 5 Bố trí 3,0 tiết Từ 17:30 đến 20:00']}, {'tag': '9GiớiThiệuVềHệThốngThôngTinDànhChoSinhViên', 'patterns': [' Trang web chính của trường là gì?', ' Trang web đăng ký môn học trực tuyến là gì?', ' Làm thế nào để đăng ký môn học trực tuyến?', ' Trang web cung cấp dịch vụ sinh viên là gì?', ' Làm thế nào để sử dụng hệ thống dịch vụ sinh viên?', ' Nơi nào có thể truy cập vào thông tin học tập trực tuyến?', ' Làm sao để sử dụng hệ thống elearning?', ' Cách truy cập vào hệ thống email của sinh viên?', ' Trang web nào hỗ trợ học tập online?', ' Làm sao để đặt sách online?', ' Nơi nào giới thiệu thông tin về việc làm cho sinh viên?', ' Có trang web nào giới thiệu dịch vụ của phòng Công tác Sinh viên không?'], 'responses': ['\n9. GIỚI THIỆU VỀ HỆ THỐNG THÔNG TIN DÀNH CHO SINH VIÊN\nHệ thống thông tin Trường Đại học Mở Thành phố Hồ Chí Minh trên mạng\nInternet cung cấp cho sinh viên các dịch vụ sau:\nWebsite chính của trường tại địa chỉ: www.ou.edu.vn\nĐây là nơi cung cấp các thông tin giới thiệu về trường. Giới thiệu thông tin về các khoa, phòng ban trực thuộc về chức năng, nhiệm vụ, đội ngũ quản lý, giảng viên và nhân viên, chương trình đào tạo,... Ngoài ra website còn cung cấp các thông báo cho sinh viên, tin tức về các hoạt động của trường.\n20 Sổ tay sinh viên 2022\nHệ thống đăng ký môn học trực tuyến tại địa chỉ: https://tienichsv.ou.edu.vn\n(hoặc từ trang web vào mục: “Đăng ký môn học trực tuyến”)\nĐây là nơi sinh viên có thể đăng ký môn học thông qua mạng internet.\nVào đầu mỗi học kỳ, từng sinh viên có thể chủ động chọn đăng ký các môn học phù hợp với mình, vào các nhóm (lớp) được mở trong thời gian thích hợp cho mỗi cá nhân. Để sử dụng hệ thống này, mỗi sinh viên dùng mã số sinh viên như tên đăng nhập. Sinh viên thường xuyên vào http://ou.edu.vn/qldt để xem kế hoạch và quy định đào tạo hằng năm của trường.\nHệ thống dịch vụ sinh viên tại địa chỉ: http://sis.ou.edu.vn\n(hoặc từ trang web vào mục: “Hệ thống thông tin sinh viên”)\nĐây là nơi cung cấp các tiện ích về lịch học, lịch thi, điểm thi, kiểm tra khóa mã, ... của sinh viên và các dịch vụ online khác. Để sử dụng hệ thống này sinh viên cần nhập mã số sinh viên, và mật khẩu.\nSinh viên chính quy: http://learn.ou.edu.vn (cổng thông tin học tập trực tuyến)\nSinh viên hệ từ xa, vừa làm, vừa học: http://lms.oude.edu.vn\nĐây là nơi sinh viên có thể truy cập và tham gia vào các lớp học của khoa để lấy tài liệu, bài giảng, xem thông báo của giáo viên, tham gia các diễn đàn...\nĐể sử dụng hệ thống elearning, sinh viên sử dụng tên đăng nhập là mã số sinh viên, mật khẩu là mật khẩu của hệ thống đăng ký môn học, tên hiển thị là tên sinh viên.\nHệ thống email sử dụng hạ tầng Google Apps tại địa chỉ: https://mail.google.com/mail\nSinh viên khi vào trường sẽ được cấp một tài khoản email trên hạ tầng\nGoogle apps là: Mã số sinh viên + Tên + @ou.edu.vn\nNhà trường sẽ gửi các thông tin, thông báo cho sinh viên thông qua hộp thư này.\nHệ thống Hỗ trợ học tập online: http://lms.ou.edu.vn\nHệ thống hỗ trợ đặt sách online tại địa chỉ: http://thuquan.ou.edu.vn\nĐây là nơi sinh viên có thể truy cập để đặt sách online của Nhà trường.\nTrang web giới thiệu thông tin về các tựa sách của tất cả các khoa, ban nhằm phục vụ cho việc học tập của sinh viên.\nCổng thông tin việc làm: http://vieclam.ou.edu.vn\nHệ thống dịch vụ của phòng Công tác Sinh viên: http://ou.edu.vn sau đó vào mục [sinh viên]\n Sổ tay sinh viên 2022 21']}]
-            # write_fileJson(answers)
+            write_fileJson(sectionsJson)
             print("hoan thanh")
 
 
