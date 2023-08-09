@@ -5,8 +5,7 @@
       "patterns": [
         "Xin chào",
         "Chào bạn",
-        "Chào",
-        "Hi"
+        "Chào"
       ],
       "responses": [
         "Xin chào! Tôi có thể giúp gì cho bạn?",
@@ -18,7 +17,6 @@
       "tag": "goodbye",
       "patterns": [
         "Tạm biệt",
-        "Bye",
         "Hẹn gặp lại"
       ],
       "responses": [
@@ -31,25 +29,12 @@
       "tag": "thanks",
       "patterns": [
         "Cảm ơn",
-        "Thank you",
         "Rất cảm ơn"
       ],
       "responses": [
         "Rất vui được giúp bạn!",
         "Không có gì! Bạn cần thêm thông tin gì nữa không?",
         "Tôi rất vui khi có thể hỗ trợ!"
-      ]
-    },
-     {
-      "tag": "items",
-      "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
-      ],
-      "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
       ]
     },
      {
