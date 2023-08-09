@@ -5,7 +5,7 @@ import torch
 
 from model import NeuralNet
 
-from nltk_utils import bag_of_words, tokenize
+from nltk_utils import bag_of_words, tokenize, initVncorenlp, stem 
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -26,7 +26,10 @@ model = NeuralNet(input_size, hidden_size, output_size).to(device)
 model.load_state_dict(model_state)
 model.eval()
 
-bot_name = "Sam"
+bot_name = "Chatbot ou"
+
+#create phoBert
+model1 = initVncorenlp()
 print("Let's chat! (type 'quit' to exit)")
 while True:
     # sentence = "do you use credit cards?"
@@ -34,7 +37,9 @@ while True:
     if sentence == "quit":
         break
 
-    sentence = tokenize(sentence)
+    sentence = tokenize(sentence,model1)
+    sentence = [{"wordForm": stem(item["wordForm"]), "posTag": item["posTag"]} for item in sentence]        
+    print(sentence)
     X = bag_of_words(sentence, all_words)
     X = X.reshape(1, X.shape[0])
     X = torch.from_numpy(X).to(device)

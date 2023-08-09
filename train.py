@@ -105,48 +105,8 @@ with open(data_file_path, 'w', encoding="utf-8") as f:
 
 '''
 
-code_r = '''
-# Cài đặt các thư viện
-libraries_to_install = [
-    "py-vncorenlp",
-    "numpy",
-    "torch",
-    "random",
-    "json",
-    "sys",
-]
-
-for library in libraries_to_install:
-    subprocess.run(["pip", "install", library])
-import py_vncorenlp
-import numpy as np
-import random
-import json
-import subprocess
-import torch
-import sys
-import torch.nn as nn
-
-from torch.utils.data import Dataset, DataLoader
-
-from nltk_utils import bag_of_words, tokenize, stem, initVncorenlp, deactivate, create_and_activate_virtualenv,run_code_in_virtualenv
-from model import NeuralNet
-
-print("import py-vncorenlp")
-
-with open('intents.json', 'r', encoding='utf-8') as f:
-    intents = json.load(f)
-model1 = initVncorenlp()
-print("init model1")
-all_words = []
-tags = []
-xy = []
-print(sys.prefix)
-
-'''
 # Run the code in the virtual environment
 run_code_in_virtualenv(code_to_run, activate_script)
-#run_code_in_virtualenv(code_r, activate_script)
 
 
 # Use an absolute path to load the data file
