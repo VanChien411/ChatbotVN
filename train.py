@@ -11,8 +11,7 @@ from torch.utils.data import Dataset, DataLoader
 from nltk_utils import bag_of_words, tokenize, stem, initVncorenlp, deactivate, create_and_activate_virtualenv,run_code_in_virtualenv
 from model import NeuralNet
 
-with open('intents.json', 'r', encoding='utf-8') as f:
-    intents = json.load(f)
+
 print(sys.prefix)
 # Create and activate virtual environment
 #create_and_activate_virtualenv("venv_init")
@@ -40,7 +39,7 @@ from nltk_utils import bag_of_words, tokenize, stem, initVncorenlp, deactivate, 
 from model import NeuralNet
 
 print("import py-vncorenlp")
-with open('intents.json', 'r', encoding='utf-8') as f:
+with open('data/output.json', 'r', encoding='utf-8') as f:
     intents = json.load(f)
 model1 = initVncorenlp()
 print("init model1")

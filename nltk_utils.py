@@ -57,6 +57,7 @@ def tokenize(sentence,model):
     """
     Split sentence into array of words/tokens
     """
+    sentence = [word.lower() for word in sentence]  # Chuyển đổi thành chữ cái thường
     doc = model.annotate_text(sentence)
     result_array = []
     model.print_out(doc)

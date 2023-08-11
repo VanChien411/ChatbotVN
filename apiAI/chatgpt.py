@@ -2,9 +2,9 @@ import openai
 import re
 import time
 # Thiết lập API key của bạn
-# api_key = "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"
+# api_key = "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"
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 # %%
 messages = [
     {"role": "system", "content": "You are a kind helpful assistant."},
@@ -99,17 +99,41 @@ def answer_The_Questions(questions, title):
             new_Question += '\n' + questions[i]["paragraph"]
         i += 1
     return answers
-#
-# while True:
-#     message = input("User : ")
-#     if message:
-#         messages.append(
-#             {"role": "user", "content": message},
-#         )
-#         chat = openai.ChatCompletion.create(
-#             model="gpt-3.5-turbo", messages=messages
-#         )
-#
-#     reply = chat.choices[0].message.content
-#     print(f"ChatGPT: {reply}")
-#     messages.append({"role": "assistant", "content": reply})
+
+def answer_question(question, title):
+    message = title + ' ' + question
+    reply = "Không có câu trả lời"
+    try:
+        if message:
+            messages.append(
+                {"role": "user", "content": message},
+            )
+            chat = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                # model="text-davinci-003",
+                messages=messages
+
+            )
+            # Kiểm tra nội dung của câu trả lời có chứa thông báo lỗi hay không
+
+        reply = chat.choices[0].message.content
+    except openai.OpenAIError as e:
+        time.sleep(60)
+        # Xử lý ngoại lệ (lỗi) được trả về từ API ChatGPT
+        print(f"An error occurred: {e}")    
+        
+    return reply
+
+#while True:
+    #message = input("User : ")
+    #if message:
+        #messages.append(
+             #{"role": "user", "content": message},
+         #)
+        #chat = openai.ChatCompletion.create(
+             #model="text-davinci-002", messages=messages
+         #)
+
+    #reply = chat.choices[0].message.content
+    #print(f"ChatGPT: {reply}")
+    #messages.append({"role": "assistant", "content": reply})

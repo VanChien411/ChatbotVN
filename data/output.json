@@ -1,401 +1,397 @@
 {
   "intents": [
     {
-      "tag": "6.NơiSinhViênLiênHệ",
+      "tag": "HànhChínhSinhViên",
       "patterns": [
-        "6. NƠI SINH VIÊN LIÊN HỆ"
+        "HÀNH CHÍNH SINH VIÊN"
       ],
       "responses": [
-        "6. NƠI SINH VIÊN LIÊN HỆ\n6.1. Văn phòng các khoa\n6.2. Phòng Quản lý đào tạo\n6.4. Phòng Tài chính – Kế toán\n6.5. Trạm Y tế\n6.6. Phòng Khảo thí\n6.7. Thư viện\n6.8. Đoàn Thanh niên – Hội Sinh viên\n6.9. Trung tâm Quản lý hệ thống thông tin\n6.10. Phòng Thanh tra – Pháp chế\n6.11. Khoa khoa học cơ bản\n6.12. Phòng Hợp tác & Quản lý khoa học\n6.13. Trung tâm Đào tạo ngắn hạn và Ngoại ngữ - Tin học (Center for\n6.14. Trung tâm Đào tạo Từ xa\n6.15. Trung tâm Đào tạo trực tuyến\n6.16. Trung tâm học liệu"
+        "HÀNH CHÍNH SINH VIÊN\nCác vấn đề liên quan đến xác nhận hạnh kiểm, tham gia hoạt động ngoại  khóa"
       ]
     },
     {
-      "tag": "6.1.VănPhòngCácKhoaCủa6.NơiSinhViênLiênHệ",
+      "tag": "NơiSinhViênLiênHệ",
       "patterns": [
-        "6.1. Văn phòng các khoa của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.1. Văn phòng các khoa của 6. NƠI SINH VIÊN LIÊN HỆ\n- Kế hoạch học tập học kỳ, năm học (học lý thuyết, thực hành, thực tập tốt nghiệp, thi học kỳ…) và hướng dẫn thực hiện kế hoạch;"
+        "\nNƠI SINH VIÊN LIÊN HỆ\n6.1. Văn phòng các khoa\n6.2. Phòng Quản lý đào tạo\n6.4. Phòng Tài chính – Kế toán\n6.5. Trạm Y tế\n6.6. Phòng Khảo thí\n6.7. Thư viện\n6.8. Đoàn Thanh niên – Hội Sinh viên\n6.9. Trung tâm Quản lý hệ thống thông tin\n6.10. Phòng Thanh tra – Pháp chế\n6.11. Khoa khoa học cơ bản\n6.12. Phòng Hợp tác & Quản lý khoa học\n6.13. Trung tâm Đào tạo ngắn hạn và Ngoại ngữ - Tin học (Center for\n6.14. Trung tâm Đào tạo Từ xa\n6.15. Trung tâm Đào tạo trực tuyến\n6.16. Trung tâm học liệu"
       ]
     },
     {
-      "tag": "6.2.PhòngQuảnLýĐàoTạoCủa6.NơiSinhViênLiênHệ",
+      "tag": "VănPhòngCácKhoaCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.2. Phòng Quản lý đào tạo của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Văn phòng các khoa của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.2. Phòng Quản lý đào tạo của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 005 - 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3; Phòng 001- 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
+        "\nVăn phòng các khoa của NƠI SINH VIÊN LIÊN HỆ\n- Kế hoạch học tập học kỳ, năm học (học lý thuyết, thực hành, thực tập tốt nghiệp, thi học kỳ…) và hướng dẫn thực hiện kế hoạch;"
       ]
     },
     {
-      "tag": "6.4.PhòngTàiChính–KếToánCủa6.NơiSinhViênLiênHệ",
+      "tag": "PhòngQuảnLýĐàoTạoCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.4. Phòng Tài chính – Kế toán của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Phòng Quản lý đào tạo của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.4. Phòng Tài chính – Kế toán của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 601 - 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
+        "\nPhòng Quản lý đào tạo của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 005 - 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3; Phòng 001- 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
       ]
     },
     {
-      "tag": "6.5.TrạmYTếCủa6.NơiSinhViênLiênHệ",
+      "tag": "PhòngTàiChính–KếToánCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.5. Trạm Y tế của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Phòng Tài chính – Kế toán của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.5. Trạm Y tế của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 104 - 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
+        "\nPhòng Tài chính – Kế toán của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 601 - 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
       ]
     },
     {
-      "tag": "6.6.PhòngKhảoThíCủa6.NơiSinhViênLiênHệ",
+      "tag": "TrạmYTếCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.6. Phòng Khảo thí của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Trạm Y tế của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.6. Phòng Khảo thí của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 501 – 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
+        "\nTrạm Y tế của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 104 - 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
       ]
     },
     {
-      "tag": "6.7.ThưViệnCủa6.NơiSinhViênLiênHệ",
+      "tag": "PhòngKhảoThíCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.7. Thư viện của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Phòng Khảo thí của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.7. Thư viện của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Thư viện cơ sở chính Phòng 504, lầu 5, số 97 Võ Văn Tần, Quận 3,"
+        "\nPhòng Khảo thí của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 501 – 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
       ]
     },
     {
-      "tag": "6.8.ĐoànThanhNiên–HộiSinhViênCủa6.NơiSinhViênLiênHệ",
+      "tag": "ThưViệnCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.8. Đoàn Thanh niên – Hội Sinh viên của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Thư viện của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.8. Đoàn Thanh niên – Hội Sinh viên của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 101 và 103A – 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
+        "\nThư viện của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Thư viện cơ sở chính Phòng 504, lầu 5, số 97 Võ Văn Tần, Quận 3,"
       ]
     },
     {
-      "tag": "6.9.TrungTâmQuảnLýHệThốngThôngTinCủa6.NơiSinhViênLiênHệ",
+      "tag": "ĐoànThanhNiên–HộiSinhViênCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.9. Trung tâm Quản lý hệ thống thông tin của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Đoàn Thanh niên – Hội Sinh viên của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.9. Trung tâm Quản lý hệ thống thông tin của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: phòng 101 – số 35, 37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
+        "\nĐoàn Thanh niên – Hội Sinh viên của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 101 và 103A – 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
       ]
     },
     {
-      "tag": "6.10.PhòngThanhTra–PhápChếCủa6.NơiSinhViênLiênHệ",
+      "tag": "TrungTâmQuảnLýHệThốngThôngTinCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.10. Phòng Thanh tra – Pháp chế của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Trung tâm Quản lý hệ thống thông tin của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.10. Phòng Thanh tra – Pháp chế của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 701 – 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
+        "\nTrung tâm Quản lý hệ thống thông tin của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: phòng 101 – số 35, 37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
       ]
     },
     {
-      "tag": "6.11.KhoaKhoaHọcCơBảnCủa6.NơiSinhViênLiênHệ",
+      "tag": "PhòngThanhTra–PhápChếCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.11. Khoa khoa học cơ bản của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Phòng Thanh tra – Pháp chế của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.11. Khoa khoa học cơ bản của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 502 – 35-37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
+        "\nPhòng Thanh tra – Pháp chế của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 701 – 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
       ]
     },
     {
-      "tag": "6.12.PhòngHợpTác&QuảnLýKhoaHọcCủa6.NơiSinhViênLiênHệ",
+      "tag": "KhoaKhoaHọcCơBảnCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.12. Phòng Hợp tác & Quản lý khoa học của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Khoa khoa học cơ bản của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.12. Phòng Hợp tác & Quản lý khoa học của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 201 – 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
+        "\nKhoa khoa học cơ bản của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 502 – 35-37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
       ]
     },
     {
-      "tag": "6.13.TrungTâmĐàoTạoNgắnHạnVàNgoạiNgữ-TinHọc(centerForCủa6.NơiSinhViênLiênHệ",
+      "tag": "PhòngHợpTác&QuảnLýKhoaHọcCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.13. Trung tâm Đào tạo ngắn hạn và Ngoại ngữ - Tin học (Center for của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Phòng Hợp tác & Quản lý khoa học của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.13. Trung tâm Đào tạo ngắn hạn và Ngoại ngữ - Tin học (Center for của 6. NƠI SINH VIÊN LIÊN HỆ\nShort Courses – CSC)"
+        "\nPhòng Hợp tác & Quản lý khoa học của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 201 – 35,37 Hồ Hảo Hớn, Phường Cô Giang, Quận 1"
       ]
     },
     {
-      "tag": "6.14.TrungTâmĐàoTạoTừXaCủa6.NơiSinhViênLiênHệ",
+      "tag": "TrungTâmĐàoTạoNgắnHạnVàNgoạiNgữ-TinHọc(centerForCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.14. Trung tâm Đào tạo Từ xa của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Trung tâm Đào tạo ngắn hạn và Ngoại ngữ - Tin học (Center for của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.14. Trung tâm Đào tạo Từ xa của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 004 – 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
+        "\nTrung tâm Đào tạo ngắn hạn và Ngoại ngữ - Tin học (Center for của NƠI SINH VIÊN LIÊN HỆ\nShort Courses – CSC)"
       ]
     },
     {
-      "tag": "6.15.TrungTâmĐàoTạoTrựcTuyếnCủa6.NơiSinhViênLiênHệ",
+      "tag": "TrungTâmĐàoTạoTừXaCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.15. Trung tâm Đào tạo trực tuyến của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Trung tâm Đào tạo Từ xa của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.15. Trung tâm Đào tạo trực tuyến của 6. NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 505 - 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
+        "\nTrung tâm Đào tạo Từ xa của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 004 – 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
       ]
     },
     {
-      "tag": "6.16.TrungTâmHọcLiệuCủa6.NơiSinhViênLiênHệ",
+      "tag": "TrungTâmĐàoTạoTrựcTuyếnCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "6.16. Trung tâm học liệu của 6. NƠI SINH VIÊN LIÊN HỆ"
+        "Trung tâm Đào tạo trực tuyến của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n6.16. Trung tâm học liệu của 6. NƠI SINH VIÊN LIÊN HỆ\nPhòng 103 – 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
+        "\nTrung tâm Đào tạo trực tuyến của NƠI SINH VIÊN LIÊN HỆ\nLiên hệ: Phòng 505 - 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
       ]
     },
     {
-      "tag": "7.LịchTiếpCôngDânCủaBanGiámHiệu",
+      "tag": "TrungTâmHọcLiệuCủaNơiSinhViênLiênHệ",
       "patterns": [
-        "7. LỊCH TIẾP CÔNG DÂN CỦA BAN GIÁM HIỆU"
+        "Trung tâm học liệu của NƠI SINH VIÊN LIÊN HỆ"
       ],
       "responses": [
-        "\n7. LỊCH TIẾP CÔNG DÂN CỦA BAN GIÁM HIỆU\n• Thời gian: thứ hai của tuần đầu tháng và ngày 15 hàng tháng, nếu  trùng ngày nghỉ thì tiếp công dân vào ngày làm việc kế tiếp.\n• Địa điểm: Phòng Thanh tra - Pháp chế, số 35,37 Hồ Hảo Hớn, Phường Cô Giang, Q.1"
+        "\nTrung tâm học liệu của NƠI SINH VIÊN LIÊN HỆ\nPhòng 103 – 97 Võ Văn Tần, Phường Võ Thị Sáu, Quận 3"
       ]
     },
     {
-      "tag": "8.KhungThờiGianRa–VàoLớp",
+      "tag": "LịchTiếpCôngDânCủaBanGiámHiệu",
       "patterns": [
-        "8. KHUNG THỜI GIAN RA – VÀO LỚP"
+        "LỊCH TIẾP CÔNG DÂN CỦA BAN GIÁM HIỆU"
       ],
       "responses": [
-        "\n8. KHUNG THỜI GIAN RA – VÀO LỚP\nPHỤ LỤC 2\nKHUNG THỜI GIAN RA – VÀO LỚP\nBuổi học Tiết học Giờ bắt đầu Giờ kết thúc\nSáng\nTiết 1 7:00 7:50\nTiết 2 7:50 8:40\nGiải lao 8:40 8:55\nTiết 3 8:55 9:45\nTiết 4 9:45 10:35\nBố trí 4,5 tiết 11:00\nChiều\nTiết 1 13:00 13:50\nTiết 2 13:50 14:40\nGiải lao 14:40 14:55\nTiết 3 14:55 15:45\nTiết 4 15:45 16:35\nBố trí 4,5 tiết 17:00\nTối 5 Bố trí 3,0 tiết Từ 17:30 đến 20:00"
+        "\nLỊCH TIẾP CÔNG DÂN CỦA BAN GIÁM HIỆU\n• Thời gian: thứ hai của tuần đầu tháng và ngày 15 hàng tháng, nếu  trùng ngày nghỉ thì tiếp công dân vào ngày làm việc kế tiếp."
       ]
     },
     {
-      "tag": "9.GiớiThiệuVềHệThốngThôngTinDànhChoSinhViên",
+      "tag": "KhungThờiGianRa–VàoLớp",
       "patterns": [
-        "9. GIỚI THIỆU VỀ HỆ THỐNG THÔNG TIN DÀNH CHO SINH VIÊN"
+        "KHUNG THỜI GIAN RA – VÀO LỚP"
       ],
       "responses": [
-        "\n9. GIỚI THIỆU VỀ HỆ THỐNG THÔNG TIN DÀNH CHO SINH VIÊN\nHệ thống thông tin Trường Đại học Mở Thành phố Hồ Chí Minh trên mạng \nInternet cung cấp cho sinh viên các dịch vụ sau:\nWebsite chính của trường tại địa chỉ: www.ou.edu.vn\nĐây là nơi cung cấp các thông tin giới thiệu về trường. Giới thiệu thông  tin về các khoa, phòng ban trực thuộc về chức năng, nhiệm vụ, đội ngũ quản  lý, giảng viên và nhân viên, chương trình đào tạo,... Ngoài ra website còn cung  cấp các thông báo cho sinh viên, tin tức về các hoạt động của trường.\n20 Sổ tay sinh viên 2022\nHệ thống đăng ký môn học trực tuyến tại địa chỉ: https://tienichsv.ou.edu.vn\n(hoặc từ trang web vào mục: “Đăng ký môn học trực tuyến”)\nĐây là nơi sinh viên có thể đăng ký môn học thông qua mạng internet. \nVào đầu mỗi học kỳ, từng sinh viên có thể chủ động chọn đăng ký các môn  học phù hợp với mình, vào các nhóm (lớp) được mở trong thời gian thích hợp  cho mỗi cá nhân. Để sử dụng hệ thống này, mỗi sinh viên dùng mã số sinh  viên như tên đăng nhập. Sinh viên thường xuyên vào http://ou.edu.vn/qldt để xem kế hoạch và quy định đào tạo hằng năm của trường. \nHệ thống dịch vụ sinh viên tại địa chỉ: http://sis.ou.edu.vn\n(hoặc từ trang web vào mục: “Hệ thống thông tin sinh viên”)\nĐây là nơi cung cấp các tiện ích về lịch học, lịch thi, điểm thi, kiểm tra  khóa mã, ... của sinh viên và các dịch vụ online khác. Để sử dụng hệ thống  này sinh viên cần nhập mã số sinh viên, và mật khẩu.\nSinh viên chính quy: http://learn.ou.edu.vn (cổng thông tin học tập trực tuyến)\nSinh viên hệ từ xa, vừa làm, vừa học: http://lms.oude.edu.vn\nĐây là nơi sinh viên có thể truy cập và tham gia vào các lớp học của khoa  để lấy tài liệu, bài giảng, xem thông báo của giáo viên, tham gia các diễn đàn...\nĐể sử dụng hệ thống elearning, sinh viên sử dụng tên đăng nhập là mã  số sinh viên, mật khẩu là mật khẩu của hệ thống đăng ký môn học, tên hiển thị là tên sinh viên.\nHệ thống email sử dụng hạ tầng Google Apps tại địa chỉ: https://mail.google.com/mail\nSinh viên khi vào trường sẽ được cấp một tài khoản email trên hạ tầng \nGoogle apps là: Mã số sinh viên + Tên + @ou.edu.vn\nNhà trường sẽ gửi các thông tin, thông báo cho sinh viên thông qua hộp  thư này.\nHệ thống Hỗ trợ học tập online: http://lms.ou.edu.vn\nHệ thống hỗ trợ đặt sách online tại địa chỉ: http://thuquan.ou.edu.vn\nĐây là nơi sinh viên có thể truy cập để đặt sách online của Nhà trường. \nTrang web giới thiệu thông tin về các tựa sách của tất cả các khoa, ban nhằm  phục vụ cho việc học tập của sinh viên.\nCổng thông tin việc làm: http://vieclam.ou.edu.vn\nHệ thống dịch vụ của phòng Công tác Sinh viên:  http://ou.edu.vn sau đó vào mục [sinh viên]\n Sổ tay sinh viên 2022 21"
+        "\nKHUNG THỜI GIAN RA – VÀO LỚP\nPHỤ LỤC 2"
       ]
     },
     {
-      "tag": "10.MụcTiêuVàKếHoạchHọcTập",
+      "tag": "GiớiThiệuVềHệThốngThôngTinDànhChoSinhViên",
       "patterns": [
-        "10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
+        "GIỚI THIỆU VỀ HỆ THỐNG THÔNG TIN DÀNH CHO SINH VIÊN"
       ],
       "responses": [
-        "\n10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP\n10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM\n1.1.1 Thích nghi:\n2.2.2 Học tập:\n3.3.3 Ngoại khóa, rèn luyện:\n4.4.4 Trải nghiệm, tích lũy kỹ năng:\n10.2 CÁC HOẠT ĐỘNG BẮT BUỘC SINH VIÊN\n10.3 NHỮNG VẤN ĐỀ LIÊN QUAN ĐẾN ỨNG TUYỂN - ĐI LÀM KHI TỐT\n10.4 CỔNG THÔNG TIN VIỆC LÀM\n10.5 NGÀY HỘI NGHỀ NGHIỆP\n1.1.1 Thích nghi:\n2.2.2 Học tập:\n3.3.3 Ngoại khóa, rèn luyện:\n4.4.4 Trải nghiệm, tích lũy kỹ năng:\n1.1.1 Hoạch định nghề nghiệp:\n2.2.2 Học tập:\n3.3.3 Ngoại khóa, rèn luyện:\n4.4.4 Trải nghiệm, tích lũy kỹ năng:\n1.1.1 Chuẩn bị nghề nghiệp:\n2.2.2 Học tập:\n3.3.3 Ngoại khóa, rèn luyện:\n4.4.4 Trải nghiệm, tích lũy kỹ năng:\n1.1.1 Chuẩn bị tốt nghiệp, tìm việc làm:\n2.2.2 Học tập:\n3.3.3 Ngoại khóa, rèn luyện:\n4.4.4 Trải nghiệm, tích lũy kỹ năng:"
+        "\nGIỚI THIỆU VỀ HỆ THỐNG THÔNG TIN DÀNH CHO SINH VIÊN\nHệ thống thông tin Trường Đại học Mở Thành phố Hồ Chí Minh trên mạng "
       ]
     },
     {
-      "tag": "10.1.GợiÝMụcTiêuVàKếHoạchHọcTậpCho4NămCủa10.MụcTiêuVàKếHoạchHọcTập",
+      "tag": "MụcTiêuVàKếHoạchHọcTập",
       "patterns": [
-        "10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP",
-        "1.1.1 Thích nghi: của 10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM",
-        "2.2.2 Học tập: của 10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM",
-        "3.3.3 Ngoại khóa, rèn luyện: của 10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM",
-        "4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM"
+        "MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
       ],
       "responses": [
-        "\n10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP\n1.1.1 Thích nghi: của 10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM\n2.2.2 Học tập: của 10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM\n3.3.3 Ngoại khóa, rèn luyện: của 10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM\n4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM"
+        "\nMỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP\n10.1. GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM\n1.1.1 Thích nghi:\n2.2.2 Học tập:\n3.3.3 Ngoại khóa, rèn luyện:\n4.4.4 Trải nghiệm, tích lũy kỹ năng:\n10.2 CÁC HOẠT ĐỘNG BẮT BUỘC SINH VIÊN\n10.3 NHỮNG VẤN ĐỀ LIÊN QUAN ĐẾN ỨNG TUYỂN - ĐI LÀM KHI TỐT\n10.4 CỔNG THÔNG TIN VIỆC LÀM\n10.5 NGÀY HỘI NGHỀ NGHIỆP\n1.1.1 Thích nghi:\n2.2.2 Học tập:\n3.3.3 Ngoại khóa, rèn luyện:\n4.4.4 Trải nghiệm, tích lũy kỹ năng:\n1.1.1 Hoạch định nghề nghiệp:"
       ]
     },
     {
-      "tag": "10.2CácHoạtĐộngBắtBuộcSinhViênCủa10.MụcTiêuVàKếHoạchHọcTập",
+      "tag": "GợiÝMụcTiêuVàKếHoạchHọcTậpCho4NămCủaMụcTiêuVàKếHoạchHọcTập",
       "patterns": [
-        "10.2 CÁC HOẠT ĐỘNG BẮT BUỘC SINH VIÊN của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
+        "GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP",
+        "Thích nghi: của GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM",
+        "Học tập: của GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM",
+        "Ngoại khóa, rèn luyện: của GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM",
+        "Trải nghiệm, tích lũy kỹ năng: của GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM"
       ],
       "responses": [
-        "\n10.2 CÁC HOẠT ĐỘNG BẮT BUỘC SINH VIÊN của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
+        "\nGỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP\nThích nghi: của GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM\nHọc tập: của GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM\nNgoại khóa, rèn luyện: của GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM\nTrải nghiệm, tích lũy kỹ năng: của GỢI Ý MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP CHO 4 NĂM"
       ]
     },
     {
-      "tag": "10.3NhữngVấnĐềLiênQuanĐếnỨngTuyển-ĐiLàmKhiTốtCủa10.MụcTiêuVàKếHoạchHọcTập",
+      "tag": "CácHoạtĐộngBắtBuộcSinhViênCủaMụcTiêuVàKếHoạchHọcTập",
       "patterns": [
-        "10.3 NHỮNG VẤN ĐỀ LIÊN QUAN ĐẾN ỨNG TUYỂN - ĐI LÀM KHI TỐT của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
+        "CÁC HOẠT ĐỘNG BẮT BUỘC SINH VIÊN của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
       ],
       "responses": [
-        "\n10.3 NHỮNG VẤN ĐỀ LIÊN QUAN ĐẾN ỨNG TUYỂN - ĐI LÀM KHI TỐT của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
+        "\nCÁC HOẠT ĐỘNG BẮT BUỘC SINH VIÊN của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
       ]
     },
     {
-      "tag": "10.4CổngThôngTinViệcLàmCủa10.MụcTiêuVàKếHoạchHọcTập",
+      "tag": "NhữngVấnĐềLiênQuanĐếnỨngTuyển-ĐiLàmKhiTốtCủaMụcTiêuVàKếHoạchHọcTập",
       "patterns": [
-        "10.4 CỔNG THÔNG TIN VIỆC LÀM của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
+        "NHỮNG VẤN ĐỀ LIÊN QUAN ĐẾN ỨNG TUYỂN - ĐI LÀM KHI TỐT của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
       ],
       "responses": [
-        "\n10.4 CỔNG THÔNG TIN VIỆC LÀM của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
+        "\nNHỮNG VẤN ĐỀ LIÊN QUAN ĐẾN ỨNG TUYỂN - ĐI LÀM KHI TỐT của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
       ]
     },
     {
-      "tag": "10.5NgàyHộiNghềNghiệpCủa10.MụcTiêuVàKếHoạchHọcTập",
+      "tag": "CổngThôngTinViệcLàmCủaMụcTiêuVàKếHoạchHọcTập",
       "patterns": [
-        "10.5 NGÀY HỘI NGHỀ NGHIỆP của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP",
-        "1.1.1 Thích nghi: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "2.2.2 Học tập: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "3.3.3 Ngoại khóa, rèn luyện: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "1.1.1 Hoạch định nghề nghiệp: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "2.2.2 Học tập: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "3.3.3 Ngoại khóa, rèn luyện: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "1.1.1 Chuẩn bị nghề nghiệp: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "2.2.2 Học tập: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "cao. Tiếp cận tin học chuyên  ngành, chứng chỉ quốc tế. của 2.2.2 Học tập:",
-        "3.3.3 Ngoại khóa, rèn luyện: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "NCKH. của 3.3.3 Ngoại khóa, rèn luyện:",
-        "4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "1.1.1 Chuẩn bị tốt nghiệp, tìm việc làm: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "2.2.2 Học tập: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "3.3.3 Ngoại khóa, rèn luyện: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.5 NGÀY HỘI NGHỀ NGHIỆP",
-        "a. Các hình thức nộp hồ sơ ứng tuyển phổ biến hiện nay: của 4.4.4 Trải nghiệm, tích lũy kỹ năng:",
-        "b. Quy trình tuyển dụng phổ biến hiện nay và những lời khuyên cho  sinh viên: của 4.4.4 Trải nghiệm, tích lũy kỹ năng:",
-        "cao. của 4.4.4 Trải nghiệm, tích lũy kỹ năng:",
-        "c. Hồ sơ xin việc phổ biến hiện nay: của 4.4.4 Trải nghiệm, tích lũy kỹ năng:",
-        "d. Những kỹ năng mềm, kỹ năng làm việc SV nên trang bị để học  tập, làm việc hiệu quả: của 4.4.4 Trải nghiệm, tích lũy kỹ năng:"
+        "CỔNG THÔNG TIN VIỆC LÀM của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
       ],
       "responses": [
-        "\n10.5 NGÀY HỘI NGHỀ NGHIỆP của 10. MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP\n1.1.1 Thích nghi: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Nhận biết và thích nghi với  phương pháp học tập ở bậc đại  học.\n2.2.2 Học tập: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Điểm TB học tập: từ 7.0 hoặc 2.5  đối với thang điểm 4, rèn luyện 80  trở lên.\n3.3.3 Ngoại khóa, rèn luyện: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia làm thành viên các CLB,  các hoạt động Đoàn – Hội, tình  nguyện ngắn hạn.\n4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia các hoạt động của  trường yêu cầu, hoạt động của  lớp.\n1.1.1 Hoạch định nghề nghiệp: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia các buổi tư vấn hướng  nghiệp.\n2.2.2 Học tập: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Điểm TB học tập: từ 7.0 hoặc 2.5  đối với thang điểm 4, rèn luyện 80  trở lên.\n3.3.3 Ngoại khóa, rèn luyện: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia là thành viên tổ chức  các hoạt động CLB, Đoàn - Hội,  dự án nhỏ, tình nguyện.\n4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia hoạt động làm việc  nhóm,\n1.1.1 Chuẩn bị nghề nghiệp: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia các khóa huấn luyện kỹ năng mềm, kỹ năng nghề nghiệp.\n2.2.2 Học tập: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Điểm TBTL học tập: từ 7.0 hoặc 2.5 đối với thang điểm 4, rèn luyện 80 trở lên.\ncao. Tiếp cận tin học chuyên  ngành, chứng chỉ quốc tế. của 2.2.2 Học tập:\n- Điểm TBTL học tập: từ 7.0 hoặc 2.5 đối với thang điểm 4, rèn luyện 80 trở lên.\n- Ngoại Ngữ: Thi và đạt trình độ B1 \n(hoặc tương đương).\n- Tin học: Thi và đạt trình độ nâng\n- Tham gia các khóa ngắn hạn về chuyên môn.\n3.3.3 Ngoại khóa, rèn luyện: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia với tư cách là nhà tổ chức các hoạt động Đoàn – Hội, \nNCKH. của 3.3.3 Ngoại khóa, rèn luyện:\n- Tham gia với tư cách là nhà tổ chức các hoạt động Đoàn – Hội, \nCLB, các cuộc thi, các hoạt động  tình nguyện.\n- Tham gia các hoạt động học  thuật trong và ngoài trường,\n- Rèn luyện thể thao, nâng cao sức  khỏe.\n4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia ngày hội Nghề nghiệp.\n1.1.1 Chuẩn bị tốt nghiệp, tìm việc làm: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia các khóa kỹ năng  nghề nghiệp chuyên sâu.\n2.2.2 Học tập: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Điểm TBTL học tập: từ 7.0 hoặc 2.5 đối với thang điểm 4, rèn luyện 80 trở lên.\n3.3.3 Ngoại khóa, rèn luyện: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia BTC các hoạt động \n4.4.4 Trải nghiệm, tích lũy kỹ năng: của 10.5 NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia Ngày Hội Nghề nghiệp, ngày hội tuyển dụng,  phỏng vấn thử của các đơn vị bên trong và ngoài trường.\na. Các hình thức nộp hồ sơ ứng tuyển phổ biến hiện nay: của 4.4.4 Trải nghiệm, tích lũy kỹ năng:\n- Tham gia Ngày Hội Nghề nghiệp, ngày hội tuyển dụng,  phỏng vấn thử của các đơn vị bên trong và ngoài trường.\n- Tham gia thực tập dài ngày tại  doanh nghiệp.\n- Tìm kiếm việc làm gắn với  ngành học.\n- Nộp trực tiếp cho bộ phận tuyển dụng của cơ quan, doanh nghiệp;\nb. Quy trình tuyển dụng phổ biến hiện nay và những lời khuyên cho  sinh viên: của 4.4.4 Trải nghiệm, tích lũy kỹ năng:\n- Tham gia Ngày Hội Nghề nghiệp, ngày hội tuyển dụng,  phỏng vấn thử của các đơn vị bên trong và ngoài trường.\n- Tham gia thực tập dài ngày tại  doanh nghiệp.\n- Tìm kiếm việc làm gắn với  ngành học.\nBước Công việc Lời khuyên cho ứng viên\ncao. của 4.4.4 Trải nghiệm, tích lũy kỹ năng:\n- Tham gia Ngày Hội Nghề nghiệp, ngày hội tuyển dụng,  phỏng vấn thử của các đơn vị bên trong và ngoài trường.\n- Tham gia thực tập dài ngày tại  doanh nghiệp.\n- Tìm kiếm việc làm gắn với  ngành học.\nc. Hồ sơ xin việc phổ biến hiện nay: của 4.4.4 Trải nghiệm, tích lũy kỹ năng:\n- Tham gia Ngày Hội Nghề nghiệp, ngày hội tuyển dụng,  phỏng vấn thử của các đơn vị bên trong và ngoài trường.\n- Tham gia thực tập dài ngày tại  doanh nghiệp.\n- Tìm kiếm việc làm gắn với  ngành học.\nTT Danh mục Lời khuyên cho ứng viên\nd. Những kỹ năng mềm, kỹ năng làm việc SV nên trang bị để học  tập, làm việc hiệu quả: của 4.4.4 Trải nghiệm, tích lũy kỹ năng:\n- Tham gia Ngày Hội Nghề nghiệp, ngày hội tuyển dụng,  phỏng vấn thử của các đơn vị bên trong và ngoài trường.\n- Tham gia thực tập dài ngày tại  doanh nghiệp.\n- Tìm kiếm việc làm gắn với  ngành học.\nTT Kỹ năng Năm thứ TT Kỹ năng Năm thứ"
+        "\nCỔNG THÔNG TIN VIỆC LÀM của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP"
       ]
     },
     {
-      "tag": "1.ChếĐộChínhSách",
+      "tag": "NgàyHộiNghềNghiệpCủaMụcTiêuVàKếHoạchHọcTập",
       "patterns": [
-        "1. CHẾ ĐỘ CHÍNH SÁCH"
+        "NGÀY HỘI NGHỀ NGHIỆP của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP",
+        "Thích nghi: của NGÀY HỘI NGHỀ NGHIỆP",
+        "Học tập: của NGÀY HỘI NGHỀ NGHIỆP",
+        "Ngoại khóa, rèn luyện: của NGÀY HỘI NGHỀ NGHIỆP",
+        "Trải nghiệm, tích lũy kỹ năng: của NGÀY HỘI NGHỀ NGHIỆP",
+        "Hoạch định nghề nghiệp: của NGÀY HỘI NGHỀ NGHIỆP",
+        "Các hình thức nộp hồ sơ ứng tuyển phổ biến hiện nay: của Hoạch định nghề nghiệp:",
+        "Quy trình tuyển dụng phổ biến hiện nay và những lời khuyên cho  sinh viên: của Hoạch định nghề nghiệp:",
+        "của Hoạch định nghề nghiệp:",
+        "Hồ sơ xin việc phổ biến hiện nay: của Hoạch định nghề nghiệp:",
+        "Những kỹ năng mềm, kỹ năng làm việc SV nên trang bị để học  tập, làm việc hiệu quả: của Hoạch định nghề nghiệp:"
       ],
       "responses": [
-        "\n1. CHẾ ĐỘ CHÍNH SÁCH\n1.1 MIỄN, GIẢM HỌC PHÍ\n1.2 HỌC BỔNG\n1.3 XÁC NHẬN VAY VỐN NGÂN HÀNG CHÍNH SÁCH XÃ HỘI – SỔ"
+        "\nNGÀY HỘI NGHỀ NGHIỆP của MỤC TIÊU VÀ KẾ HOẠCH HỌC TẬP\nThích nghi: của NGÀY HỘI NGHỀ NGHIỆP\n- Nhận biết và thích nghi với  phương pháp học tập ở bậc đại  học.\nHọc tập: của NGÀY HỘI NGHỀ NGHIỆP\n- Điểm TB học tập: từ 7.0 hoặc 2.5  đối với thang điểm 4, rèn luyện 80  trở lên.\nNgoại khóa, rèn luyện: của NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia làm thành viên các CLB,  các hoạt động Đoàn – Hội, tình  nguyện ngắn hạn.\nTrải nghiệm, tích lũy kỹ năng: của NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia các hoạt động của  trường yêu cầu, hoạt động của  lớp.\nHoạch định nghề nghiệp: của NGÀY HỘI NGHỀ NGHIỆP\n- Tham gia các buổi tư vấn hướng  nghiệp.\nCác hình thức nộp hồ sơ ứng tuyển phổ biến hiện nay: của Hoạch định nghề nghiệp:\n- Tham gia các buổi tư vấn hướng  nghiệp.\n- Tham gia tham quan thực tế ngành học.\n- Tìm hiểu các thông tin về ngành  học.\n- Nộp trực tiếp cho bộ phận tuyển dụng của cơ quan, doanh nghiệp;\nQuy trình tuyển dụng phổ biến hiện nay và những lời khuyên cho  sinh viên: của Hoạch định nghề nghiệp:\n- Tham gia các buổi tư vấn hướng  nghiệp.\n- Tham gia tham quan thực tế ngành học.\n- Tìm hiểu các thông tin về ngành  học.\nBước Công việc Lời khuyên cho ứng viên\ncao. của Hoạch định nghề nghiệp:\n- Tham gia các buổi tư vấn hướng  nghiệp.\n- Tham gia tham quan thực tế ngành học.\n- Tìm hiểu các thông tin về ngành  học.\nHồ sơ xin việc phổ biến hiện nay: của Hoạch định nghề nghiệp:\n- Tham gia các buổi tư vấn hướng  nghiệp.\n- Tham gia tham quan thực tế ngành học.\n- Tìm hiểu các thông tin về ngành  học.\nTT Danh mục Lời khuyên cho ứng viên\nNhững kỹ năng mềm, kỹ năng làm việc SV nên trang bị để học  tập, làm việc hiệu quả: của Hoạch định nghề nghiệp:\n- Tham gia các buổi tư vấn hướng  nghiệp.\n- Tham gia tham quan thực tế ngành học.\n- Tìm hiểu các thông tin về ngành  học.\nTT Kỹ năng Năm thứ TT Kỹ năng Năm thứ"
       ]
     },
     {
-      "tag": "1.1Miễn,GiảmHọcPhíCủa1.ChếĐộChínhSách",
+      "tag": "ChếĐộChínhSách",
       "patterns": [
-        "1.1 MIỄN, GIẢM HỌC PHÍ của 1. CHẾ ĐỘ CHÍNH SÁCH"
+        "CHẾ ĐỘ CHÍNH SÁCH"
       ],
       "responses": [
-        "\n1.1 MIỄN, GIẢM HỌC PHÍ của 1. CHẾ ĐỘ CHÍNH SÁCH\n- Sinh viên thuộc các đối tượng chế độ chính sách được miễn, giảm học  phí 100% học phí, 70% học phí và 50% học phí theo Nghị định 86/2015/NĐ\u0002CP và Thông tư liên tịch số 09/2016/TTLT – BGDĐT – BTC – BTLĐTBXH."
+        "\nCHẾ ĐỘ CHÍNH SÁCH\n1.1 MIỄN, GIẢM HỌC PHÍ\n1.2 HỌC BỔNG\n1.3 XÁC NHẬN VAY VỐN NGÂN HÀNG CHÍNH SÁCH XÃ HỘI – SỔ"
       ]
     },
     {
-      "tag": "1.2HọcBổngCủa1.ChếĐộChínhSách",
+      "tag": "Miễn,GiảmHọcPhíCủaChếĐộChínhSách",
       "patterns": [
-        "1.2 HỌC BỔNG của 1. CHẾ ĐỘ CHÍNH SÁCH"
+        "MIỄN, GIẢM HỌC PHÍ của CHẾ ĐỘ CHÍNH SÁCH"
       ],
       "responses": [
-        "\n1.2 HỌC BỔNG của 1. CHẾ ĐỘ CHÍNH SÁCH\n- Hằng năm trường có hơn 2000 suất học bổng trao tặng cho sinh viên"
+        "\nMIỄN, GIẢM HỌC PHÍ của CHẾ ĐỘ CHÍNH SÁCH\n- Sinh viên thuộc các đối tượng chế độ chính sách được miễn, giảm học  phí 100% học phí, 70% học phí và 50% học phí theo Nghị định 86/2015/NĐ\u0002CP và Thông tư liên tịch số 09/2016/TTLT – BGDĐT – BTC – BTLĐTBXH."
       ]
     },
     {
-      "tag": "1.3XácNhậnVayVốnNgânHàngChínhSáchXãHội–SổCủa1.ChếĐộChínhSách",
+      "tag": "HọcBổngCủaChếĐộChínhSách",
       "patterns": [
-        "1.3 XÁC NHẬN VAY VỐN NGÂN HÀNG CHÍNH SÁCH XÃ HỘI – SỔ của 1. CHẾ ĐỘ CHÍNH SÁCH"
+        "HỌC BỔNG của CHẾ ĐỘ CHÍNH SÁCH"
       ],
       "responses": [
-        "\n1.3 XÁC NHẬN VAY VỐN NGÂN HÀNG CHÍNH SÁCH XÃ HỘI – SỔ của 1. CHẾ ĐỘ CHÍNH SÁCH\nƯU ĐÃI GIÁO DỤC"
+        "\nHỌC BỔNG của CHẾ ĐỘ CHÍNH SÁCH\n- Hằng năm trường có hơn 2000 suất học bổng trao tặng cho sinh viên"
       ]
     },
     {
-      "tag": "2.HànhChínhSinhViên",
+      "tag": "XácNhậnVayVốnNgânHàngChínhSáchXãHội–SổCủaChếĐộChínhSách",
       "patterns": [
-        "2. HÀNH CHÍNH SINH VIÊN"
+        "XÁC NHẬN VAY VỐN NGÂN HÀNG CHÍNH SÁCH XÃ HỘI – SỔ của CHẾ ĐỘ CHÍNH SÁCH"
       ],
       "responses": [
-        "\n2. HÀNH CHÍNH SINH VIÊN\nCác vấn đề liên quan đến xác nhận hạnh kiểm, tham gia hoạt động ngoại  khóa, chuyển lớp sinh viên,.. liên hệ phòng Công tác sinh viên."
+        "\nXÁC NHẬN VAY VỐN NGÂN HÀNG CHÍNH SÁCH XÃ HỘI – SỔ của CHẾ ĐỘ CHÍNH SÁCH\nƯU ĐÃI GIÁO DỤC"
       ]
     },
     {
-      "tag": "3.CổngThôngTin“chủNhiệmLớp–CốVấnHọcTập”",
+      "tag": "HànhChínhSinhViên",
       "patterns": [
-        "3. CỔNG THÔNG TIN “CHỦ NHIỆM LỚP – CỐ VẤN HỌC TẬP”"
+        "HÀNH CHÍNH SINH VIÊN"
       ],
       "responses": [
-        "\n3. CỔNG THÔNG TIN “CHỦ NHIỆM LỚP – CỐ VẤN HỌC TẬP”\nLàm cầu nối thông tin liên lạc giữa Nhà trường – Chủ nhiệm lớp, cố vấn học  tập – Sinh viên.\n- Định hướng nghề nghiệp cho sinh viên.\n- Hướng dẫn công tác liên quan đến sinh viên.\n- Hướng dẫn và giải đáp các vướng mắc của sinh viên trong quá trình  học tập và rèn luyện tại Trường.\n- SV tham khảo tại website: cvht.ou.edu.vn."
+        "\nHÀNH CHÍNH SINH VIÊN\nCác vấn đề liên quan đến xác nhận hạnh kiểm, tham gia hoạt động ngoại  khóa, chuyển lớp sinh viên,.. liên hệ phòng Công tác sinh viên."
       ]
     },
     {
-      "tag": "4.ĐánhGiáKếtQuảRènLuyệnOnline",
+      "tag": "CổngThôngTin“chủNhiệmLớp–CốVấnHọcTập”",
       "patterns": [
-        "4. ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN ONLINE"
+        "CỔNG THÔNG TIN “CHỦ NHIỆM LỚP – CỐ VẤN HỌC TẬP”"
       ],
       "responses": [
-        "\n4. ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN ONLINE\n- Đánh giá kết quả rèn luyện online được thực hiện bắt buộc theo Quy  định của Bộ Giáo dục và Đào tạo.\n- Điểm rèn luyện được dùng để xét học bổng khuyến khích học tập mỗi  học kỳ và sẽ được ghi vào bảng điểm tốt nghiệp của sinh viên.\n- Sinh viên bị xếp loại rèn luyện yếu, kém 2 học kỳ liên tiếp (dưới 50 điểm)  sẽ bị khóa mã số sinh viên trong học kỳ tiếp theo.\n- Đánh giá kết quả rèn luyện online được tích lũy điểm thông qua quá  trình học tập và rèn luyện ngoại khóa của sinh viên trong năm học. Điểm rèn  luyện sẽ được tích lũy và cập nhật thường xuyên trên website đánh giá kết  quả rèn luyện online để Sinh viên theo dõi.\n- Sinh viên thực hiện đánh giá kết quả rèn luyện online tại website: http://sis.ou.edu.vn vào mục [đánh giá kết quả rèn luyện Online]\n Sổ tay sinh viên 2022 31"
+        "\nCỔNG THÔNG TIN “CHỦ NHIỆM LỚP – CỐ VẤN HỌC TẬP”\nLàm cầu nối thông tin liên lạc giữa Nhà trường – Chủ nhiệm lớp, cố vấn học  tập – Sinh viên."
       ]
     },
     {
-      "tag": "5.NgoạiTrú",
+      "tag": "ĐánhGiáKếtQuảRènLuyệnOnline",
       "patterns": [
-        "5. NGOẠI TRÚ"
+        "ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN ONLINE"
       ],
       "responses": [
-        "\n5. NGOẠI TRÚ\n- Là hoạt động bắt buộc. Sinh viên phải thực hiện đăng ký, khai báo thông  tin ngoại trú trên website của nhà trường và vào đầu khóa học và đầu mỗi học  kỳ và trong thời hạn sau 20 ngày nếu có thay đổi địa chỉ tạm trú.\n- Sinh viên không tham gia đăng ký thông tin ngoại trú sẽ bị trừ 05 (năm)  điểm rèn luyện/học kỳ.\n- Sinh viên đăng ký thông tin ngoại trú theo hướng dẫn sau:\n+ Sinh viên vào website: http://sis.ou.edu.vn\n+ menu [tiện ích] -> chọn [Đăng ký ngoại trú] \n+ SV đăng nhập -> Chọn học kỳ hiện tại"
+        "\nĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN ONLINE\n- Đánh giá kết quả rèn luyện online được thực hiện bắt buộc theo Quy  định của Bộ Giáo dục và Đào tạo."
       ]
     },
     {
-      "tag": "6.HoạtĐộngNgoạiKhóa",
+      "tag": "NgoạiTrú",
       "patterns": [
-        "6. HOẠT ĐỘNG NGOẠI KHÓA"
+        "NGOẠI TRÚ"
       ],
       "responses": [
-        "\n6. HOẠT ĐỘNG NGOẠI KHÓA\n6.1 VĂN HÓA VĂN NGHỆ - THỂ DỤC THỂ THAO\n6.2 CÂU LẠC BỘ - ĐỘI - NHÓM\n6.3 NGHIÊN CỨU KHOA HỌC"
+        "\nNGOẠI TRÚ\n- Là hoạt động bắt buộc. Sinh viên phải thực hiện đăng ký, khai báo thông  tin ngoại trú trên website của nhà trường và vào đầu khóa học và đầu mỗi học  kỳ và trong thời hạn sau 20 ngày nếu có thay đổi địa chỉ tạm trú."
       ]
     },
     {
-      "tag": "6.1VănHóaVănNghệ-ThểDụcThểThaoCủa6.HoạtĐộngNgoạiKhóa",
+      "tag": "HoạtĐộngNgoạiKhóa",
       "patterns": [
-        "6.1 VĂN HÓA VĂN NGHỆ - THỂ DỤC THỂ THAO của 6. HOẠT ĐỘNG NGOẠI KHÓA"
+        "HOẠT ĐỘNG NGOẠI KHÓA"
       ],
       "responses": [
-        "\n6.1 VĂN HÓA VĂN NGHỆ - THỂ DỤC THỂ THAO của 6. HOẠT ĐỘNG NGOẠI KHÓA\nGồm các hoạt động cấp trường, cấp khoa như:"
+        "\nHOẠT ĐỘNG NGOẠI KHÓA\n6.1 VĂN HÓA VĂN NGHỆ - THỂ DỤC THỂ THAO\n6.2 CÂU LẠC BỘ - ĐỘI - NHÓM\n6.3 NGHIÊN CỨU KHOA HỌC"
       ]
     },
     {
-      "tag": "6.2CâuLạcBộ-Đội-NhómCủa6.HoạtĐộngNgoạiKhóa",
+      "tag": "VănHóaVănNghệ-ThểDụcThểThaoCủaHoạtĐộngNgoạiKhóa",
       "patterns": [
-        "6.2 CÂU LẠC BỘ - ĐỘI - NHÓM của 6. HOẠT ĐỘNG NGOẠI KHÓA"
+        "VĂN HÓA VĂN NGHỆ - THỂ DỤC THỂ THAO của HOẠT ĐỘNG NGOẠI KHÓA"
       ],
       "responses": [
-        "\n6.2 CÂU LẠC BỘ - ĐỘI - NHÓM của 6. HOẠT ĐỘNG NGOẠI KHÓA\n- Là hoạt động giúp những sinh viên có cùng sở thích, mong muốn được  làm việc nhóm tham gia trong các lĩnh vực: học thuật, nghề nghiệp, văn hóa,  văn nghệ, thể thao, tình nguyện, kỹ năng. Khuyến khích mỗi sinh viên tham  gia ít nhất 1 câu lạc bộ."
+        "\nVĂN HÓA VĂN NGHỆ - THỂ DỤC THỂ THAO của HOẠT ĐỘNG NGOẠI KHÓA\nGồm các hoạt động cấp trường, cấp khoa như:"
       ]
     },
     {
-      "tag": "6.3NghiênCứuKhoaHọcCủa6.HoạtĐộngNgoạiKhóa",
+      "tag": "CâuLạcBộ-Đội-NhómCủaHoạtĐộngNgoạiKhóa",
       "patterns": [
-        "6.3 NGHIÊN CỨU KHOA HỌC của 6. HOẠT ĐỘNG NGOẠI KHÓA"
+        "CÂU LẠC BỘ - ĐỘI - NHÓM của HOẠT ĐỘNG NGOẠI KHÓA"
       ],
       "responses": [
-        "\n6.3 NGHIÊN CỨU KHOA HỌC của 6. HOẠT ĐỘNG NGOẠI KHÓA\n- Giúp sinh viên nâng cao chất lượng học tập, rèn luyện kỹ năng vận dụng  các phương pháp nghiên cứu khoa học vào giải quyết một số vấn đề thực tiễn  cuộc sống."
+        "\nCÂU LẠC BỘ - ĐỘI - NHÓM của HOẠT ĐỘNG NGOẠI KHÓA\n- Là hoạt động giúp những sinh viên có cùng sở thích, mong muốn được  làm việc nhóm tham gia trong các lĩnh vực: học thuật, nghề nghiệp, văn hóa,  văn nghệ, thể thao, tình nguyện, kỹ năng. Khuyến khích mỗi sinh viên tham  gia ít nhất 1 câu lạc bộ."
       ]
     },
     {
-      "tag": "7.KhenThưởng",
+      "tag": "NghiênCứuKhoaHọcCủaHoạtĐộngNgoạiKhóa",
       "patterns": [
-        "7. KHEN THƯỞNG",
-        "7.1 KHEN THƯỞNG CUỐI KHÓA",
-        "7.2 KHEN THƯỞNG KHÁC"
+        "NGHIÊN CỨU KHOA HỌC của HOẠT ĐỘNG NGOẠI KHÓA"
       ],
       "responses": [
-        "\n7. KHEN THƯỞNG\n7.1 KHEN THƯỞNG CUỐI KHÓA\nSinh viên đạt danh hiệu học tập toàn khóa học từ loại giỏi trở lên; bảo vệ khóa luận 10 điểm, thủ khoa toàn khóa học sẽ được Hiệu trưởng cấp giấy  khen kèm tiền thưởng và vinh danh bằng nhiều hình thức.\n7.2 KHEN THƯỞNG KHÁC\n- Khen thưởng cho sinh viên có nghĩa cử đẹp do Khoa đề xuất khen  thưởng.\n- Khen thưởng ngoại khóa: khen thưởng cho sinh viên đạt những thành  tích cao trong các hoạt động ngoại khóa như: Văn hóa Văn nghệ - Thể dục \nThể thao, các cuộc thi học thuật, các hoạt động tình nguyện,…"
+        "\nNGHIÊN CỨU KHOA HỌC của HOẠT ĐỘNG NGOẠI KHÓA\n- Giúp sinh viên nâng cao chất lượng học tập, rèn luyện kỹ năng vận dụng  các phương pháp nghiên cứu khoa học vào giải quyết một số vấn đề thực tiễn  cuộc sống."
       ]
     },
     {
-      "tag": "8.HoạtĐộngDịchVụHỗTrợ",
+      "tag": "KhenThưởng",
       "patterns": [
-        "8. HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ"
+        "KHEN THƯỞNG",
+        "KHEN THƯỞNG CUỐI KHÓA",
+        "KHEN THƯỞNG KHÁC"
       ],
       "responses": [
-        "\n8. HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ\n8.1 NHÀ TRỌ\n8.2 PHÁT TRIỂN KỸ NĂNG"
+        "\nKHEN THƯỞNG\n7.1 KHEN THƯỞNG CUỐI KHÓA\nSinh viên đạt danh hiệu học tập toàn khóa học từ loại giỏi trở lên; bảo vệ khóa luận 10 điểm, thủ khoa toàn khóa học sẽ được Hiệu trưởng cấp giấy  khen kèm tiền thưởng và vinh danh bằng nhiều hình thức.\n7.2 KHEN THƯỞNG KHÁC\n- Khen thưởng cho sinh viên có nghĩa cử đẹp do Khoa đề xuất khen  thưởng.\n- Khen thưởng ngoại khóa: khen thưởng cho sinh viên đạt những thành  tích cao trong các hoạt động ngoại khóa như: Văn hóa Văn nghệ - Thể dục \nThể thao, các cuộc thi học thuật, các hoạt động tình nguyện,…"
       ]
     },
     {
-      "tag": "8.1NhàTrọCủa8.HoạtĐộngDịchVụHỗTrợ",
+      "tag": "HoạtĐộngDịchVụHỗTrợ",
       "patterns": [
-        "8.1 NHÀ TRỌ của 8. HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ"
+        "HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ"
       ],
       "responses": [
-        "\n8.1 NHÀ TRỌ của 8. HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ\n- Nhằm tạo điều kiện ổn định nơi ở cho sinh viên, nhà trường đã ký liên  kết với các đơn vị nhà trọ tư nhân, ký túc xá. Đây là các khu nhà trọ, ký túc xá  tập trung, ưu tiên sinh viên của nhà trường, đảm bảo về điều kiện cơ sở vật  chất, giá cả hợp lý, an ninh."
+        "\nHOẠT ĐỘNG DỊCH VỤ HỖ TRỢ\n8.1 NHÀ TRỌ\n8.2 PHÁT TRIỂN KỸ NĂNG"
       ]
     },
     {
-      "tag": "8.2PhátTriểnKỹNăngCủa8.HoạtĐộngDịchVụHỗTrợ",
+      "tag": "NhàTrọCủaHoạtĐộngDịchVụHỗTrợ",
       "patterns": [
-        "8.2 PHÁT TRIỂN KỸ NĂNG của 8. HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ"
+        "NHÀ TRỌ của HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ"
       ],
       "responses": [
-        "\n8.2 PHÁT TRIỂN KỸ NĂNG của 8. HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ\nLà hoạt động trang bị cho sinh viên những kỹ năng mềm, kỹ năng thực  hành nghề nghiệp cần thiết để sinh viên làm việc tốt sau tốt nghiệp."
+        "\nNHÀ TRỌ của HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ\n- Nhằm tạo điều kiện ổn định nơi ở cho sinh viên, nhà trường đã ký liên  kết với các đơn vị nhà trọ tư nhân, ký túc xá. Đây là các khu nhà trọ, ký túc xá  tập trung, ưu tiên sinh viên của nhà trường, đảm bảo về điều kiện cơ sở vật  chất, giá cả hợp lý, an ninh."
+      ]
+    },
+    {
+      "tag": "PhátTriểnKỹNăngCủaHoạtĐộngDịchVụHỗTrợ",
+      "patterns": [
+        "PHÁT TRIỂN KỸ NĂNG của HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ"
+      ],
+      "responses": [
+        "\nPHÁT TRIỂN KỸ NĂNG của HOẠT ĐỘNG DỊCH VỤ HỖ TRỢ\nLà hoạt động trang bị cho sinh viên những kỹ năng mềm, kỹ năng thực  hành nghề nghiệp cần thiết để sinh viên làm việc tốt sau tốt nghiệp."
       ]
     }
   ]
