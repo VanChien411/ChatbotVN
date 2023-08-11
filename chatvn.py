@@ -131,7 +131,7 @@ while True:
                 #chatbot trả lời theo tag 
                 print(f"{bot_name}: {random.choice(intent['responses'])}")
                 # Xuất ra kết quả tốt nhất phần còn lại sẽ sử lý sau 
-                return 0
+                break
         else:
             print(f"{bot_name}: I do not understand...")
     
