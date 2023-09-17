@@ -61,8 +61,8 @@ def answer_The_Questions(questions, title):
                         {"role": "user", "content": message},
                     )
                     chat = openai.ChatCompletion.create(
-                        model="gpt-3.5-turbo",
-                        # model="text-davinci-003",
+                        #model="gpt-3.5-turbo",
+                       model="text-davinci-003",
                         messages=messages
 
                     )

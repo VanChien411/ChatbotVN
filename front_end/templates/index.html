@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        .chatbot {
+            height: 100%;
+            width: 100%;
+            background-color: lightblue;
+        }
+
+        .chat-container {
+            display: flex;
+            height: 100%;
+            width: 100%;
+            margin: 0 auto;
+            /* height: 400px; */
+            border: 1px solid #ccc;
+        }
+
+        .sidebar {
+            flex: 1;
+            background-color: #f0f0f0;
+            position: relative;
+           
+            display: flex;
+            flex-direction: column; /* Thêm thuộc tính flex-direction: column; */
+        }
+
+        .chatSessions {
+            padding: 10px;
+            overflow-y: auto;
+            height: 100%;
+        }
+
+        .informationLink {
+            padding: 10px;
+            position: sticky;
+            bottom: 0;
+            height: 30%;
+            border: 2px solid black;
+            /* Sửa đường viền thành "border: 2px solid black;" */
+            width: 100%;
+            background-color: #ffffff;
+            /* Thêm màu nền cho liên kết thông tin */
+        }
+
+        .chat-body {
+            flex: 4;
+            background-color: #ffffff;
+
+            max-height: 100%;
+            overflow-y: scroll;
+            position: relative;
+            border-left: 1px solid #ccc;
+
+        }
+
+        .user-message {
+            background-color: #d9edf7;
+            padding: 5px 10px;
+            margin-bottom: 10px;
+            border-radius: 10px;
+            padding-left: 20%;
+            padding-right: 20%;
+        }
+
+        .bot-message {
+            background-color: #dff0d8;
+            padding: 5px 10px;
+            padding-left: 20%;
+            padding-right: 20%;
+            margin-bottom: 10px;
+            border-radius: 10px;
+        }
+
+        #ct2 {
+
+            overflow-y: scroll;
+        }
+
+
+        .input-container {
+            margin-top: 10px;
+            margin-left: 10%;
+            margin-right: 10%;
+
+            position: fixed;
+            bottom: 0;
+            width: 60%;
+        }
+
+        #user-input {
+            width: 100px;
+
+        }
+
+        .content-null {
+            height: 130px;
+        }
+
+        img {
+            float: left;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="chatbot">
+        <div class="chat-container">
+            <div class="sidebar">
+                <h5>Chat Sessions</h5>
+                <div class="chatSessions">
+
+                    <ul class="list-group" id="session-list">
+                        <!-- Danh sách các phiên tin nhắn -->
+                    </ul>
+                </div>
+
+                <div class="informationLink">
+                    <hr>
+                    <div><a href="#">sdff</a></div>
+                    <div><a href="#">sdff</a></div>
+                    <div><a href="#">sdff</a></div>
+
+                </div>
+            </div>
+
+            <div class="chat-body" id="chat-body">
+
+                <div id="ct-2">
+                    <div class="bot-message">
+                        <div class="row">
+                            <div class="col-1">
+                                <img src="https://th.bing.com/th/id/OIP.CAtnzvH269Y8IHZYMfkIOAHaE8?w=225&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+                                    width="40px" alt="">
+
+                            </div>
+                            <div class="col">
+                                Xin chào! Tôi là chatbot.
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <div class="input-container">
+                        <div class="input-group">
+                            <input type="text" class="form-control" id="user-input" placeholder="Nhập tin nhắn...">
+                            <div class="input-group-append">
+                                <button class="btn btn-primary" type="button" id="send-btn">Gửi</button>
+                            </div>
+                        </div>
+                        <div>
+                            <br>
+                            <br>
+                            <br>
+
+
+                        </div>
+                    </div>
+
+
+
+                </div>
+                <div class="content-null">
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script>
+            var sessionList = document.getElementById("session-list");
+            var chatBody = document.getElementById("ct-2");
+
+            // Xử lý sự kiện khi nhấn nút Gửi
+            document.getElementById("send-btn").addEventListener("click", function () {
+                sendMessage();
+
+            });
+
+            // Xử lý sự kiện khi nhấn phím Enter
+            document.getElementById("user-input").addEventListener("keyup", function (event) {
+                if (event.keyCode === 13) {
+                    sendMessage();
+                }
+            });
+
+            // Hàm gửi tin nhắn
+            function sendMessage() {
+                var userInput = document.getElementById("user-input");
+                var userMessage = userInput.value.trim();
+
+                if (userMessage !== "") {
+                    displayUserMessage(userMessage);
+                    // Gửi yêu cầu xử lýtin nhắn đến server hoặc xử lý ở phía client
+                    // Ví dụ: gửi tin nhắn đến ChatGPT và nhận kết quả trả về
+                    var botMessage = "Đây là phản hồi từ chatbot.";
+                    displayBotMessage(botMessage);
+                }
+
+                userInput.value = "";
+                userInput.focus();
+                //Di chuyển đến cuối thanh cuộn
+                var chatbody = document.getElementById("chat-body");
+                chatbody.scrollTop = chatbody.scrollHeight;
+
+            }
+            function formatMessage(img, message) {
+                return `<div class="row">
+                <div class="col-1">
+                    <img src="${img}" width="40px" height="40px" alt="">
+                </div>
+                <div class="col">
+                    ${message}
+                </div>
+            </div>`;
+            }
+            // Hàm hiển thị tin nhắn của người dùng
+            function displayUserMessage(message) {
+                var userMessageElement = document.createElement("div");
+                userMessageElement.classList.add("user-message");
+                userMessageElement.innerHTML = formatMessage("https://th.bing.com/th/id/OIP.aZ7VMQ7My_97wSAfUNj4pAHaMy?w=115&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7", message);
+
+
+                chatBody.appendChild(userMessageElement);
+                chatBody.scrollTop = chatBody.scrollHeight;
+            }
+
+            // Hàm hiển thị tin nhắn của chatbot
+            function displayBotMessage(message) {
+                var botMessageElement = document.createElement("div");
+                botMessageElement.classList.add("bot-message");
+                botMessageElement.innerHTML = formatMessage("https://th.bing.com/th/id/OIP.CAtnzvH269Y8IHZYMfkIOAHaE8?w=225&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7", message);
+                chatBody.appendChild(botMessageElement);
+                chatBody.scrollTop = chatBody.scrollHeight;
+            }
+
+            // Hàm thêm phiên tin nhắn vào sidebar
+            function addSessionToSidebar(sessionId) {
+                var sessionItem = document.createElement("li");
+                sessionItem.classList.add("list-group-item");
+                sessionItem.textContent = sessionId;
+                sessionItem.addEventListener("click", function () {
+                    loadSessionMessages(sessionId);
+                });
+                sessionList.appendChild(sessionItem);
+            }
+
+            // Hàm tải tin nhắn của phiên đã chọn
+            function loadSessionMessages(sessionId) {
+                // Xóa tin nhắn hiện tại trong chat body
+                while (chatBody.firstChild) {
+                    chatBody.removeChild(chatBody.firstChild);
+                }
+
+                // TODO: Tải tin nhắn của phiên đã chọn từ server hoặc lưu trữ và hiển thị trong chat body
+            }
+
+            // Gọi hàm addSessionToSidebar để thêm các phiên tin nhắn mẫu
+            addSessionToSidebar("Session 1");
+            addSessionToSidebar("Session 2");
+            addSessionToSidebar("Session 3");
+
+        </script>
+</body>
+
+</html>

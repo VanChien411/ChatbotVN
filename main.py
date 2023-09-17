@@ -1,6 +1,22 @@
 import re
 import apiAI.chatgpt as apiGpt
 import json
+
+strNo = ["www", "@","http:"]
+strYes = [""]
+def detect_dieu(text):
+    # Biểu thức chính quy để tìm "điều 27." mà không phân biệt chữ hoa và chữ thường
+    pattern = r'điều\s+\d+\.'
+
+    # Sử dụng hàm findall() để tìm tất cả các sự xuất hiện của biểu thức chính quy trong văn bản
+    matches = re.findall(pattern, text, re.IGNORECASE)
+
+    # Trả về danh sách các kết quả nếu có kết quả trả về true 
+    if len(matches) > 0:
+        return True
+    else:
+        return False
+    
 def split_sections(text):
     lines = text.splitlines()
     sections = []
@@ -11,7 +27,7 @@ def split_sections(text):
 
     for line in lines:
         # Kiểm tra xem dòng có bắt đầu bằng số và dấu chấm hay không
-        if re.match(r'^\s*(\d+|[ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]+)\.', line) and not "www" in line:
+        if (re.match(r'^\s*(\d+|[IVXLCDMivxlcdmtpabcdefjh]+)\.', line) and all(no not in line for no in strNo)) or detect_dieu(line)  :
             # Nếu có, lưu phần trước đó vào danh sách phần
             if current_section:
                 level_same = level_of_arr(current_section,sections)
@@ -83,7 +99,7 @@ def countDots(str, char):
 
 #Xóa bỏ Ký tự phân cấp đối với paragraph có level = 0 
 def delete_char_start(str):
-    if re.match(r'^\s*(\d+|[ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]+)\.', str) and not "www" in str:
+    if re.match(r'^\s*(\d+|[IVXLCDMivxlcdmtpabcdefjh]+)\.', str) and all(no not in str for no in strNo):
         result_str = str.split(' ',1 )
         if len(result_str) >= 2:
             return result_str[1]
@@ -99,74 +115,105 @@ def split_sections_zero(sections, arr):
     # level có cấp bậc thấp nhất
     min_level = 0;
     i = 0
+  
+        
     while i < len(sections) and (sections[i]["level"] != 0 or sum == 0):
         sum += len(sections[i]["paragraph"].split(' '))
         if min_level < sections[i]["level"]:
             min_level = sections[i]["level"]
         i += 1
 
-    if sum > 300 and len(sections) > 1:
+    if sum > 300 and len(sections) > 1 :
 #         Tách mảng ra thành dạng menu
         count_leader_paragraph = 0 
         for section in sections:
+            #Xoa cac #*# truoc do
+        
+            if '\n' in section["paragraph"] and " #*# " in section["paragraph"]:
+                t = section["paragraph"].split("\n")[:]
+                section["paragraph"] = t[0].split(" #*# ")[0] +"\n"+ "\n".join(t[1:])            
             if section["level"] != min_level or min_level == 1:
                 sectionCopy = section.copy()
                 if count_leader_paragraph != 0: 
                     sectionCopy["paragraph"] = sectionCopy["paragraph"].split('\n')[0]
                 else:
-                    sectionCopy["paragraph"] = delete_char_start(sectionCopy["paragraph"].split('\n')[0]) + '&menu&'
+                    if '\n' in sectionCopy["paragraph"]:
+                        t = sectionCopy["paragraph"].split('\n')[:]
+                        sectionCopy["paragraph"] = delete_char_start(t[0]) + '&menu&'
+                        y = {"level": sectionCopy["level"] + 1, "paragraph": "Nội dung : " +'\n'+ '\n'.join(t[1:])}
+                        sections.insert( count_leader_paragraph + 1, y)
+                    else:
+                        sectionCopy["paragraph"] = delete_char_start(sectionCopy["paragraph"]) + '&menu&'
+                    
+                        
+                    
                 arr.append(sectionCopy)
+                    
             count_leader_paragraph += 1 
                 
         section_pre = {"level":sections[0]["level"], "paragraph":sections[0]["paragraph"]}
 
         for section in sections:
-            if section["level"] != 0:
+          
+                        
+            if section["level"] != 0 :
                 if section_pre != "" :
                     if section_pre["level"] < section["level"]:
-                        leaderParagraphs.append(delete_char_start(section_pre["paragraph"][:]))
+                        if '\n' in section_pre["paragraph"]:
+                            t = section_pre["paragraph"].split('\n')[:]
+            
+                            leaderParagraphs.append(delete_char_start(t[0]))
+                        else: 
+                            leaderParagraphs.append(delete_char_start(section_pre["paragraph"][:]))
                     elif section_pre["level"] > section["level"]:
                         leaderParagraphs.pop()
                 if '\n' in section["paragraph"]:
                     set_leader = section["paragraph"].split('\n')[:]
                     #Xóa bỏ Ký tự phân cấp đối với paragraph có level = 0 
                     set_leader2 = delete_char_start(set_leader[0])
-                    tam = {"level":section["level"] - 1, "paragraph":set_leader2 + " của " + leaderParagraphs[-1] + '\n' + set_leader[1] }
+                    tam = {"level":section["level"] - 1, "paragraph":set_leader2 + " #*# " + leaderParagraphs[-1] + '\n' + "\n".join(set_leader[1:]) }
                 else:
                     #Xóa bỏ Ký tự phân cấp đối với paragraph có level = 0 
                     section["paragraph"] = delete_char_start(section["paragraph"])
-                    tam = {"level":section["level"] - 1, "paragraph":section["paragraph"] + " của " + leaderParagraphs[-1] }
+                    tam = {"level":section["level"] - 1, "paragraph":section["paragraph"] + " #*# " + leaderParagraphs[-1] }
                 newSection.append(tam)
+                
             section_pre = {"level":section["level"], "paragraph":section["paragraph"]}
+        
+        return fineSection(newSection, arr)  
+        
 
-        return split_sections_zero(newSection, arr)
+        
     else:
         count_leader_paragraph = 0 
+        
         for section in sections:  
             sectionCopy = section.copy()
             if count_leader_paragraph == 0 and section["level"] == 0:
                 if '\n' in sectionCopy["paragraph"]:
-                    section["paragraph"] = delete_char_start(sectionCopy["paragraph"].split('\n')[0] )+ '\n' + sectionCopy["paragraph"].split('\n')[1]
+                    section["paragraph"] = delete_char_start(sectionCopy["paragraph"].split('\n')[0] )+ '\n' + sectionCopy["paragraph"].split('\n', 1)[1] 
                 else:
                     section["paragraph"] = delete_char_start(sectionCopy["paragraph"] )
             arr.append(section)      
             count_leader_paragraph += 1 
-        return  arr
+        return  arr 
 
+
+    
 # Tạo ra menu và nội dung hoàn chỉnh
-def fineSection(sections):
+def fineSection(sections,arr):
     tampSection = []
     fineSection = []
     for section in sections:
         if(section["level"] == 0):
-            for item in split_sections_zero(tampSection, []):
-              fineSection.append(item)
+            for item in split_sections_zero(tampSection, arr ):
+                fineSection.append(item)
             tampSection = []
         tampSection.append(section)
 # Them lần cuối
-    for item in split_sections_zero(tampSection, []):
+    for item in split_sections_zero(tampSection, arr ):
         fineSection.append(item)
-    return fineSection
+    return arr
 
 #Chuyển đổi dữ liệu sang dạng json để chatbot có thể train 
 def convert_data_to_json(sections):
@@ -232,7 +279,7 @@ def tag_standardizationt(original_string):
 
 def write_fileJson(answers):
     tas = {"intents":answers}
-    with open("data/output.json", "w", encoding="utf-8") as f_output:
+    with open("data/secondData/jsonAdvice.json", "w", encoding="utf-8") as f_output:
         json.dump(tas, f_output, ensure_ascii=False, indent=2)
 # Ví dụ sử dụng hàm với nội dung từ file dataInput.txt
 def standardize_data(input_file, output_file):
@@ -240,7 +287,7 @@ def standardize_data(input_file, output_file):
         with open(output_file, 'w', encoding='utf-8') as f_output:
             content = f_input.read()
             sections = split_sections(content)
-            sections2 = fineSection(sections)
+            sections2 = fineSection(sections,[])
             sectionsJson = convert_data_to_json(sections2)
             # sau khi phan tách các section thì đưa cho chatgpt.py liệt kê câu hỏi
             #question = "tôi muốn tạo chatbot trả lời câu hỏi và với nội dung thế này, hãy liệt kê những câu hỏi thường được sử dụng liên quan đến trọng tâm của nội dung "
@@ -251,4 +298,4 @@ def standardize_data(input_file, output_file):
 
 
 # Gọi hàm để chuẩn hóa dữ liệu từ dataInput.txt đến dataOutput.txt
-standardize_data("data/input.txt", "dataOutput.txt")
+standardize_data("data/firstData/test.txt", "dataOutput.txt")

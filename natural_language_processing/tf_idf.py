@@ -118,7 +118,7 @@ def get_response(vectorizer, user_input, tfidf_matrix, tags):
    
 
 # Giao diện chatbot đơn giản
-print("Chào mừng bạn đến với trường học ảo. Hãy đặt câu hỏi của bạn hoặc gõ 'exit' để thoát.")
+#print("Chào mừng bạn đến với trường học ảo. Hãy đặt câu hỏi của bạn hoặc gõ 'exit' để thoát.")
 #vectorizer = init_TFidf_chatbot()
 #custom_stopwords = get_custom_stopwords_file()
 ##tạo ma trận cho mảng câu hỏi 
