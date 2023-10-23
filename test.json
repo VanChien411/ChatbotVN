@@ -1,0 +1,13 @@
+{"intents": [
+        {
+                "tag": "ThưVien",
+                "patterns": ["Thư viện trường", "nơi đọc sách ở trường"],
+                "responses":["Thư viện trường là một phần của môi trường học tập trong một tổ chức giáo dục, thường là một trường đại học, trường trung học hoặc trường tiểu học. Thư viện trường cung cấp nguồn tài liệu học tập và thông tin đa dạng để học sinh và sinh viên nghiên cứu, học tập và làm bài tập.."]
+}, 
+{
+                "tag": "SổTaySinhVien",
+                "patterns": ["Sổ Tay sinh viên"],
+                "responses":[ "Sổ tay sinh viên là một cuốn sổ hoặc ấn phẩm dùng để quản lý và lên kế hoạch cho các hoạt động học tập và cuộc sống sinh viên."]
+}
+]
+}

@@ -1768,6 +1768,16 @@
         "\nĐối tượng được miễn học giáo dục quốc phòng và an ninh: #*# Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc  phòng và an ninh\n+ Sinh viên có giấy chứng nhận sĩ quan dự bị hoặc bằng tốt nghiệp do  các trường quân đội, công an cấp;\n+ Sinh viên đã có chứng chỉ giáo dục quốc phòng và an ninh trình độ đại học;\n+ Sinh viên là người nước ngoài."
       ]
     },
+     {
+      "tag": "ChàoHoi",
+      "patterns": [
+        "Bạn tên gì",
+        "Bạn là ai"
+      ],
+      "responses": [
+        "\nChào bạn tôi là chatbot ou hỗ trợ các vấn đề liên quan đến học vụ cho sinh viên ou."
+      ]
+    },
     {
       "tag": "ĐốiTượngĐượcMiễnHọc,MiễnThiNộiDungTrongChươngTrìnhGiáoDụcQuốcPhòngVàAnNinh:SinhViênCóGiấyXácNhậnKếtQuảHọcTậpNộiDungĐóĐạtTừ5,0ĐiểmTrởLên(theoThangĐiểm10).#*#Điều4.ĐốiTượngĐượcMiễn,TạmHoãnHọcGiáoDụcQuốcPhòngVàAnNinh",
       "patterns": [
@@ -3760,5 +3770,6 @@
         "\nĐIỆN THOẠI LIÊN LẠC CẦN THIẾT KHÁC\nCƠ SỞ 2 – LONG BÌNH 0251 8826399\n0251 8826480\n0251 8826481\n0251 8826482\n0251 8826483\n0251 8826484\nCƠ CỞ 3 – BÌNH DƯƠNG 0274 3822 456\n0274 3840 080\n0274 3828 631\nFax: 0274 3824 708\nCƠ SỞ 5 – NINH HÒA 02583 634 540\n02583 634 080\nFax: 02583 634 541\nTỔ QUẢN LÝ LỚP HỌC – SỐ 2 MAI THỊ LỰU 028 38 242 599\nTỔ QUẢN LÝ LỚP HỌC – SỐ 97 VÕ VĂN TẦN 028 39 302 324\nTỔ QUẢN LÝ LỚP HỌC –\nSỐ 35 - 37 HỒ HẢO HỚN\n028 3838 6636\nHOTLINE AN NINH SINH VIÊN 028 39 330 660"
       ]
     }
+    
   ]
 }

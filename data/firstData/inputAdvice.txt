@@ -1317,7 +1317,7 @@ học tập chương trình Giáo dục quốc phòng và an ninh hiện hành c
 bị và giảng viên nước ngoài tham gia giảng dạy các môn tiếng Anh không 
 chuyên đáp ứng các tiêu chuẩn do Trưởng Khoa Ngoại ngữ đề xuất và được 
 Hiệu trưởng phê duyệt.
-b) Giảng viên giảng dạy chương trình chất lượng cao đáp ứng các yêu 
++ Giảng viên giảng dạy chương trình chất lượng cao đáp ứng các yêu 
 cầu của Quy định đào tạo chất lượng cao trình độ đại học hiện hành của 
 Trường. 
 -Tiêu chuẩn về năng lực chuyên môn, nghiệp vụ
@@ -1432,7 +1432,7 @@ R: Điểm môn học được miễn học và công nhận tín chỉ.
 -Học lại, thi và học cải thiện điểm:
 + Sinh viên có điểm môn học không đạt phải đăng ký học lại theo quy 
 định tại khoản 2 Điều 6 của Quy chế này. 
-b) Sinh viên đã có điểm môn học đạt được đăng ký học lại để cải thiện 
++ Sinh viên đã có điểm môn học đạt được đăng ký học lại để cải thiện 
 điểm. Điểm được công nhận là điểm cao nhất trong các lần thi. 
 I. Điều 17. Tổ chức đánh giá quá trình
 1. Giảng viên phụ trách môn học trực tiếp ra đề đánh giá và cho điểm 
@@ -1583,11 +1583,11 @@ chương trình đào tạo mà sinh viên đã học và có điểm theo các 
 đây:
 + Tổng số tín chỉ của những môn học mà sinh viên không đạt trong 
 một học kỳ, trong một năm học, hoặc nợ đọng từ đầu khoá học;
-b) Số tín chỉ tích lũy: Tổng số tín chỉ của những môn học mà sinh viên 
++ Số tín chỉ tích lũy: Tổng số tín chỉ của những môn học mà sinh viên 
 đã đạt từ đầu khóa học,tính cả các môn học được miễn học, được công nhận 
 tín chỉ. Số tín chỉ tích lũy không bao gồm số tín chỉ của các môn học Giáo dục 
 quốc phòng và an ninh, Giáo dục thể chất. 
-c) Điểm trung bình của những môn học mà sinh viên đã học trong một 
++ Điểm trung bình của những môn học mà sinh viên đã học trong một 
 học kỳ (điểm trung bình học kỳ), trong một năm học (điểm trung bình năm học) 
 hoặc tính từ đầu khóa học (điểm trung bình tích lũy), tính theo điểm chính thức 
 của môn học và trọng số là số tín chỉ của môn học đó.
@@ -2002,16 +2002,16 @@ ngữ không chuyên trong CTĐT.
 không chuyên mà người học phải đạt được để hoàn thành CTĐT.
 Điều 3. Chuẩn đầu vào ngoại ngữ không chuyên 
 1. Tiếng Anh 
-a) Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng 
++ Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng 
 lực ngoại ngữ 6 bậc dành cho Việt Nam. 
-b) Trường tổ chức kiểm tra trình độ tiếng Anh cho tân sinh viên các 
++ Trường tổ chức kiểm tra trình độ tiếng Anh cho tân sinh viên các 
 ngành không chuyên ngữ để xếp lớp tiếng Anh phù hợp với năng lực. 
-c) Sinh viên không đạt năng lực tiếng Anh đầu vào phải theo học 
++ Sinh viên không đạt năng lực tiếng Anh đầu vào phải theo học 
 chương trình tiếng Anh dự bị.
  Sổ tay sinh viên 2022 63
 2. Ngoại ngữ hai
-a) Trường không quy định chuẩn đầu vào ngoại ngữ hai.
-b) Trường không tổ chức kiểm tra trình độ đầu vào ngoại ngữ hai cho 
++ Trường không quy định chuẩn đầu vào ngoại ngữ hai.
++ Trường không tổ chức kiểm tra trình độ đầu vào ngoại ngữ hai cho 
 tân sinh viên.
 Điều 4. Chương trình Tiếng Anh dự bị
 1. Chương trình tiếng Anh dự bị có khối lượng 15 tín chỉ, chia thành 5 
@@ -2021,38 +2021,38 @@ khi hoàn thành chương trình tiếng Anh dự bị và đạt môn tiếng A
 từ 5,0 điểm (theo thang điểm 10) trở lên.
 Điều 5. Tiếng Anh và Chuẩn đầu ra tiếng Anh
 1. Chương trình đại trà
-a) Tiếng Anh dành cho sinh viên chương trình đại trà gồm 5 cấp độ từ
++ Tiếng Anh dành cho sinh viên chương trình đại trà gồm 5 cấp độ từ
 tiếng Anh nâng cao 1 đến tiếng Anh nâng cao 5, mỗi cấp độ có khối lượng 3 
 tín chỉ.
-b) Sinh viên đủ điều kiện dự kỳ thi đánh giá năng lực sử dụng tiếng 
++ Sinh viên đủ điều kiện dự kỳ thi đánh giá năng lực sử dụng tiếng 
 Anh đầu ra khi hoàn thành chương trình tiếng Anh và đạt môn tiếng Anh nâng 
 cao 5 từ 5,0 điểm (theo thang điểm 10) trở lên. 
-c) Sinh viên đạt chuẩn đầu ra tiếng Anh sau khi hoàn thành chương 
++ Sinh viên đạt chuẩn đầu ra tiếng Anh sau khi hoàn thành chương 
 trình tiếng Anh và đạt kỳ thi đánh giá năng lực sử dụng tiếng Anh đầu ra tại 
 Trường.
-d) Sinh viên tốt nghiệp chương trình đại trà đạt năng lực tiếng Anh bậc 
++ Sinh viên tốt nghiệp chương trình đại trà đạt năng lực tiếng Anh bậc 
 3/6 theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam. 
 2. Chương trình chất lượng cao
-a) Tiếng Anh dành cho sinh viên chương trình chất lượng cao gồm 10 
++ Tiếng Anh dành cho sinh viên chương trình chất lượng cao gồm 10 
 cấp độ từ tiếng Anh nâng cao 1 đến tiếng Anh nâng cao 10, mỗi cấp độ có khối 
 lượng 3 tín chỉ.
-b) Sinh viên đủ điều kiện dự kỳ thi đánh giá năng lực sử dụng tiếng 
++ Sinh viên đủ điều kiện dự kỳ thi đánh giá năng lực sử dụng tiếng 
 Anh đầu ra sau khi hoàn thành chương trình tiếng Anh và đạt môn tiếng Anh 
 nâng cao 10 từ 5,0 điểm (theo thang điểm 10) trở lên.
 64 Sổ tay sinh viên 2022
-c) Sinh viên đạt chuẩn đầu ra tiếng Anh sau khi hoàn thành chương 
++ Sinh viên đạt chuẩn đầu ra tiếng Anh sau khi hoàn thành chương 
 trình tiếng Anh và đạt kỳ thi đánh giá năng lực sử dụng tiếng Anh đầu ra tại 
 Trường.
-d) Sinh viên tốt nghiệp chương trình chất lượng cao đạt năng lực tiếng 
++ Sinh viên tốt nghiệp chương trình chất lượng cao đạt năng lực tiếng 
 Anh bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam. 
 Điều 6. Ngoại ngữ hai và Chuẩn đầu ra ngoại ngữ hai
 1. Chương trình đại trà
-a) Ngoại ngữ hai có khối lượng 15 tín chỉ, chia làm 5 cấp độ từ 1 đến 
++ Ngoại ngữ hai có khối lượng 15 tín chỉ, chia làm 5 cấp độ từ 1 đến 
 5, mỗi cấp độ có khối lượng 3 tín chỉ.
-b) Sinh viên đạt chuẩn đầu ra ngoại ngữ hai sau khi hoàn thành 
++ Sinh viên đạt chuẩn đầu ra ngoại ngữ hai sau khi hoàn thành 
 chương trình ngoại ngữ hai với tất cả các môn học đạt từ 5,0 trở lên (theo 
 thang điểm 10).
-c) Sinh viên tốt nghiệp các ngành ngôn ngữ (Anh, Trung Quốc, Nhật, 
++ Sinh viên tốt nghiệp các ngành ngôn ngữ (Anh, Trung Quốc, Nhật, 
 Hàn Quốc) và ngành Đông Nam Á học đạt chuẩn đầu ra ngoại ngữ hai bậc 3/6 
 theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam.
 2. Chương trình chất lượng cao
@@ -2207,7 +2207,7 @@ câu hỏi thảo luận
 về chủ đề trên
 3. Quy đổi điểm thi sang các bậc năng lực theo Khung năng lực ngoại 
 ngữ 6 bậc dùng cho Việt Nam (chỉ xét bậc 3 và bậc 4)
-a) Cách tính điểm thi
++ Cách tính điểm thi
 - Mỗi kỹ năng thi: Nghe, Đọc, Viết và Nói được đánh giá theo thang 
 điểm từ 0 đến 10, làm tròn đến 0,5 điểm.
 - Điểm trung bình của 4 kỹ năng, làm tròn đến 0,5 điểm, là điểm thi tiếng 
@@ -2272,7 +2272,7 @@ kế hoạch đào tạo năm học.
 Trường xét miễn tiếng Anh căn cứ vào lộ trình học tiếng Anh của từng 
 sinh viên. Sinh viên đáp ứng các điều kiện dưới đây được xét miễn tiếng Anh, 
 cụ thể như sau:
-a) Có các chứng chỉ tiếng Anh liệt kê dưới đây:
++ Có các chứng chỉ tiếng Anh liệt kê dưới đây:
 TOEIC TOEFL 
 ITP
 TOEFL 
@@ -2375,7 +2375,7 @@ năng lực tiếng
 Anh đầu ra bậc 
 3/6.
 70 Sổ tay sinh viên 2022
-b) Các chứng chỉ quốc tế tiếng Anh do các tổ chức liệt kê dưới đây 
++ Các chứng chỉ quốc tế tiếng Anh do các tổ chức liệt kê dưới đây 
 cấp: 
  Viện Khảo thí giáo dục Hoa Kỳ - Educational Testing service (ETS) 
 hoặc đơn vị được ETS ủy nhiệm (đối với các chứng chỉ TOEIC, TOEFL ITP, 
@@ -2383,12 +2383,12 @@ TOEFL iBT);
  British Council, IDP Education Australia (đối với chứng chỉ IELTS); 
  Cambridge Assessment English (đối với các chứng chỉ KET, PET, 
 FCE, CAE, CPE);
-c) Các chứng chỉ còn trong thời hạn hai năm kể từ ngày thi đến ngày 
++ Các chứng chỉ còn trong thời hạn hai năm kể từ ngày thi đến ngày 
 xét miễn.
 3. Xét miễn ngoại ngữ hai 
 Các sinh viên đáp ứng các điều kiện dưới đây được xét miễn ngoại ngữ
 hai:
-a) Đã có các chứng chỉ tiếng Anh, tiếng Trung, tiếng Hàn, (còn trong 
++ Đã có các chứng chỉ tiếng Anh, tiếng Trung, tiếng Hàn, (còn trong 
 thời hạn hai năm kể từ ngày thi); tiếng Pháp, tiếng Nhật, tiếng Tây Ban Nha, 
 tiếng Đức, tiếng Nga (không tính thời hạn trên chứng chỉ) như liệt kê dưới đây:
 STT
@@ -2495,16 +2495,16 @@ Phân viện Puskin Tiếng Nga 1, 2,
 Goethe-Zertifikat B1 Viện Goethe Tiếng Đức 1, 2, 
 3, 4, 5
 72 Sổ tay sinh viên 2022
-b) Đã hoặc đang học tại các trường đại học, cao đẳng và hoàn thành 
++ Đã hoặc đang học tại các trường đại học, cao đẳng và hoàn thành 
 chương trình học các môn ngoại ngữ hai với số tín chỉ lớn hơn hoặc bằng số
 tín chỉ chương trình ngoại ngữ hai tại Trường, có điểm đạt từ 5,0 (theo thang 
 điểm 10) trở lên.
-c) Đã tốt nghiệp trình độ từ đại học trở lên các ngành ngôn ngữ Anh, 
++ Đã tốt nghiệp trình độ từ đại học trở lên các ngành ngôn ngữ Anh, 
 Nga, Pháp, Trung Quốc, Đức, Nhật, Hàn. 
 4. Địa điểm – Thời gian nhận đơn xét miễn ngoại ngữ không chuyên 
-a) Địa điểm: Sinh viên nộp bản sao các chứng chỉ ngoại ngữ, bảng điểm 
++ Địa điểm: Sinh viên nộp bản sao các chứng chỉ ngoại ngữ, bảng điểm 
 tại Phòng Quản lý đào tạo.
-b) Thời gian: Theo kế hoạch xét miễn, giảm môn học kèm theo Kế
++ Thời gian: Theo kế hoạch xét miễn, giảm môn học kèm theo Kế
 hoạch đào tạo do Trường ban hành vào đầu mỗi năm học
 Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
 1. Văn bản này quy định về việc tổ chức dạy, học và đánh giá kết quả
@@ -2542,27 +2542,27 @@ dục thực tế, kỹ năng thực hành và hoạt động ngoại khóa.
 Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc 
 phòng và an ninh
 1. Đối tượng được miễn học giáo dục quốc phòng và an ninh:
-a) Sinh viên có giấy chứng nhận sĩ quan dự bị hoặc bằng tốt nghiệp do 
++ Sinh viên có giấy chứng nhận sĩ quan dự bị hoặc bằng tốt nghiệp do 
 các trường quân đội, công an cấp;
-b) Sinh viên đã có chứng chỉ giáo dục quốc phòng và an ninh trình độ
++ Sinh viên đã có chứng chỉ giáo dục quốc phòng và an ninh trình độ
 đại học;
-c) Sinh viên là người nước ngoài.
++ Sinh viên là người nước ngoài.
 2. Đối tượng được miễn học, miễn thi nội dung trong chương trình giáo 
 dục quốc phòng và an ninh: sinh viên có giấy xác nhận kết quả học tập nội 
 dung đó đạt từ 5,0 điểm trở lên (theo thang điểm 10).
 3. Đối tượng được miễn học các nội dung thực hành kỹ năng quân sự:
-a) Sinh viên là người khuyết tật, có giấy xác nhận khuyết tật theo quy 
++ Sinh viên là người khuyết tật, có giấy xác nhận khuyết tật theo quy 
 định của pháp luật về người khuyết tật;
-b) Sinh viên không đủ sức khỏe về thể lực hoặc mắc những bệnh lý 
++ Sinh viên không đủ sức khỏe về thể lực hoặc mắc những bệnh lý 
 không thể hoạt động mạnh theo danh sách khám sức khỏe hàng năm của 
 Trạm Y tế Trường;
-c) Sinh viên đã hoàn thành nghĩa vụ quân sự, công an nhân dân.
++ Sinh viên đã hoàn thành nghĩa vụ quân sự, công an nhân dân.
 4. Đối tượng được tạm hoãn học giáo dục quốc phòng và an ninh:
  Sổ tay sinh viên 2022 75
-a) Sinh viên vì lý do sức khỏe phải dừng học trong thời gian dài để điều 
++ Sinh viên vì lý do sức khỏe phải dừng học trong thời gian dài để điều 
 trị, có giấy xác nhận của bệnh viện (cấp quận, huyện trở lên) nơi sinh viên điều 
 trị cấp;
-b) Sinh viên là nữ đang mang thai hoặc trong thời gian nghỉ chế độ thai 
++ Sinh viên là nữ đang mang thai hoặc trong thời gian nghỉ chế độ thai 
 sản có giấy xác nhận của bệnh viện phụ sản.
 5. Hết thời gian tạm hoãn, sinh viên đăng ký học giáo dục quốc phòng 
 và an ninh phù hợp với kế hoạch cá nhân để hoàn thành chương trình đào tạo.
@@ -2572,9 +2572,9 @@ và an ninh phù hợp với kế hoạch cá nhân để hoàn thành chương 
 25 tháng 02 năm 2014 của Chính phủ quy định chi tiết và biện pháp thi hành 
 Luật Giáo dục quốc phòng và an ninh. Cụ thể giảng viên phải có một trong các 
 trình độ chuẩn sau đây: 
-a) Có bằng cử nhân giáo dục quốc phòng và an ninh trở lên; 
-b) Cán bộ quân đội, công an có bằng tốt nghiệp đại học trở lên; 
-c) Có bằng tốt nghiệp đại học trở lên chuyên ngành khác và chứng chỉ
++ Có bằng cử nhân giáo dục quốc phòng và an ninh trở lên; 
++ Cán bộ quân đội, công an có bằng tốt nghiệp đại học trở lên; 
++ Có bằng tốt nghiệp đại học trở lên chuyên ngành khác và chứng chỉ
 đào tạo giảng viên giáo dục quốc phòng và an ninh và chứng chỉ bồi dưỡng 
 nghiệp vụ sư phạm.
 2. Giảng viên dạy giáo dục quốc phòng và an ninh khi giảng dạy tại 
@@ -2780,30 +2780,30 @@ trình đào tạo (CTĐT) của ngành học, tạo cơ hội cho sinh viên ti
 và rút ngắn thời gian đào tạo
 Điều 4. Điều kiện được xét miễn, giảm môn học
 1. Đại học chính quy và đại học bằng thứ hai 
-a) Không phân biệt hình thức đào tạo của bảng điểm ngành thứ nhất 
++ Không phân biệt hình thức đào tạo của bảng điểm ngành thứ nhất 
 khi xét miễn môn học.
-b) Tổng số tín chỉ được xét miễn không vượt quá 50% tổng số tín chỉ
++ Tổng số tín chỉ được xét miễn không vượt quá 50% tổng số tín chỉ
 tối thiểu của CTĐT tại Trường.
-c) Điểm của môn học xét miễn phải đạt từ 5,0 trở lên theo thang điểm 
++ Điểm của môn học xét miễn phải đạt từ 5,0 trở lên theo thang điểm 
 10.
-d) Số tín chỉ của môn học xét miễn phải lớn hơn hoặc bằng số tín chỉ
++ Số tín chỉ của môn học xét miễn phải lớn hơn hoặc bằng số tín chỉ
 của môn học trong CTĐT của ngành học tại Trường.
-đ) Đối với các môn học thuộc khối kiến thức giáo dục đại cương: không 
++ Đối với các môn học thuộc khối kiến thức giáo dục đại cương: không 
 giới hạn thời gian xét miễn.
-e) Đối với các môn học thuộc khối kiến thức giáo dục chuyên nghiệp: 
++ Đối với các môn học thuộc khối kiến thức giáo dục chuyên nghiệp: 
 thời gian không quá 7 năm tính từ học kỳ học của môn học đến học kỳ xét 
 miễn. 
-g) Các môn học có tên khác với tên môn học trong CTĐT tại Trường 
++ Các môn học có tên khác với tên môn học trong CTĐT tại Trường 
 sẽ được xem xét miễn, giảm căn cứ vào đề cương môn học do sinh viên cung 
 cấp.
 2. Liên thông từ cao đẳng lên đại học 
 Sinh viên được xét miễn môn học căn cứ vào chuẩn đầu ra và khối 
 lượng học tập bậc cao đẳng.
 3. Giáo dục thể chất (GDTC)
-a) Miễn học và thi: Sinh viên đã có chứng chỉ GDTC hoặc bảng điểm 
++ Miễn học và thi: Sinh viên đã có chứng chỉ GDTC hoặc bảng điểm 
 đã hoàn thành môn học GDTC có số tín chỉ đào tạo lớn hơn hoặc bằng số tín 
 chỉ của môn GDTC trong CTĐT của Trường. 
-b) Giảm phần thực hành: Sinh viên có thương tật, khuyết tật bẩm sinh, bị
++ Giảm phần thực hành: Sinh viên có thương tật, khuyết tật bẩm sinh, bị
 bệnh mãn tính làm hạn chế chức năng vận động có giấy chứng nhận của bệnh 
 viện cấp quận, huyện và tương đương trở lên cấp, đồng thời được sự đồng ý của 
  Sổ tay sinh viên 2022 83
@@ -2816,25 +2816,25 @@ tại Trường Đại học Mở Thành phố Hồ Chí Minh ban hành kèm the
 số 1415/QĐ-ĐHM ngày 7 tháng 7 năm 2021 của Hiệu trưởng Trường Đại học 
 Mở Thành phố Hồ Chí Minh, cụ thể như sau:
 6. Đối tượng được miễn học GDQP&AN:
-a) Sinh viên có giấy chứng nhận sĩ quan dự bị hoặc bằng tốt nghiệp do 
++ Sinh viên có giấy chứng nhận sĩ quan dự bị hoặc bằng tốt nghiệp do 
 các trường quân đội, công an cấp;
-b) Sinh viên đã có chứng chỉ GDQP&AN trình độ đại học;
-c) Sinh viên là người nước ngoài.
++ Sinh viên đã có chứng chỉ GDQP&AN trình độ đại học;
++ Sinh viên là người nước ngoài.
 7. Đối tượng được miễn học, miễn thi một số môn học trong chương 
 trình GDQP&AN: sinh viên có giấy xác nhận kết quả học tập môn học đó đạt 
 từ 5,0 điểm trở lên (theo thang điểm 10).
 8. Đối tượng được miễn học các nội dung thực hành kỹ năng quân sự:
-d) Sinh viên là người khuyết tật, có giấy xác nhận khuyết tật theo quy 
++ Sinh viên là người khuyết tật, có giấy xác nhận khuyết tật theo quy 
 định của pháp luật về người khuyết tật;
-e) Sinh viên không đủ sức khỏe về thể lực hoặc mắc những bệnh lý 
++ Sinh viên không đủ sức khỏe về thể lực hoặc mắc những bệnh lý 
 không thể hoạt động mạnh theo danh sách khám sức khỏe hàng năm của 
 Trạm Y tế Trường;
-f) Sinh viên đã hoàn thành nghĩa vụ quân sự, công an nhân dân.
++ Sinh viên đã hoàn thành nghĩa vụ quân sự, công an nhân dân.
 9. Đối tượng được tạm hoãn học GDQP&AN:
-g) Sinh viên vì lý do sức khỏe phải dừng học trong thời gian dài để điều 
++ Sinh viên vì lý do sức khỏe phải dừng học trong thời gian dài để điều 
 trị, có giấy xác nhận của bệnh viện (cấp quận, huyện trở lên) nơi sinh viên điều 
 trị cấp;
-h) Sinh viên là nữ đang mang thai hoặc trong thời gian nghỉ chế độ thai 
++ Sinh viên là nữ đang mang thai hoặc trong thời gian nghỉ chế độ thai 
 sản có giấy xác nhận của bệnh viện phụ sản.
 Hết thời gian tạm hoãn, sinh viên đăng ký học GDQP&AN phù hợp với 
 kế hoạch cá nhân để hoàn thành CTĐT.
@@ -2844,11 +2844,11 @@ Sinh viên đạt chuẩn đầu ra Tin học khi đạt điểm môn Tin học 
 từ 5.0 trở lên theo thang điểm 10.
 Sinh viên đã có một trong các văn bằng, chứng chỉ tin học liệt kê dưới 
 đây sẽ được miễn học môn Tin học đại cương:
-a) Tốt nghiệp đại học, cao đẳng hoặc trung cấp các nhóm ngành Máy 
++ Tốt nghiệp đại học, cao đẳng hoặc trung cấp các nhóm ngành Máy 
 tính và Công nghệ thông tin ở trong nước hoặc nước ngoài; các bằng tốt 
 nghiệp ở nước ngoài phải được Cục Quản lý chất lượng – Bộ giáo dục và Đào 
 tạo công nhận. 
-b) Chứng chỉ Ứng dụng công nghệ thông tin trình độ cơ bản do các 
++ Chứng chỉ Ứng dụng công nghệ thông tin trình độ cơ bản do các 
 đơn vị được Bộ Giáo dục và Đào tạo cho phép cấp;
 Cấp độ
 Số lượng chứng 
@@ -2861,9 +2861,9 @@ st 3
  Word Specialist (hoặc Word Expert)
  Excel Specialist (hoặc Excel Expert)
  Power Point Specialist
-c) Chứng chỉ IC3 (The Internet and Computing Core Certification) 
++ Chứng chỉ IC3 (The Internet and Computing Core Certification) 
 phiên bản GS4 (Global Standard 4) trở lên;
-d) Chứng chỉ MOS (Microsoft Office Specialist) phiên bản 2010 trở lên 
++ Chứng chỉ MOS (Microsoft Office Specialist) phiên bản 2010 trở lên 
 và được xét 1 trong 3 cấp độ sau:
 Điều 5. Thẩm quyền quyết định miễn, giảm môn học
 1. Phòng Quản lý đào tạo xét miễn, giảm các môn học thuộc khối kiến 
@@ -2942,21 +2942,21 @@ cụ thể cho từng khóa, nhóm đối tượng để đảm bảo hệ thố
 hoạt động thông suốt. 
 Điều 5. Đăng ký môn học trực tuyến
 1. Quy định chung
-a) Sinh viên đăng ký môn học theo chương trình đào tạo ngành – khóa 
++ Sinh viên đăng ký môn học theo chương trình đào tạo ngành – khóa 
 học đã ban hành (tham khảo tại mục Chương trình đào tạo đăng tại trang thông 
 tin điện tử của khoa). Các môn học đăng ký phải đúng tên môn học, mã môn 
 học và số tín chỉ quy định. Sinh viên đăng ký học lại cùng với khóa sau hoặc 
 ngành khác cần phải tham khảo thêm danh mục môn học tương đương – thay 
 thế đã công bố của Trường.
-b) Sinh viên phải đọc kỹ quy định đăng ký môn học, tham khảo ý kiến 
++ Sinh viên phải đọc kỹ quy định đăng ký môn học, tham khảo ý kiến 
 của Cố vấn học tập trước khi quyết định đăng ký môn học trực tuyến.
-c) Số tín chỉ tối đa được đăng ký trong một học kỳ là 21 tín chỉ không 
++ Số tín chỉ tối đa được đăng ký trong một học kỳ là 21 tín chỉ không 
 bao gồm các môn học thuộc chương trình Giáo dục quốc phòng – An ninh,
 Giáo dục thể chất và tiếng Anh căn bản.
-d) Sinh viên không được đăng ký môn học trùng thời khóa biểu (hệ
++ Sinh viên không được đăng ký môn học trùng thời khóa biểu (hệ
 thống đăng ký môn học có nhắc nhở). 
-đ) Sinh viên không đăng ký những môn học chưa có kết quả thi.
-e) Sinh viên đăng ký học cải thiện (điểm<9) được lấy điểm cao nhất 
++ Sinh viên không đăng ký những môn học chưa có kết quả thi.
++ Sinh viên đăng ký học cải thiện (điểm<9) được lấy điểm cao nhất 
 trong các lần thi.
 2. Quy định áp dụng cho sinh viên chính khóa
 a. Sinh viên chính khóa các ngành không chuyên ngữ phải đăng ký 2 
@@ -2972,34 +2972,34 @@ hỗ trợ đăng ký môn học nếu còn sĩ số.
 khối lượng đăng ký học tập sau khi hết thời gian đăng ký môn học trực tuyến.
 2. Phòng Quản lý đào tạo giải quyết hủy bớt các môn học sinh viên đã 
 đăng ký trực tuyến cho các trường hợp cụ thể liệt kê dưới đây:
-a) Trùng lịch học do Trường thay đổi thời khóa biểu sau khi sinh viên 
++ Trùng lịch học do Trường thay đổi thời khóa biểu sau khi sinh viên 
 đã đăng ký môn học;
-b) Môn học đã đăng ký nhưng Trường không mở lớp do không đủ sĩ 
++ Môn học đã đăng ký nhưng Trường không mở lớp do không đủ sĩ 
 số tối thiểu theo quy định;
-c) Sinh viên được Trường cho phép miễn môn học trong cùng học kỳ. 
++ Sinh viên được Trường cho phép miễn môn học trong cùng học kỳ. 
 Trường hợp này sinh viên làm thủ tục hoàn học phí trước 2/3 thời gian học 
 của môn học;
-d) Sinh viên bị tai nạn đột xuất hoặc nằm viện trong thời gian dài, không 
++ Sinh viên bị tai nạn đột xuất hoặc nằm viện trong thời gian dài, không 
 thể theo học học kỳ đã đăng ký môn học. Trường hợp này sinh viên phải có 
 giấy xác nhận của cơ quan y tế cấp quận, huyện trở lên cấp; 
-đ) Gia đình gặp thiên tai đột xuất, không thể theo học học kỳ đã đăng 
++ Gia đình gặp thiên tai đột xuất, không thể theo học học kỳ đã đăng 
 ký. Trường hợp này sinh viên phải có giấy xác nhận của UBND cấp quận, 
 huyện trở lên cấp;
-e) Sinh viên phải nhập ngũ, không thể tham gia học kỳ đã đăng ký môn 
++ Sinh viên phải nhập ngũ, không thể tham gia học kỳ đã đăng ký môn 
 học. Trường hợp này sinh viên phải có giấy gọi nhập ngũ.
 3. Phòng Quản lý đào tạo giải quyết đăng ký thêm môn học vào các 
 lớp học chưa đầy sĩ số cho các trường hợp: 
-a) Sinh viên có kết quả thi không đạt của môn học đăng ký học học kỳ
++ Sinh viên có kết quả thi không đạt của môn học đăng ký học học kỳ
 trước đó sau khi đã kết thúc thời gian đăng ký môn học trực tuyến; 
-b) Sinh viên bị trùng lịch học do Trường thay đổi thời khóa biểu;
-c) Sinh viên đăng ký bổ sung thêm môn học để đủ khối lượng tín chỉ
++ Sinh viên bị trùng lịch học do Trường thay đổi thời khóa biểu;
++ Sinh viên đăng ký bổ sung thêm môn học để đủ khối lượng tín chỉ
 tối thiểu do môn học đã đăng ký không được mở lớp.
 Điều 7. Thời khóa biểu cá nhân và học phí
-a) Căn cứ vào kế hoạch đăng ký môn học trực tuyến, sau khi kết thúc 
++ Căn cứ vào kế hoạch đăng ký môn học trực tuyến, sau khi kết thúc 
 thời gian đăng ký môn học, sinh viên kiểm tra Thời khóa biểu cá nhân và học 
  Sổ tay sinh viên 2022 89
 phí trên Hệ thống thông tin sinh viên http://tienichsv.ou.edu.vn.
-b) Sinh viên đóng học phí trực tuyến hoặc trực tiếp tại các ngân hàng 
++ Sinh viên đóng học phí trực tuyến hoặc trực tiếp tại các ngân hàng 
 liên kết theo hướng dẫn cụ thể của Phòng Tài chính – Kế toán.
 Điều 8. Các quy định khác
 1. Sinh viên đóng học phí theo thời gian quy định của Trường. Các 
@@ -3151,24 +3151,24 @@ biến nội quy, quy chế về đào tạo, rèn luyện và các chế độ,
 nước có liên quan đến sinh viên.
 3. Được tạo điều kiện trong học tập, nghiên cứu khoa học và rèn luyện, 
 bao gồm:
-a) Sử dụng hệ thống thư viện, các trang thiết bị và phương tiện phục vụ
++ Sử dụng hệ thống thư viện, các trang thiết bị và phương tiện phục vụ
 các hoạt động học tập, nghiên cứu khoa học, văn hóa, văn nghệ, thể dục, thể
 thao;
-b) Tham gia nghiên cứu khoa học, thi sinh viên giỏi, thi Olympic các môn 
++ Tham gia nghiên cứu khoa học, thi sinh viên giỏi, thi Olympic các môn 
 học, thi sáng tạo khoa học, kỹ thuật;
-c) Chăm sóc, bảo vệ sức khỏe theo quy định hiện hành của Nhà nước;
-d) Đăng ký dự tuyển đi học, tham gia các hoạt động giao lưu, trao đổi sinh 
++ Chăm sóc, bảo vệ sức khỏe theo quy định hiện hành của Nhà nước;
++ Đăng ký dự tuyển đi học, tham gia các hoạt động giao lưu, trao đổi sinh 
 viên ở nước ngoài; học chuyển tiếp ở các trình độ đào tạo cao hơn theo quy 
 định hiện hành;
-e) Tham gia hoạt động trong tổ chức Đảng Cộng sản Việt Nam, Đoàn 
++ Tham gia hoạt động trong tổ chức Đảng Cộng sản Việt Nam, Đoàn 
 TNCS Hồ Chí Minh, Hội Sinh viên Việt Nam; tham gia các tổ chức tự quản của 
 sinh viên, các hoạt động xã hội có liên quan ở trong và ngoài trường học theo 
 quy định của pháp luật; các hoạt động văn hóa, văn nghệ, thể thao lành mạnh, 
 phù hợp với Mục tiêu đào tạo của Trường;
-f) Sử dụng các dịch vụ công tác xã hội hiện có của Trường (bao gồm các 
++ Sử dụng các dịch vụ công tác xã hội hiện có của Trường (bao gồm các 
 dịch vụ về hướng nghiệp, tư vấn việc làm, tư vấn sức khỏe, tâm lý, hỗ trợ sinh 
 viên có hoàn cảnh đặc biệt,...)
-g) Nghỉ học tạm thời, tạm ngừng học, học theo tiến độ chậm, tiến độ
++ Nghỉ học tạm thời, tạm ngừng học, học theo tiến độ chậm, tiến độ
 nhanh, học cùng lúc hai chương trình, chuyển trường theo quy định của quy 
 chế về đào tạo của Bộ Giáo dục và Đào tạo; được nghỉ hè, nghỉ tết, nghỉ lễ
 theo quy định.
@@ -3204,22 +3204,22 @@ nơi công cộng và các hành vi vi phạm pháp luật khác.
 Điều 7. Nội dung, hình thức khen thưởng
 1. Khen thưởng thường xuyên, kịp thời đối với cá nhân và tập thể lớp 
 sinh viên đạt thành tích xứng đáng để biểu dương, khen thưởng. Cụ thể:
-a) Đoạt giải trong các cuộc thi Olympic các môn học, thi nghiên cứu 
++ Đoạt giải trong các cuộc thi Olympic các môn học, thi nghiên cứu 
 khoa học, các cuộc thi sáng tạo kỹ thuật, học thuật, văn hóa, văn nghệ, thể
 thao;
-b) Đóng góp có hiệu quả trong công tác Đảng, Đoàn thanh niên, Hội 
++ Đóng góp có hiệu quả trong công tác Đảng, Đoàn thanh niên, Hội 
 sinh viên, trong hoạt động thanh niên xung kích, sinh viên tình nguyện, giữ gìn 
 an ninh trật tự, các hoạt động trong lớp, khoa, trong ký túc xá, hoạt động xã 
 hội, văn hóa, văn nghệ, thể thao;
-c) Có thành tích trong việc thực hiện phong trào toàn dân bảo vệ an 
++ Có thành tích trong việc thực hiện phong trào toàn dân bảo vệ an 
 ninh tổ quốc, bảo đảm an ninh, trật tự trường học, phòng chống tội phạm, tệ
 nạn xã hội, dũng cảm cứu người bị nạn, chống tiêu cực, tham nhũng;
-d) Các thành tích đặc biệt khác.
++ Các thành tích đặc biệt khác.
 Nội dung, hình thức và mức khen thưởng thường xuyên do Hiệu trưởng 
 quy định.
 2. Thi đua, khen thưởng toàn diện, định kỳ đối với cá nhân và tập thể
 lớp sinh viên được tiến hành vào cuối năm học, khóa học. Cụ thể:
-a) Đối với cá nhân:
++ Đối với cá nhân:
 - Danh hiệu cá nhân gồm 3 loại: Khá, Giỏi, Xuất sắc.
 - Tiêu chuẩn xếp loại:
  Đạt danh hiệu sinh viên Khá: xếp loại học tập và rèn luyện từ khá 
@@ -3232,7 +3232,7 @@ loại rèn luyện từ tốt trở lên;
 - Danh hiệu cá nhân được lưu vào hồ sơ quản lý sinh viên.
 - Không xét khen thưởng đối với sinh viên bị kỷ luật hoặc có điểm kết 
 thúc học phần trong năm học đó dưới mức trung bình.
-b) Đối với tập thể lớp sinh viên:
++ Đối với tập thể lớp sinh viên:
 - Danh hiệu tập thể lớp sinh viên gồm 2 loại: Lớp sinh viên Tiên tiến và 
 Lớp sinh viên Xuất sắc.
 - Hình thức khen thưởng đối với tập thể sinh viên:
@@ -3250,60 +3250,60 @@ lớp sinh viên tiên tiến và có từ 10% sinh viên đạt danh hiệu sin
 lên, có cá nhân đạt danh hiệu sinh viên xuất sắc.
 Điều 8. Trình tự, thủ tục xét khen thưởng
 1. Trình tự xét danh hiệu thi đua và khen thưởng
-a) Căn cứ thành tích đạt được trong học tập và rèn luyện của sinh viên; 
++ Căn cứ thành tích đạt được trong học tập và rèn luyện của sinh viên; 
 các lớp sinh viên tiến hành họp xem xét thành tích, lựa chọn sinh viên đủ tiêu 
 chuẩn lập danh sách đề nghị kèm theo bản thành tích cá nhân và tập thể lớp, 
 có xác nhận của giáo viên chủ nhiệm/cố vấn học tập, đề nghị khoa/đơn vị phụ
 trách công tác sinh viên xem xét; 
-b) Khoa/đơn vị phụ trách công tác sinh viên tổ chức họp, xét và đề nghị
++ Khoa/đơn vị phụ trách công tác sinh viên tổ chức họp, xét và đề nghị
 Hội đồng thi đua, khen thưởng Trường xét duyệt;
-c) Căn cứ vào đề nghị của khoa/đơn vị phụ trách công tác sinh viên, 
++ Căn cứ vào đề nghị của khoa/đơn vị phụ trách công tác sinh viên, 
 Hội đồng thi đua, khen thưởng Trường tổ chức xét và đề nghị Hiệu trưởng 
 quyết định công nhận danh hiệu thi đua, khen thưởng cho tập thể sinh viên 
 theo quy định.
  Sổ tay sinh viên 2022 101
 2. Hồ sơ xét khen thưởng báo cáo Hội đồng thi đua, khen thưởng 
 Trường
-a) Bản kê khai thành tích;
-b) Biên bản họp xét đề nghị khen thưởng của lớp sinh viên;
-c) Biên bản họp xét đề nghị khen thưởng của khoa/đơn vị phụ trách;
-d) Danh sách đề nghị công nhận danh hiệu thi đua, khen thưởng.
++ Bản kê khai thành tích;
++ Biên bản họp xét đề nghị khen thưởng của lớp sinh viên;
++ Biên bản họp xét đề nghị khen thưởng của khoa/đơn vị phụ trách;
++ Danh sách đề nghị công nhận danh hiệu thi đua, khen thưởng.
 Hiệu trưởng Trường quy định cụ thể về tiêu chuẩn danh hiệu Lớp sinh 
 viên Tiên tiến và Lớp sinh viên Xuất sắc.
 Điều 9. Hình thức kỷ luật và nội dung vi phạm
 1. Những sinh viên có hành vi vi phạm thì tùy tính chất, mức độ, hậu 
 quả của hành vi vi phạm có thể được nhắc nhở, phê bình hoặc phải chịu một 
 trong các hình thức kỷ luật sau:
-a) Khiển trách: áp dụng đối với sinh viên có hành vi vi phạm lần đầu 
++ Khiển trách: áp dụng đối với sinh viên có hành vi vi phạm lần đầu 
 nhưng ở mức độ nhẹ;
-b) Cảnh cáo: áp dụng đối với sinh viên đã bị khiển trách mà tái phạm 
++ Cảnh cáo: áp dụng đối với sinh viên đã bị khiển trách mà tái phạm 
 hoặc vi phạm ở mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên 
 hoặc mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng;
-c) Đình chỉ học tập có thời hạn: áp dụng đối với những sinh viên đang 
++ Đình chỉ học tập có thời hạn: áp dụng đối với những sinh viên đang 
 trong thời gian bị cảnh cáo mà vẫn vi phạm kỷ luật hoặc vi phạm nghiêm trọng 
 các hành vi sinh viên không được làm; sinh viên vi phạm pháp luật bị xử phạt 
 tù nhưng cho hưởng án treo. Tùy từng trường hợp cụ thể, Hiệu trưởng căn cứ
 vào quy chế đào tạo để quyết định thời hạn đình chỉ học tập theo các mức: 
 đình chỉ một học kỳ, đình chỉ một năm học hoặc đình chỉ theo thời gian sinh 
 viên bị xử phạt tù nhưng cho hưởng án treo.
-d) Buộc thôi học: áp dụng đối với sinh viên đang trong thời gian bị đình 
++ Buộc thôi học: áp dụng đối với sinh viên đang trong thời gian bị đình 
 chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có 
 tính chất và mức độ vi phạm đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến 
 Trường và xã hội; vi phạm pháp luật bị xử phạt tù giam.
 2. Các hình thức kỷ luật của sinh viên phải được lưu vào hồ sơ quản 
 lý sinh viên và thông báo cho sinh viên. 
 102 Sổ tay sinh viên 2022
-a) Trường hợp sinh viên bị kỷ luật mức đình chỉ học tập có thời hạn 
++ Trường hợp sinh viên bị kỷ luật mức đình chỉ học tập có thời hạn 
 hoặc buộc thôi học, Trường phải gửi thông báo cho địa phương và gia đình 
 sinh viên biết để phối hợp quản lý, giáo dục.
-b) Trong thời gian sinh viên bị kỷ luật ở mức khiển trách, cảnh cáo 
++ Trong thời gian sinh viên bị kỷ luật ở mức khiển trách, cảnh cáo 
 không được hưởng các quyền của sinh viên được nêu tại điểm b, d khoản 3 
 và khoản 4 thuộc điều 5 của Quy chế này.
 3. Nội dung vi phạm và khung xử lý kỷ luật thực hiện theo quy định Phụ
 lục kèm theo Quy chế này.
 Điều 10. Trình tự, thủ tục và hồ sơ xét kỷ luật
 1. Thủ tục xét kỷ luật:
-a) Sinh viên có hành vi vi phạm phải làm bản tự kiểm điểm và tự nhận 
++ Sinh viên có hành vi vi phạm phải làm bản tự kiểm điểm và tự nhận 
 hình thức kỷ luật (theo mẫu 1 – KL - CQ). 
 Ghi chú: Trường hợp sinh viên không phối hợp làm bản kiểm điểm; Khoa 
 tiến hành gửi thư (theo mẫu số 2 – KL - CQ) mời sinh viên có hành vi vi phạm 
@@ -3314,23 +3314,23 @@ viên đến làm bản kiểm điểm Khoa vẫn thực hiện các bước ti�
 Trường hợp sinh viên không chấp hành làm bản tự kiểm điểm thì Hội 
 đồng khen thưởng và kỷ luật sinh viên vẫn họp để xử lý trên cơ sở các chứng 
 cứ thu thập được;
-b) Khoa tổ chức họp với Chủ nhiệm lớp sinh viên, Ban cán sự lớp, Chi 
++ Khoa tổ chức họp với Chủ nhiệm lớp sinh viên, Ban cán sự lớp, Chi 
 Đoàn, Chi Hội và sinh viên vi phạm kỷ luật phân tích và đề nghị hình thức kỷ
 luật gửi biên bản họp (theo mẫu 3 – KL - CQ) và toàn bộ hồ sơ liên quan về
 phòng Công tác sinh viên tổng hợp trình Hội đồng;
-c) Phòng Công tác sinh viên xem xét, đề nghị Hội đồng khen thưởng và 
++ Phòng Công tác sinh viên xem xét, đề nghị Hội đồng khen thưởng và 
 kỷ luật sinh viên của Trường;
-d) Hội đồng khen thưởng và kỷ luật sinh viên tổ chức họp để xét kỷ luật, 
++ Hội đồng khen thưởng và kỷ luật sinh viên tổ chức họp để xét kỷ luật, 
 thành phần bao gồm: các thành viên của Hội đồng xét thi đua, khen thưởng 
 và kỷ luật sinh viên.
 Hội đồng kiến nghị áp dụng hình thức kỷ luật, đề nghị Hiệu trưởng Trường 
 ra quyết định kỷ luật bằng văn bản.
  Sổ tay sinh viên 2022 103
 2. Hồ sơ xử lý kỷ luật của sinh viên:
-a) Bản tự kiểm điểm (nếu có);
-b) Biên bản của Khoa họp kiểm điểm sinh viên có hành vi vi phạm;
-c) Biên bản họp Hội đồng khen thưởng và kỷ luật sinh viên;
-d) Các tài liệu có liên quan.
++ Bản tự kiểm điểm (nếu có);
++ Biên bản của Khoa họp kiểm điểm sinh viên có hành vi vi phạm;
++ Biên bản họp Hội đồng khen thưởng và kỷ luật sinh viên;
++ Các tài liệu có liên quan.
 Điều 11. Chấm dứt hiệu lực của quyết định kỷ luật
 -Đối với sinh viên bị kỷ luật khiển trách: sau 03 tháng kể từ ngày có 
 quyết định kỷ luật, nếu sinh viên không tái phạm hoặc không có những vi phạm 
@@ -3356,11 +3356,11 @@ thời điểm hết thời hạn bị kỷ luật theo quy định.
 Điều 12. Cơ cấu tổ chức và nhiệm vụ của hội đồng khen thưởng 
 và kỷ luật sinh viên
 1. Cơ cấu tổ chức Hội đồng khen thưởng và kỷ luật sinh viên:
-a) Chủ tịch Hội đồng: là Hiệu trưởng hoặc phó Hiệu trưởng Trường do 
++ Chủ tịch Hội đồng: là Hiệu trưởng hoặc phó Hiệu trưởng Trường do 
 Hiệu trưởng uỷ quyền;
 104 Sổ tay sinh viên 2022
-b) Thường trực Hội đồng: là Trưởng phòng Công tác sinh viên.
-c) Các ủy viên: là đại diện các khoa, phòng, ban có liên quan; Đoàn 
++ Thường trực Hội đồng: là Trưởng phòng Công tác sinh viên.
++ Các ủy viên: là đại diện các khoa, phòng, ban có liên quan; Đoàn 
 TNCS Hồ Chí Minh, Hội sinh viên Việt Nam của Trường.
 2. Hiệu trưởng Trường ra quyết định thành lập và quy định cụ thể về
 chức năng, nhiệm vụ, tổ chức và hoạt động của Hội đồng khen thưởng và kỷ
@@ -3375,79 +3375,79 @@ tố cáo.
 Phòng Công tác sinh viên phối hợp với các đơn vị và các cá nhân có liên 
 quan thực hiện các công tác sau:
 1. Giáo dục tư tưởng chính trị
-a) Giáo dục, tuyên truyền để sinh viên nắm vững và thực hiện đúng chủ
++ Giáo dục, tuyên truyền để sinh viên nắm vững và thực hiện đúng chủ
 trương, đường lối của Đảng, hình thành bản lĩnh chính trị, yêu tổ quốc Việt 
 Nam xã hội chủ nghĩa, cảnh giác và biết phê phán những luận điểm xuyên tạc, 
 hành động chống phá Đảng và Nhà nước:
-b) Phối hợp với Đoàn TNCS Hồ Chí Minh, Hội Sinh viên Việt Nam và các 
++ Phối hợp với Đoàn TNCS Hồ Chí Minh, Hội Sinh viên Việt Nam và các 
 tổ chức chính trị - xã hội khác có liên quan trong các hoạt động rèn luyện của 
 sinh viên. Tạo môi trường để sinh viên rèn luyện phấn đấu, được xét kết nạp 
 vào Đảng.
 2. Giáo dục đạo đức, lối sống
-a) Giáo dục, tuyên truyền cho sinh viên những giá trị, truyền thống đạo đức 
++ Giáo dục, tuyên truyền cho sinh viên những giá trị, truyền thống đạo đức 
 tốt đẹp của dân tộc Việt Nam, những chuẩn mực đạo đức chung của xã hội và 
 đạo đức nghề nghiệp; biết phê phán những hành vi không phù hợp với chuẩn 
 mực đạo đức;
  Sổ tay sinh viên 2022 105
-b) Định hướng, giáo dục lối sống lành mạnh, văn minh, tiến bộ phù hợp với 
++ Định hướng, giáo dục lối sống lành mạnh, văn minh, tiến bộ phù hợp với 
 bản sắc văn hóa dân tộc Việt Nam; giáo dục ý thức trách nhiệm của cá nhân 
 sinh viên đối với tập thể và cộng đồng.
 3. Giáo dục, tuyên truyền phổ biến pháp luật
-a) Giáo dục, tuyên truyền nâng cao nhận thức và ý thức tuân thủ pháp luật, 
++ Giáo dục, tuyên truyền nâng cao nhận thức và ý thức tuân thủ pháp luật, 
 thói quen sống và làm việc theo pháp luật;
-b) Nội dung giáo dục pháp luật đối với sinh viên tập trung vào các quy chế, 
++ Nội dung giáo dục pháp luật đối với sinh viên tập trung vào các quy chế, 
 quy định về học tập và rèn luyện; pháp luật về phòng chống tội phạm, tệ nạn 
 xã hội; đảm bảo trật tự an toàn giao thông và các luật khác có liên quan.
 4. Giáo dục kỹ năng: Kỹ năng sống, kỹ năng nghề nghiệp, việc làm,...
 5. Giáo dục thể chất
-a) Giáo dục, hướng dẫn sinh viên về kỹ thuật, phương pháp luyện tập và 
++ Giáo dục, hướng dẫn sinh viên về kỹ thuật, phương pháp luyện tập và 
 tổ chức cho sinh viên tham gia các hoạt động thể dục, thể thao theo quy định 
 của Bộ Giáo dục và Đào tạo;
-b) Phổ biến, tuyên truyền nâng cao nhận thức cho sinh viên về ăn uống 
++ Phổ biến, tuyên truyền nâng cao nhận thức cho sinh viên về ăn uống 
 đảm bảo dinh dưỡng, vệ sinh an toàn thực phẩm, sinh hoạt điều độ, không 
 lạm dụng rượu, bia, sử dụng chất kích thích, gây nghiện; kiến thức và kỹ năng 
 chăm sóc sức khỏe, phòng chống dịch, bệnh, tai nạn thương tích,…; Tổ chức 
 và triển khai hoạt động của Trạm Y tế trong Trường theo quy định của Bộ Giáo 
 dục và Đào tạo.
 6. Giáo dục thẩm mỹ
-a) Giáo dục kiến thức, kỹ năng để sinh viên biết yêu và cảm thụ cái đẹp 
++ Giáo dục kiến thức, kỹ năng để sinh viên biết yêu và cảm thụ cái đẹp 
 trong tự nhiên, cuộc sống xã hội và trong nghệ thuật.
-b) Hình thành năng lực phán đoán và đánh giá thẩm mỹ; hình thành thị
++ Hình thành năng lực phán đoán và đánh giá thẩm mỹ; hình thành thị
 hiếu, lý tưởng thẩm mỹ đúng đắn; hình thành năng lực sáng tạo nghệ thuật, 
 lòng ham muốn và khả năng chuyển tải cái đẹp vào đời sống học tập, lao động 
 và ứng xử. Có thái độ phê phán cái xấu, phản thẩm mỹ trong tâm hồn, trong 
 hành vi ứng xử, hình dáng, trang phục,...
 Điều 15. Công tác quản lý sinh viên
 1. Công tác hành chính
-a) Tổ chức tiếp nhận thí sinh trúng tuyển, sắp xếp, bố trí sinh viên vào các 
++ Tổ chức tiếp nhận thí sinh trúng tuyển, sắp xếp, bố trí sinh viên vào các 
 lớp; chỉ định Ban cán sự lớp (lớp trưởng, lớp phó) lâm thời, làm thẻ sinh viên, 
 106 Sổ tay sinh viên 2022
 thẻ thư viện; quản lý, tổ chức cấp phát văn bằng, chứng chỉ của sinh viên;
-b) Thống kê, tổng hợp dữ liệu và quản lý, lưu trữ hồ sơ liên quan đến sinh 
++ Thống kê, tổng hợp dữ liệu và quản lý, lưu trữ hồ sơ liên quan đến sinh 
 viên; giải quyết các công việc hành chính có liên quan đến sinh viên.
 2. Công tác khen thưởng và kỷ luật
-a) Theo dõi, đánh giá ý thức học tập; tổ chức đánh giá kết quả rèn luyện của 
++ Theo dõi, đánh giá ý thức học tập; tổ chức đánh giá kết quả rèn luyện của 
 sinh viên; phân loại, xếp loại sinh viên cuối mỗi học kỳ, năm học, khóa học 
 theo Quy chế của Bộ Giáo dục và Đào tạo;
-b) Phát động, tổ chức các phong trào thi đua trong sinh viên; Tổ chức đánh 
++ Phát động, tổ chức các phong trào thi đua trong sinh viên; Tổ chức đánh 
 giá, bình bầu và khen thưởng cho tập thể, cá nhân sinh viên đạt thành tích cao 
 trong học tập và rèn luyện; tổ chức cho sinh viên nghiên cứu khoa học, thi 
 Olympic các môn học, thi sáng tạo tài năng trẻ và các hoạt động khuyến khích 
 học tập khác;
-c) Hướng dẫn, kiểm tra, giám sát việc thực hiện các quy chế, quy định về
++ Hướng dẫn, kiểm tra, giám sát việc thực hiện các quy chế, quy định về
 học tập và rèn luyện đối với sinh viên;
-d) Tham mưu, theo dõi và tổng hợp việc xử lý kỷ luật sinh viên vi phạm theo 
++ Tham mưu, theo dõi và tổng hợp việc xử lý kỷ luật sinh viên vi phạm theo 
 quy định.
 3. Công tác sinh viên nội trú, ngoại trú
 Tổ chức thực hiện các nội dung, biện pháp công tác sinh viên nội trú, 
 ngoại trú theo quy định của Bộ Giáo dục và Đào tạo.
 4. Công tác bảo đảm an ninh, trật tự trường học
-a) Ban hành nội quy, quy định, xây dựng kế hoạch, tổ chức kiểm tra, giám 
++ Ban hành nội quy, quy định, xây dựng kế hoạch, tổ chức kiểm tra, giám 
 sát việc thực hiện các văn bản chỉ đạo, văn bản quy phạm pháp luật của Đảng, 
 Nhà nước về công tác bảo đảm an ninh, trật tự an toàn xã hội, phòng chống 
 tội phạm, tệ nạn xã hội trong sinh viên. Phối hợp với công an địa phương thực 
 hiện các biện pháp bảo đảm an ninh, trật tự trường học;
-b) Xây dựng môi trường giáo dục lành mạnh, đảm bảo an toàn cho các 
++ Xây dựng môi trường giáo dục lành mạnh, đảm bảo an toàn cho các 
 hoạt động học tập, rèn luyện của sinh viên. Theo dõi, nắm bắt diễn biến tư 
 tưởng, hành vi của sinh viên để có sự định hướng, giáo dục; phối hợp ngăn 
 chặn việc kích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng, 
@@ -3468,11 +3468,11 @@ nâng cao khả năng, học tập hiệu quả.
 Tổ chức thực hiện các nội dung, biện pháp công tác tư vấn hướng nghiệp,
 việc làm theo quy định của Bộ Giáo dục và Đào tạo.
 3. Tư vấn tâm lý, chăm sóc sức khỏe
-a) Tư vấn, hỗ trợ sinh viên khi gặp phải các vấn đề về tâm lý - xã hội; 
++ Tư vấn, hỗ trợ sinh viên khi gặp phải các vấn đề về tâm lý - xã hội; 
 phối hợp tổ chức các dịch vụ tư vấn, chăm sóc sức khỏe để có sự hỗ trợ, can 
 thiệp cần thiết khi sinh viên gặp phải các vấn đề ảnh hưởng đến thể chất và 
 tinh thần;
-b) Tổ chức khám sức khỏe đầu vào và định kỳ cho sinh viên; tư vấn, tổ
++ Tổ chức khám sức khỏe đầu vào và định kỳ cho sinh viên; tư vấn, tổ
 chức cho sinh viên thực hiện Luật bảo hiểm y tế; sơ, cấp cứu, khám chữa 
 bệnh ban đầu cho sinh viên.
 4. Hỗ trợ tài chính
@@ -3535,15 +3535,15 @@ Lớp sinh viên được duy trì ổn định trong cả khóa học, là nơi
 chức, quản lý về thực hiện các nhiệm vụ học tập, rèn luyện, các hoạt động 
 đoàn thể, các hoạt động xã hội, thi đua, khen thưởng, kỷ luật.
 2. Ban cán sự lớp sinh viên gồm:
-a) Đầu mỗi khóa học, Khoa lập danh sách Ban cán sự lớp trình Hiệu trưởng 
++ Đầu mỗi khóa học, Khoa lập danh sách Ban cán sự lớp trình Hiệu trưởng 
 ban hành quyết định công nhận hoặc điều chỉnh mỗi năm học (nếu có).
-b) Số lượng Ban cán sự lớp
++ Số lượng Ban cán sự lớp
 Sĩ số Lớp sinh viên Số lượng Ban cán sự lớp
 Dưới 50 sinh viên 1 lớp trưởng
 Từ 51 – 99 sinh viên 1 lớp trưởng, 1 lớp phó
 Từ 100 trở lên 1 lớp trưởng, 2 lớp phó
 110 Sổ tay sinh viên 2022
-c) Nhiệm vụ của ban cán sự lớp sinh viên:
++ Nhiệm vụ của ban cán sự lớp sinh viên:
 - Tổ chức thực hiện các nhiệm vụ học tập, rèn luyện, các hoạt động sinh 
 hoạt, đời sống và các hoạt động xã hội theo kế hoạch của trường, khoa, phòng, 
 ban;
@@ -3560,7 +3560,7 @@ Minh, và Hội sinh viên Việt Nam trong hoạt động của lớp;
 - Báo cáo đầy đủ, chính xác tình hình học tập, rèn luyện theo học kỳ, 
 năm học và những việc đột xuất của lớp với Chủ nhiệm lớp, Cố vấn học tập, 
 Khoa hoặc phòng Công tác sinh viên;
-d) Quyền lợi của ban cán sự lớp sinh viên: Được ưu tiên cộng điểm rèn 
++ Quyền lợi của ban cán sự lớp sinh viên: Được ưu tiên cộng điểm rèn 
 luyện và các chế độ khác theo quy định của trường.
 Điều 21. Lớp học phần
 1. Lớp học phần: bao gồm những sinh viên đăng ký cùng học một học 

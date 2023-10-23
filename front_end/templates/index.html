@@ -79,10 +79,21 @@
         .bot-message {
             background-color: #dff0d8;
             padding: 5px 10px;
+            margin-bottom: 10px;
+            margin-top: 0px;
+            border-radius: 10px;
             padding-left: 20%;
             padding-right: 20%;
+            white-space: pre-line;
+        }
+        .bot-message-start{
+            background-color: #4c33c9;
+            padding: 5px 10px;
+            margin: auto;
+            text-align: center;
             margin-bottom: 10px;
-            border-radius: 10px;
+          
+            color: white;
         }
 
         #ct2 {
@@ -114,25 +125,27 @@
             float: left;
         }
     </style>
+    
 </head>
 
 <body>
     <div class="chatbot">
         <div class="chat-container">
             <div class="sidebar">
-                <h5>Chat Sessions</h5>
+                
                 <div class="chatSessions">
-
+                    <h5>Chatbot OU</h5>
                     <ul class="list-group" id="session-list">
                         <!-- Danh sách các phiên tin nhắn -->
                     </ul>
                 </div>
 
                 <div class="informationLink">
+                    Các website thông dụng 
                     <hr>
-                    <div><a href="#">sdff</a></div>
-                    <div><a href="#">sdff</a></div>
-                    <div><a href="#">sdff</a></div>
+                    <div id="information-container">
+                      <!-- Dữ liệu từ bảng `information` sẽ được hiển thị ở đây -->
+                    </div>
 
                 </div>
             </div>
@@ -140,12 +153,10 @@
             <div class="chat-body" id="chat-body">
 
                 <div id="ct-2">
-                    <div class="bot-message">
+                    <div class="bot-message-start">
                         <div class="row">
                             <div class="col-1">
-                                <img src="https://th.bing.com/th/id/OIP.CAtnzvH269Y8IHZYMfkIOAHaE8?w=225&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"
-                                    width="40px" alt="">
-
+                               
                             </div>
                             <div class="col">
                                 Xin chào! Tôi là chatbot.
@@ -153,14 +164,19 @@
                         </div>
 
                     </div>
-
+                    <div id="answer">
+                        {{ answer }}
+                    </div>
                     <div class="input-container">
-                        <div class="input-group">
-                            <input type="text" class="form-control" id="user-input" placeholder="Nhập tin nhắn...">
-                            <div class="input-group-append">
-                                <button class="btn btn-primary" type="button" id="send-btn">Gửi</button>
+                        <form action="/chat" method="POST">
+                            <div class="input-group">
+                                <input type="text" class="form-control" id="user-input" onkeydown="checkEnter(event)" placeholder="Nhập tin nhắn...">
+                                <div class="input-group-append">
+                                    <button class="btn btn-primary" type="button" id="user_question" name="user_question" required>Gửi</button>
+                                </div>
                             </div>
-                        </div>
+                         </form>
+
                         <div>
                             <br>
                             <br>
@@ -181,59 +197,82 @@
 
         </div>
 
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+      
         <script>
             var sessionList = document.getElementById("session-list");
             var chatBody = document.getElementById("ct-2");
 
             // Xử lý sự kiện khi nhấn nút Gửi
-            document.getElementById("send-btn").addEventListener("click", function () {
+            document.getElementById("user_question").addEventListener("click", function () {
                 sendMessage();
 
             });
 
             // Xử lý sự kiện khi nhấn phím Enter
-            document.getElementById("user-input").addEventListener("keyup", function (event) {
-                if (event.keyCode === 13) {
-                    sendMessage();
-                }
-            });
-
+            <!--document.getElementById("user-input").addEventListener("keyup", function (event) {-->
+                <!--if (event.keyCode === 13) {-->
+                    <!--sendMessage();-->
+                <!--}-->
+            <!--});-->
+                        
+                       
+            function checkEnter(event) {
+              if (event.key === "Enter") {
+                event.preventDefault(); // Ngăn chặn sự kiện Enter gây ra kết thúc dòng mới trong trường input
+                // Thực hiện xử lý khi người dùng ấn Enter ở đây
+                sendMessage();
+              }
+            }
+            
             // Hàm gửi tin nhắn
             function sendMessage() {
                 var userInput = document.getElementById("user-input");
                 var userMessage = userInput.value.trim();
-
+            
                 if (userMessage !== "") {
                     displayUserMessage(userMessage);
-                    // Gửi yêu cầu xử lýtin nhắn đến server hoặc xử lý ở phía client
-                    // Ví dụ: gửi tin nhắn đến ChatGPT và nhận kết quả trả về
-                    var botMessage = "Đây là phản hồi từ chatbot.";
-                    displayBotMessage(botMessage);
+            
+                    // Gửi yêu cầu xử lý tin nhắn đến server
+                    var xhr = new XMLHttpRequest();
+            
+                    // Đặt phương thức và URL cho yêu cầu
+                    xhr.open("POST", "/chat", true);
+            
+                    // Đặt tiêu đề yêu cầu để máy chủ hiểu được định dạng dữ liệu
+                    xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+            
+                    // Định nghĩa hàm xử lý khi yêu cầu hoàn thành
+                    xhr.onreadystatechange = function () {
+                        if (xhr.readyState === 4 && xhr.status === 200) {
+                            // Xử lý kết quả trả về từ máy chủ (nếu cần)
+                            var response = JSON.parse(xhr.responseText);
+                            var botMessage = response.answer;
+                            console.log(response.answer)
+                            displayBotMessage(botMessage);
+                        }
+                    };
+            
+                    // Chuẩn bị dữ liệu cần gửi
+                    var data = "user_question=" + encodeURIComponent(userMessage);
+            
+                    // Gửi yêu cầu với dữ liệu
+                    xhr.send(data);
+            
+                    userInput.value = "";
+                    userInput.focus();
+            
+                    // Di chuyển đến cuối thanh cuộn
+                    var chatBody = document.getElementById("chat-body");
+                    chatBody.scrollTop = chatBody.scrollHeight;
                 }
-
-                userInput.value = "";
-                userInput.focus();
-                //Di chuyển đến cuối thanh cuộn
-                var chatbody = document.getElementById("chat-body");
-                chatbody.scrollTop = chatbody.scrollHeight;
-
             }
-            function formatMessage(img, message) {
-                return `<div class="row">
-                <div class="col-1">
-                    <img src="${img}" width="40px" height="40px" alt="">
-                </div>
-                <div class="col">
-                    ${message}
-                </div>
-            </div>`;
-            }
+                       
             // Hàm hiển thị tin nhắn của người dùng
             function displayUserMessage(message) {
                 var userMessageElement = document.createElement("div");
                 userMessageElement.classList.add("user-message");
-                userMessageElement.innerHTML = formatMessage("https://th.bing.com/th/id/OIP.aZ7VMQ7My_97wSAfUNj4pAHaMy?w=115&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7", message);
+                userMessageElement.innerHTML = formatMessage("https://toppng.com/public/uploads/preview/user-account-management-logo-user-icon-11562867145a56rus2zwu.png", message);
 
 
                 chatBody.appendChild(userMessageElement);
@@ -244,7 +283,7 @@
             function displayBotMessage(message) {
                 var botMessageElement = document.createElement("div");
                 botMessageElement.classList.add("bot-message");
-                botMessageElement.innerHTML = formatMessage("https://th.bing.com/th/id/OIP.CAtnzvH269Y8IHZYMfkIOAHaE8?w=225&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7", message);
+                botMessageElement.innerHTML = formatMessage("https://is3-ssl.mzstatic.com/image/thumb/Purple116/v4/3f/ed/17/3fed1781-e9e6-f91c-de78-e8cbc5c4857b/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg", message);
                 chatBody.appendChild(botMessageElement);
                 chatBody.scrollTop = chatBody.scrollHeight;
             }
@@ -271,11 +310,97 @@
             }
 
             // Gọi hàm addSessionToSidebar để thêm các phiên tin nhắn mẫu
-            addSessionToSidebar("Session 1");
-            addSessionToSidebar("Session 2");
-            addSessionToSidebar("Session 3");
-
+            <!--addSessionToSidebar("Session 1");-->
+            <!--addSessionToSidebar("Session 2");-->
+            <!--addSessionToSidebar("Session 3");-->
+            
+            function formatMessage(img, message) {
+                return `<div class="row">
+                <div class="col-1">
+                    <img src="${img}" width="40px" height="40px" alt="">
+                </div>
+                <div class="col">
+                    ${message}
+                </div>
+            </div>`;
+            }
         </script>
+       <script>
+    // Sử dụng JavaScript để lấy dữ liệu từ máy chủ
+    window.onload = function () {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', '/get_information', true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var information_data = JSON.parse(xhr.responseText);
+                var informationContainer = document.getElementById('information-container');
+                for (var i = 0; i < information_data.length; i++) {
+                    var info = information_data[i];
+                    var infoLink = document.createElement('a');
+                    infoLink.href = info[2];
+                    infoLink.innerText = info[1];
+                    informationContainer.appendChild(infoLink);
+
+                    // Thêm dòng ngắt sau mỗi liên kết
+                    var lineBreak = document.createElement('br');
+                    informationContainer.appendChild(lineBreak);
+                }
+            }
+        };
+        xhr.send();
+        
+         var sessionXhr = new XMLHttpRequest();
+            sessionXhr.open('GET', '/get_session', true);
+            sessionXhr.onreadystatechange = function () {
+                if (sessionXhr.readyState === 4 && sessionXhr.status === 200) {
+                    var session_data = JSON.parse(sessionXhr.responseText);
+                    var session_list = document.getElementById('session-list');
+                    for (var i = 0; i < session_data.length; i++) {
+                        var info = session_data[i];
+                        var infoLink = document.createElement('li');
+                        infoLink.value = info[0];  
+                        infoLink.innerText = info[2];  
+                        infoLink.classList.add("list-group-item");
+                        infoLink.addEventListener("click", function () {
+                            var session_id = this.value;  // Lấy giá trị session_id từ phần tử li
+                            updateSessionEndTime(session_id);
+                        });
+                        session_list.appendChild(infoLink);
+                    }
+                }
+            };
+            sessionXhr.send();
+            
+            var get_qa_by_session_xhr = new XMLHttpRequest();
+                get_qa_by_session_xhr.open('GET', '/get_qa_by_session', true);
+                get_qa_by_session_xhr.onreadystatechange = function () {
+                    if (get_qa_by_session_xhr.readyState === 4 && get_qa_by_session_xhr.status === 200) {
+                        var qa_by_session_data = JSON.parse(get_qa_by_session_xhr.responseText);
+                         for (var i = 0; i < qa_by_session_data.length; i++) {
+                            var info = qa_by_session_data[i];
+                            displayUserMessage(info[2]);
+                            displayBotMessage(info[3]);
+                        }
+                    }
+                };
+                get_qa_by_session_xhr.send();
+            
+            // Hàm để cập nhật end_time của session
+            function updateSessionEndTime(session_id) {
+                var updateSessionEndTimeXhr = new XMLHttpRequest();
+                updateSessionEndTimeXhr.open('PUT', '/update_session_end_time/' + session_id, true);
+                updateSessionEndTimeXhr.onreadystatechange = function () {
+                    if (updateSessionEndTimeXhr.readyState === 4 && updateSessionEndTimeXhr.status === 200) {
+                        location.reload();
+                    }
+                };
+                updateSessionEndTimeXhr.send();
+            }
+            
+
+    };
+</script>
+
 </body>
 
 </html>

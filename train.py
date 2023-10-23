@@ -13,12 +13,13 @@ from model import NeuralNet
 
 
 #---
-ignore_words = [':', '?', '.', '!']
+ignore_words = [':', '?', '.', '!','#','&','*']
 # Code to run in the virtual environment
 
 print(sys.prefix)
-def saveVenvData(pth):
+def saveVenvData(pth, pth2):
     pathFirstData = pth
+    pathSecondData = pth2 
     print(pathFirstData)
     # Create and activate virtual environment
     #create_and_activate_virtualenv("venv_init")
@@ -65,7 +66,7 @@ for intent in intents['intents']:
 
 
 # Khai báo biến ignore_words và gán giá trị
-ignore_words = [":","?", ".", "!"]
+ignore_words = [':', '?', '.', '!','#','&','*',';']
 
 # stem and lower each word
 all_words_tam = []
@@ -97,7 +98,7 @@ print("XY:", xy)
 
 
 # Use an absolute path to save the data file
-data_file_path = os.path.join(os.path.dirname(__file__), 'data/secondData', 'venvAdvice.json')
+data_file_path = os.path.join(os.path.dirname(__file__), '{pathSecondData}')
 with open(data_file_path, 'w', encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False)
 
@@ -143,7 +144,7 @@ def createMatrix(pth):
     batch_size = 8
     learning_rate = 0.001
     input_size = len(X_train[0])
-    hidden_size = 16 
+    hidden_size = 128  
     output_size = len(tags)
     print(input_size, output_size)
     
@@ -217,9 +218,13 @@ def saveTrainData(pth, data):
 current_file_dir = os.path.dirname(os.path.abspath(__file__))
 
 # Hoàn thành việc tạo ma trận cho mỗi tác vụ (đa tầng)
-saveVenvData('data/secondData/jsonAdvice.json')
+saveVenvData('data/secondData/jsonAdvice.json', 'data/secondData/venvAdvice.json')
 data_advice = createMatrix('data/secondData/venvAdvice.json')
 saveTrainData('data/trainData/Advice.pth', data_advice)
+
+#saveVenvData('test.json', 'test2.json' )
+#data_advice = createMatrix('test2.json' )
+
 
 
 

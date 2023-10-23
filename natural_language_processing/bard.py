@@ -1,6 +1,6 @@
 from bardapi import Bard
 import os 
-os.environ["_BARD_API_KEY"] = "bAh9Mlbd0dO8mwNAR9vTpkO-XdllsRVcWCPlOKIbOmhNDTUd1juZbHgN8jH9bVdPyezmzA."
+os.environ["_BARD_API_KEY"] = "cQh9MiwI3L1hbB6gsOWWFbzKUNmoyR65if7wP_1_vyoJ_mkKzxOlVpgjIjG6BiB-PvGx2Q."
 
 """
 enter: tôi cần bạn liệt kê các từ đồng nghĩa và từ viết tắc của "công nghệ thông tin" vào mảng wordSum. Tuyệt đối không nói gì thêm, không cần giải thích hay chỉ cách làm
@@ -72,6 +72,18 @@ def get_synonyms_and_abbreviations(key, max_retries=3):
             return arr
     
     return "Không có kết quả"
+
+
+def get_bard_answer(question):
+    result = Bard().get_answer(str(question))["content"]
+
+    if result:
+        return result
+    else:
+        return None
+    
+#y = get_bard_answer("Bạn biết gì về công nghệ thông tin ")
+#print(y)
 #t = get_synonyms_and_abbreviations("HT thogn tin ",3 )
     
 #print(t)

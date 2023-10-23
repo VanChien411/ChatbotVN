@@ -89,8 +89,8 @@ def get_response(vectorizer, user_input, tfidf_matrix, tags):
     
     similarities = cosine_similarity(tfidf_input, tfidf_matrix)
   
-    # Lấy ra các chỉ số của các kết quả có độ tương đồng lớn hơn 0.2
-    threshold = 0.2
+    # Lấy ra các chỉ số của các kết quả có độ tương đồng lớn hơn 0.2 
+    threshold = 0.2 
     threshold_indices = [{"index": index, "similarity": similarity} for index, similarity in enumerate(similarities[0]) if similarity > threshold]    
     # Lấy các chỉ số của các giá trị tương đồng và sắp xếp chúng theo thứ tự giảm dần
     sorted_indices = np.argsort(similarities[0])[::-1]

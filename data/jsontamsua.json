@@ -1,0 +1,1992 @@
+{
+      "tag": "ĐốiTượngĐượcMiễnHọc,MiễnThiNộiDungTrongChươngTrìnhGiáoDụcQuốcPhòngVàAnNinh:SinhViênCóGiấyXácNhậnKếtQuảHọcTậpNộiDungĐóĐạtTừ5,0ĐiểmTrởLên(theoThangĐiểm10).#*#Điều4.ĐốiTượngĐượcMiễn,TạmHoãnHọcGiáoDụcQuốcPhòngVàAnNinh",
+      "patterns": [
+        "Đối tượng được miễn học, miễn thi nội dung trong chương trình giáo  dục quốc phòng và an ninh: sinh viên có giấy xác nhận kết quả học tập nội  dung đó đạt từ 5,0 điểm trở lên (theo thang điểm 10). #*# Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc  phòng và an ninh"
+      ],
+      "responses": [
+        "\nĐối tượng được miễn học, miễn thi nội dung trong chương trình giáo  dục quốc phòng và an ninh: sinh viên có giấy xác nhận kết quả học tập nội  dung đó đạt từ 5,0 điểm trở lên (theo thang điểm 10). #*# Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc  phòng và an ninh"
+      ]
+    },
+    {
+      "tag": "ĐốiTượngĐượcMiễnHọcCácNộiDungThựcHànhKỹNăngQuânSự:#*#Điều4.ĐốiTượngĐượcMiễn,TạmHoãnHọcGiáoDụcQuốcPhòngVàAnNinh",
+      "patterns": [
+        "Đối tượng được miễn học các nội dung thực hành kỹ năng quân sự: #*# Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc  phòng và an ninh"
+      ],
+      "responses": [
+        "\nĐối tượng được miễn học các nội dung thực hành kỹ năng quân sự: #*# Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc  phòng và an ninh\n+ Sinh viên là người khuyết tật, có giấy xác nhận khuyết tật theo quy  định của pháp luật về người khuyết tật;\n+ Sinh viên không đủ sức khỏe về thể lực hoặc mắc những bệnh lý  không thể hoạt động mạnh theo danh sách khám sức khỏe hàng năm của \nTrạm Y tế Trường;\n+ Sinh viên đã hoàn thành nghĩa vụ quân sự, công an nhân dân."
+      ]
+    },
+    {
+      "tag": "ĐốiTượngĐượcTạmHoãnHọcGiáoDụcQuốcPhòngVàAnNinh:#*#Điều4.ĐốiTượngĐượcMiễn,TạmHoãnHọcGiáoDụcQuốcPhòngVàAnNinh",
+      "patterns": [
+        "Đối tượng được tạm hoãn học giáo dục quốc phòng và an ninh: #*# Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc  phòng và an ninh"
+      ],
+      "responses": [
+        "\nĐối tượng được tạm hoãn học giáo dục quốc phòng và an ninh: #*# Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc  phòng và an ninh\n Sổ tay sinh viên 2022 75\n+ Sinh viên vì lý do sức khỏe phải dừng học trong thời gian dài để điều  trị, có giấy xác nhận của bệnh viện (cấp quận, huyện trở lên) nơi sinh viên điều  trị cấp;\n+ Sinh viên là nữ đang mang thai hoặc trong thời gian nghỉ chế độ thai  sản có giấy xác nhận của bệnh viện phụ sản."
+      ]
+    },
+    {
+      "tag": "HếtThờiGianTạmHoãn,SinhViênĐăngKýHọcGiáoDụcQuốcPhòngVàAnNinhPhùHợpVớiKếHoạchCáNhânĐểHoànThànhChươngTrìnhĐàoTạo.#*#Điều4.ĐốiTượngĐượcMiễn,TạmHoãnHọcGiáoDụcQuốcPhòngVàAnNinh",
+      "patterns": [
+        "Hết thời gian tạm hoãn, sinh viên đăng ký học giáo dục quốc phòng  và an ninh phù hợp với kế hoạch cá nhân để hoàn thành chương trình đào tạo. #*# Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc  phòng và an ninh"
+      ],
+      "responses": [
+        "\nHết thời gian tạm hoãn, sinh viên đăng ký học giáo dục quốc phòng  và an ninh phù hợp với kế hoạch cá nhân để hoàn thành chương trình đào tạo. #*# Điều 4. Đối tượng được miễn, tạm hoãn học giáo dục quốc  phòng và an ninh"
+      ]
+    },
+    {
+      "tag": "Điều5.GiảngViênDạyGiáoDụcQuốcPhòngVàAnNinh",
+      "patterns": [
+        "Điều 5. Giảng viên dạy giáo dục quốc phòng và an ninh",
+        "Giảng viên dạy giáo dục quốc phòng và an ninh là giảng viên có trình  độ chuẩn theo quy định tại khoản 2 Điều 6 Nghị định số 13/2014/NĐ-CP ngày ",
+        "2. Giảng viên dạy giáo dục quốc phòng và an ninh khi giảng dạy tại  giảng đường hoặc trên thao trường phải mang mặc trang phục iáo dục quốc  phòng và an ninh theo quy định; giảng viên là sĩ quan quân đội, công an biệt  phái phải mang mặc theo Điều lệnh quân đội, công an nhân dân.",
+        "3. Trường xây dựng kế hoạch đào tạo, bồi dưỡng, cập nhật kiến thức  quốc phòng và an ninh, phương pháp dạy học bảo đảm trình độ chuẩn phù  hợp với yêu cầu giảng dạy trình độ đại học."
+      ],
+      "responses": [
+        "\nĐiều 5. Giảng viên dạy giáo dục quốc phòng và an ninh\n1. Giảng viên dạy giáo dục quốc phòng và an ninh là giảng viên có trình  độ chuẩn theo quy định tại khoản 2 Điều 6 Nghị định số 13/2014/NĐ-CP ngày \n25 tháng 02 năm 2014 của Chính phủ quy định chi tiết và biện pháp thi hành \nLuật Giáo dục quốc phòng và an ninh. Cụ thể giảng viên phải có một trong các  trình độ chuẩn sau đây: \n+ Có bằng cử nhân giáo dục quốc phòng và an ninh trở lên; \n+ Cán bộ quân đội, công an có bằng tốt nghiệp đại học trở lên; \n+ Có bằng tốt nghiệp đại học trở lên chuyên ngành khác và chứng chỉ đào tạo giảng viên giáo dục quốc phòng và an ninh và chứng chỉ bồi dưỡng  nghiệp vụ sư phạm.\n2. Giảng viên dạy giáo dục quốc phòng và an ninh khi giảng dạy tại  giảng đường hoặc trên thao trường phải mang mặc trang phục iáo dục quốc  phòng và an ninh theo quy định; giảng viên là sĩ quan quân đội, công an biệt  phái phải mang mặc theo Điều lệnh quân đội, công an nhân dân.\n3. Trường xây dựng kế hoạch đào tạo, bồi dưỡng, cập nhật kiến thức  quốc phòng và an ninh, phương pháp dạy học bảo đảm trình độ chuẩn phù  hợp với yêu cầu giảng dạy trình độ đại học."
+      ]
+    },
+    {
+      "tag": "Điều6.CơSởVậtChất,ThiếtBịDạyHọc",
+      "patterns": [
+        "Điều 6. Cơ sở vật chất, thiết bị dạy học",
+        "Chương trình giáo dục quốc phòng và an ninh được tổ chức giảng  dạy tại Cơ sở 2 (Đường số 9, Phường Long Bình Tân, Thành phố Biên Hòa, ",
+        "2. Quản lý, sử dụng và bảo quản vũ khí, trang thiết bị giáo dục quốc  phòng và an ninh thực hiện theo quy định hiện hành"
+      ],
+      "responses": [
+        "\nĐiều 6. Cơ sở vật chất, thiết bị dạy học\n1. Chương trình giáo dục quốc phòng và an ninh được tổ chức giảng  dạy tại Cơ sở 2 (Đường số 9, Phường Long Bình Tân, Thành phố Biên Hòa, \nTỉnh Đồng Nai). Cơ sở 2 có phòng học chuyên dùng, thao trường tổng hợp;  có đủ cơ sở vật chất, thiết bị dạy học giáo dục quốc phòng và an ninh theo quy  định hiện hành về danh mục thiết bị dạy học tối thiểu môn học giáo dục quốc  phòng và an ninh (Phụ lục).\n2. Quản lý, sử dụng và bảo quản vũ khí, trang thiết bị giáo dục quốc  phòng và an ninh thực hiện theo quy định hiện hành"
+      ]
+    },
+    {
+      "tag": "Điều7.ĐánhGiáKếtQuảHọcTập",
+      "patterns": [
+        "Điều 7. Đánh giá kết quả học tập"
+      ],
+      "responses": [
+        "\nĐiều 7. Đánh giá kết quả học tập\n1. Điểm thành phần, điểm thi cuối kỳ và điểm tổng kết của môn học được đánh giá theo thang điểm 10, làm tròn đến một chữ số thập phân và  được quy đổi sang thang điểm chữ và thang điểm 4 như sau: \n2. Điểm trung bình chung tích lũy của chương trình giáo dục quốc  phòng và an ninh được tính  theo thang điểm 4 theo công thức sau và được làm tròn đến 2 chữ số thập  phân:\n3. Điểm của các môn học thuộc chương trình giáo dục quốc phòng và  an ninh không tính vào điểm trung bình chung tích lũy của toàn khóa học.\n4. Trường tổ chức một kỳ thi phụ ngay sau kỳ thi chính cho các sinh  viên:"
+      ]
+    },
+    {
+      "tag": "ĐiểmThànhPhần,ĐiểmThiCuốiKỳVàĐiểmTổngKếtCủaMônHọcĐượcĐánhGiáTheoThangĐiểm10,LàmTrònĐếnMộtChữSốThậpPhânVàĐượcQuyĐổiSangThangĐiểmChữVàThangĐiểm4NhưSau:#*#Điều7.ĐánhGiáKếtQuảHọcTập",
+      "patterns": [
+        "Điểm thành phần, điểm thi cuối kỳ và điểm tổng kết của môn học được đánh giá theo thang điểm 10, làm tròn đến một chữ số thập phân và  được quy đổi sang thang điểm chữ và thang điểm 4 như sau:  #*# Điều 7. Đánh giá kết quả học tập"
+      ],
+      "responses": [
+        "\nĐiểm thành phần, điểm thi cuối kỳ và điểm tổng kết của môn học được đánh giá theo thang điểm 10, làm tròn đến một chữ số thập phân và  được quy đổi sang thang điểm chữ và thang điểm 4 như sau:  #*# Điều 7. Đánh giá kết quả học tập\nXếp loại Thang điểm 10 Thang điểm chữ Thang điểm 4\nĐạt\n9,0 – 10 A\n+ 4,0\n8,5 – 8,9 A 4,0\n8,0 – 8,4 B\n+ 3,5\n7,0 – 7,9 B 3,0\n6,5 – 6,9 C\n+ 2,5\n5,5 – 6,4 C 2,0\n5,0 – 5,4 D\n+ 1,5\n4,0 – 4,9 D 1,0\nKhông đạt Dưới 4,0 F 0,0"
+      ]
+    },
+    {
+      "tag": "ĐiểmTrungBìnhChungTíchLũyCủaChươngTrìnhGiáoDụcQuốcPhòngVàAnNinhĐượcTínhTheoThangĐiểm4TheoCôngThứcSauVàĐượcLàmTrònĐến2ChữSốThậpPhân:#*#Điều7.ĐánhGiáKếtQuảHọcTập",
+      "patterns": [
+        "Điểm trung bình chung tích lũy của chương trình giáo dục quốc  phòng và an ninh được tính  theo thang điểm 4 theo công thức sau và được làm tròn đến 2 chữ số thập  phân: #*# Điều 7. Đánh giá kết quả học tập"
+      ],
+      "responses": [
+        "\nĐiểm trung bình chung tích lũy của chương trình giáo dục quốc  phòng và an ninh được tính  theo thang điểm 4 theo công thức sau và được làm tròn đến 2 chữ số thập  phân: #*# Điều 7. Đánh giá kết quả học tập\nTrong đó: \n+ A điểm trung bình chung tích lũy của chương trình giáo dục quốc  phòng và an ninh;\n\n\n\n\n\n n i i n i i i n a n\nA\n1\n1\n Sổ tay sinh viên 2022 77\n+ ai là điểm của môn học thứ i;\n+ ni là số tín chỉ của môn học thứ i;\n+ n là tổng số môn học đăng ký học tập (Đối với chương trình giáo dục  quốc phòng và an ninh n = 4)."
+      ]
+    },
+    {
+      "tag": "ĐiểmCủaCácMônHọcThuộcChươngTrìnhGiáoDụcQuốcPhòngVàAnNinhKhôngTínhVàoĐiểmTrungBìnhChungTíchLũyCủaToànKhóaHọc.#*#Điều7.ĐánhGiáKếtQuảHọcTập",
+      "patterns": [
+        "Điểm của các môn học thuộc chương trình giáo dục quốc phòng và  an ninh không tính vào điểm trung bình chung tích lũy của toàn khóa học. #*# Điều 7. Đánh giá kết quả học tập"
+      ],
+      "responses": [
+        "\nĐiểm của các môn học thuộc chương trình giáo dục quốc phòng và  an ninh không tính vào điểm trung bình chung tích lũy của toàn khóa học. #*# Điều 7. Đánh giá kết quả học tập"
+      ]
+    },
+    {
+      "tag": "TrườngTổChứcMộtKỳThiPhụNgaySauKỳThiChínhChoCácSinhViên:#*#Điều7.ĐánhGiáKếtQuảHọcTập",
+      "patterns": [
+        "Trường tổ chức một kỳ thi phụ ngay sau kỳ thi chính cho các sinh  viên: #*# Điều 7. Đánh giá kết quả học tập",
+        "Thi không đạt ở lần thi thứ nhất; #*# Trường tổ chức một kỳ thi phụ ngay sau kỳ thi chính cho các sinh  viên:",
+        "Có điểm trung bình chung tích lũy không đạt 2.0. Trường hợp này  sinh viên được tùy chọn 01 trong 04 môn học để thi lại. #*# Trường tổ chức một kỳ thi phụ ngay sau kỳ thi chính cho các sinh  viên:"
+      ],
+      "responses": [
+        "\nTrường tổ chức một kỳ thi phụ ngay sau kỳ thi chính cho các sinh  viên: #*# Điều 7. Đánh giá kết quả học tập\nThi không đạt ở lần thi thứ nhất; #*# Trường tổ chức một kỳ thi phụ ngay sau kỳ thi chính cho các sinh  viên:\nCó điểm trung bình chung tích lũy không đạt 2.0. Trường hợp này  sinh viên được tùy chọn 01 trong 04 môn học để thi lại. #*# Trường tổ chức một kỳ thi phụ ngay sau kỳ thi chính cho các sinh  viên:\nSinh viên đóng tiền thi lại theo quy định của Trường. \nTrường hợp sau cả hai lần thi đều không đạt điểm trung bình 2.0 thì  sinh viên phải đăng ký học lại môn học đó cùng với khóa sau. Sinh viên tự sắp  xếp kế hoạch học tập theo thời khóa biểu do Ban Cơ bản cung cấp. Trong  trường hợp không thể sắp xếp lịch tự di chuyển, sinh viên có thể đóng tiền ăn  và ký túc xá để học tập và sinh hoạt cùng sinh viên khóa sau."
+      ]
+    },
+    {
+      "tag": "Điều8.ĐiềuKiệnĐượcCấpChứngChỉGiáoDụcQuốcPhòngVàAnNinh",
+      "patterns": [
+        "Điều 8. Điều kiện được cấp chứng chỉ giáo dục quốc phòng và  an ninh",
+        "1. Sinh viên có điểm trung bình chung tích lũy của chương trình giáo  dục quốc phòng và an ninh từ 2,0 trở lên được cấp chứng chỉ Giáo dục quốc  phòng và an ninh.",
+        "Chứng chỉ giáo dục quốc phòng và an ninh được xếp loại như sau",
+        "3. Chứng chỉ giáo dục quốc phòng và an ninh được cấp cho sinh viên  vào cuối khóa học cùng với bằng tốt nghiêp."
+      ],
+      "responses": [
+        "\nĐiều 8. Điều kiện được cấp chứng chỉ giáo dục quốc phòng và  an ninh\n1. Sinh viên có điểm trung bình chung tích lũy của chương trình giáo  dục quốc phòng và an ninh từ 2,0 trở lên được cấp chứng chỉ Giáo dục quốc  phòng và an ninh.\n2. Chứng chỉ giáo dục quốc phòng và an ninh được xếp loại như sau\nXếp loại\nĐiểm trung bình chung tích lũy của chương  trình giáo dục quốc phòng và an ninh\nXuất sắc 3,60 – 4,00\nGiỏi 3,20 – 3,59\nKhá 2,50 – 3,19\nTrung bình 2,00 – 2,49\n3. Chứng chỉ giáo dục quốc phòng và an ninh được cấp cho sinh viên  vào cuối khóa học cùng với bằng tốt nghiêp."
+      ]
+    },
+    {
+      "tag": "Điều9.TráchNhiệmCủaPhòngQuảnLýĐàoTạo",
+      "patterns": [
+        "Điều 9. Trách nhiệm của Phòng Quản lý đào tạo",
+        "1. Phối hợp với Ban Cơ bản, Bộ môn GDTC-Giáo dục quốc phòng và  an ninh xây dựng đề cương chi tiết các môn học thuộc chương trình giáo dục  quốc phòng và an ninh.",
+        "2. Xét miễn, giảm Giáo dục quốc phòng và an ninh cho sinh viên.",
+        "3. Xây dựng kế hoạch tổ chức dạy, học Giáo dục quốc phòng và an  ninh.",
+        "4. Giám sát công tác tổ chức đào tạo Giáo dục quốc phòng và an ninh.",
+        "5. Xét danh sách sinh viên đủ điều kiện được cấp chứng chỉ Giáo dục  quốc phòng và an ninh.",
+        "6. Quản lý phôi, in ấn, cấp phát chứng chỉ Giáo dục quốc phòng và an  ninh theo quy định hiện hành."
+      ],
+      "responses": [
+        "\nĐiều 9. Trách nhiệm của Phòng Quản lý đào tạo\n1. Phối hợp với Ban Cơ bản, Bộ môn GDTC-Giáo dục quốc phòng và  an ninh xây dựng đề cương chi tiết các môn học thuộc chương trình giáo dục  quốc phòng và an ninh.\n2. Xét miễn, giảm Giáo dục quốc phòng và an ninh cho sinh viên.\n3. Xây dựng kế hoạch tổ chức dạy, học Giáo dục quốc phòng và an  ninh.\n4. Giám sát công tác tổ chức đào tạo Giáo dục quốc phòng và an ninh.\n5. Xét danh sách sinh viên đủ điều kiện được cấp chứng chỉ Giáo dục  quốc phòng và an ninh.\n6. Quản lý phôi, in ấn, cấp phát chứng chỉ Giáo dục quốc phòng và an  ninh theo quy định hiện hành."
+      ]
+    },
+    {
+      "tag": "Điều10.TráchNhiệmCủaBanCơBản",
+      "patterns": [
+        "Điều 10. Trách nhiệm của Ban Cơ bản",
+        "1. Xây dựng đề cương chi tiết các môn học thuộc chương trình giáo  dục quốc phòng và an ninh.",
+        "2. Quản lý bộ môn Giáo dục thể chất-Giáo dục quốc phòng và an ninh,  phân công giảng viên giảng dạy giáo dục quốc phòng và an ninh và thực hiện  chế độ báo cáo theo quy định.",
+        "3. Đề xuất danh mục mua sắm thiết bị dạy học giáo dục quốc phòng  và an ninh tối thiểu theo quy định.",
+        "4. Lập kế hoạch chi tiết từng đợt học, phối hợp với các đơn vị liên quan  tổ chức cho sinh viên học tập giáo dục quốc phòng và an ninh đúng, đủ kế hoạch giảng dạy, đảm bảo an toàn về người, vũ khí, trang thiết bị.",
+        "5. Tổ chức lớp học lý thuyết không quá 150 người; lớp học thực hành  không quá 40 người.",
+        "6. Đề xuất các nội dung đào tạo, tập huấn cho đội ngũ cán bộ quản lý,  giảng viên giảng dạy chương trình giáo dục quốc phòng và an ninh."
+      ],
+      "responses": [
+        "\nĐiều 10. Trách nhiệm của Ban Cơ bản\n1. Xây dựng đề cương chi tiết các môn học thuộc chương trình giáo  dục quốc phòng và an ninh.\n2. Quản lý bộ môn Giáo dục thể chất-Giáo dục quốc phòng và an ninh,  phân công giảng viên giảng dạy giáo dục quốc phòng và an ninh và thực hiện  chế độ báo cáo theo quy định.\n3. Đề xuất danh mục mua sắm thiết bị dạy học giáo dục quốc phòng  và an ninh tối thiểu theo quy định.\n4. Lập kế hoạch chi tiết từng đợt học, phối hợp với các đơn vị liên quan  tổ chức cho sinh viên học tập giáo dục quốc phòng và an ninh đúng, đủ kế hoạch giảng dạy, đảm bảo an toàn về người, vũ khí, trang thiết bị.\n5. Tổ chức lớp học lý thuyết không quá 150 người; lớp học thực hành  không quá 40 người.\n6. Đề xuất các nội dung đào tạo, tập huấn cho đội ngũ cán bộ quản lý,  giảng viên giảng dạy chương trình giáo dục quốc phòng và an ninh."
+      ]
+    },
+    {
+      "tag": "Điều11.TráchNhiệmCủaPhòngCôngTácSinhViên",
+      "patterns": [
+        "Điều 11. Trách nhiệm của Phòng Công tác sinh viên",
+        "1. Phối hợp với Phòng Quản lý đào tạo và Ban Cơ bản xây dựng  chương trình huấn luyện kỹ năng và sinh hoạt ngoại khóa cho sinh viên.",
+        "2. Xử lý kỷ luật các sinh viên vi phạm Quy định quản lý sinh viên học tập,  rèn luyện, sinh hoạt chương trình giáo dục quốc phòng và an ninh hiện hành."
+      ],
+      "responses": [
+        "\nĐiều 11. Trách nhiệm của Phòng Công tác sinh viên\n Sổ tay sinh viên 2022 79\n1. Phối hợp với Phòng Quản lý đào tạo và Ban Cơ bản xây dựng  chương trình huấn luyện kỹ năng và sinh hoạt ngoại khóa cho sinh viên.\n2. Xử lý kỷ luật các sinh viên vi phạm Quy định quản lý sinh viên học tập,  rèn luyện, sinh hoạt chương trình giáo dục quốc phòng và an ninh hiện hành."
+      ]
+    },
+    {
+      "tag": "Điều12.TráchNhiệmCủaPhòngHànhChính–QuảnTrị",
+      "patterns": [
+        "Điều 12. Trách nhiệm của Phòng Hành chính – Quản trị",
+        "1. Thực hiện việc mua sắm thiết bị dạy học giáo dục quốc phòng và an  ninh theo danh mục đề xuất của Ban Cơ bản đã được Ban Giám hiệu phê  duyệt.",
+        "2. Thực hiện việc mua phôi chứng chỉ giáo dục quốc phòng và an ninh  tại Bộ Giáo dục và Đào tạo và quản lý việc cấp phát phôi chứng chỉ theo quy  định văn bằng, chứng chỉ hiện hành.",
+        "3. Đấu thầu suất ăn cho sinh viên trong thời gian học tập giáo dục quốc  phòng và an ninh tại Cơ sở 2.",
+        "4. Tổ chức thuê xe đưa đón sinh viên theo kế hoạch học tập giáo dục  quốc phòng và an ninh."
+      ],
+      "responses": [
+        "\nĐiều 12. Trách nhiệm của Phòng Hành chính – Quản trị\n1. Thực hiện việc mua sắm thiết bị dạy học giáo dục quốc phòng và an  ninh theo danh mục đề xuất của Ban Cơ bản đã được Ban Giám hiệu phê  duyệt.\n2. Thực hiện việc mua phôi chứng chỉ giáo dục quốc phòng và an ninh  tại Bộ Giáo dục và Đào tạo và quản lý việc cấp phát phôi chứng chỉ theo quy  định văn bằng, chứng chỉ hiện hành.\n3. Đấu thầu suất ăn cho sinh viên trong thời gian học tập giáo dục quốc  phòng và an ninh tại Cơ sở 2.\n4. Tổ chức thuê xe đưa đón sinh viên theo kế hoạch học tập giáo dục  quốc phòng và an ninh."
+      ]
+    },
+    {
+      "tag": "Điều13.TráchNhiệmCủaĐoànThanhNiên",
+      "patterns": [
+        "Điều 13. Trách nhiệm của Đoàn Thanh niên",
+        "1. Tổ chức đưa đón sinh viên học Giáo dục quốc phòng và an ninh;",
+        "2. Phối hợp với Phòng Quản lý đào tạo, Ban Cơ bản, Phòng Công tác  sinh viên tổ chức huấn luyện kỹ năng và sinh hoạt ngoại khóa cho sinh viên  trong thời gian học giáo dục quốc phòng và an ninh.",
+        "3. Phối hợp xây dựng nội dung chương trình buổi tổng kết khóa học  đáp ứng các tiêu chí: an toàn, tiết kiệm, vui khỏe, lành mạnh."
+      ],
+      "responses": [
+        "\nĐiều 13. Trách nhiệm của Đoàn Thanh niên\n1. Tổ chức đưa đón sinh viên học Giáo dục quốc phòng và an ninh;\n2. Phối hợp với Phòng Quản lý đào tạo, Ban Cơ bản, Phòng Công tác  sinh viên tổ chức huấn luyện kỹ năng và sinh hoạt ngoại khóa cho sinh viên  trong thời gian học giáo dục quốc phòng và an ninh.\n3. Phối hợp xây dựng nội dung chương trình buổi tổng kết khóa học  đáp ứng các tiêu chí: an toàn, tiết kiệm, vui khỏe, lành mạnh."
+      ]
+    },
+    {
+      "tag": "Điều14.TráchNhiệmCủaCơSở2",
+      "patterns": [
+        "Điều 14. Trách nhiệm của Cơ sở 2",
+        "1. Quản lý phòng học chuyên dùng, thao trường tổng hợp, thiết bị dạy  học Giáo dục quốc phòng và an ninh.",
+        "2. Quản lý và bảo quản vũ khí, trang thiết bị Giáo dục quốc phòng và  an ninh theo quy định hiện hành.",
+        "3. Quản lý nhà ăn sinh viên, giám sát định lượng suất ăn, giám sát các  tiêu chí về vệ sinh, an toàn thực phẩm, đảm bảo nhu cầu ăn kiêng, ăn chay  cho sinh viên, giải quyết các ý kiến, khiếu nại của sinh viên về chất lượng vệ sinh, thái độ phục vụ của bên cung cấp suất ăn.",
+        "Bảo đảm an ninh trật tự tại cơ sở. Giải quyết cho sinh viên ra khỏi  cơ sở phải có giấy tờ hợp lệ (được sự đồng ý của cán bộ quản lý). Có sổ sách ",
+        "5. Thu tiền thi lại của sinh viên và nộp cho Phòng Tài chính – Kế toán  theo các quy định hiện hành.",
+        "6. Thực hiện khảo sát ý kiến sinh viên về các dịch vụ cung cấp suất  ăn, vệ sinh, cơ sở vật chất, y tế và thái độ phục vụ của nhân viên tại cơ sở."
+      ],
+      "responses": [
+        "\nĐiều 14. Trách nhiệm của Cơ sở 2\n1. Quản lý phòng học chuyên dùng, thao trường tổng hợp, thiết bị dạy  học Giáo dục quốc phòng và an ninh.\n2. Quản lý và bảo quản vũ khí, trang thiết bị Giáo dục quốc phòng và  an ninh theo quy định hiện hành.\n3. Quản lý nhà ăn sinh viên, giám sát định lượng suất ăn, giám sát các  tiêu chí về vệ sinh, an toàn thực phẩm, đảm bảo nhu cầu ăn kiêng, ăn chay  cho sinh viên, giải quyết các ý kiến, khiếu nại của sinh viên về chất lượng vệ sinh, thái độ phục vụ của bên cung cấp suất ăn.\n4. Bảo đảm an ninh trật tự tại cơ sở. Giải quyết cho sinh viên ra khỏi  cơ sở phải có giấy tờ hợp lệ (được sự đồng ý của cán bộ quản lý). Có sổ sách \n80 Sổ tay sinh viên 2022 ghi chép giờ ra vào cổng của sinh viên. Quản lý người ra vào theo thời gian  quy định, đảm bảo không đưa vào đồ vật gây nguy hiểm, đồ ăn, uống có nồng  độ cồn và các chất cấm.\n5. Thu tiền thi lại của sinh viên và nộp cho Phòng Tài chính – Kế toán  theo các quy định hiện hành.\n6. Thực hiện khảo sát ý kiến sinh viên về các dịch vụ cung cấp suất  ăn, vệ sinh, cơ sở vật chất, y tế và thái độ phục vụ của nhân viên tại cơ sở."
+      ]
+    },
+    {
+      "tag": "Điều15.TráchNhiệmCủaTrạmYTế",
+      "patterns": [
+        "Điều 15. Trách nhiệm của Trạm Y tế",
+        "1. Cung cấp danh sách sinh viên không đủ sức khỏe để học thực hành  giáo dục quốc phòng và an ninh cho Phòng Quản lý đào tạo và Ban Cơ bản  vào đầu mỗi năm học.",
+        "2. Khám chữa bệnh, cấp thuốc cho sinh viên khi bị ốm đau, đưa đón  bệnh nhân chuyển tuyến, chịu hoàn toàn trách nhiệm về sức khỏe của sinh  viên trong thời gian học giáo dục quốc phòng và an ninh tại Cơ sở 2.",
+        "3. Thông báo cho cán bộ quản lý những vấn đề liên quan đến tình hình  sức khỏe của sinh viên."
+      ],
+      "responses": [
+        "\nĐiều 15. Trách nhiệm của Trạm Y tế\n1. Cung cấp danh sách sinh viên không đủ sức khỏe để học thực hành  giáo dục quốc phòng và an ninh cho Phòng Quản lý đào tạo và Ban Cơ bản  vào đầu mỗi năm học.\n2. Khám chữa bệnh, cấp thuốc cho sinh viên khi bị ốm đau, đưa đón  bệnh nhân chuyển tuyến, chịu hoàn toàn trách nhiệm về sức khỏe của sinh  viên trong thời gian học giáo dục quốc phòng và an ninh tại Cơ sở 2.\n3. Thông báo cho cán bộ quản lý những vấn đề liên quan đến tình hình  sức khỏe của sinh viên."
+      ]
+    },
+    {
+      "tag": "Điều16.TráchNhiệmCủaPhòngThanhTra–PhápChế",
+      "patterns": [
+        "Điều 16. Trách nhiệm của Phòng Thanh tra – Pháp chế",
+        "1. Phối hợp với Phòng Quản lý đào tạo, Ban Cơ bản dự thảo các quy định  liên quan đến tổ chức đào tạo giáo dục quốc phòng và an ninh trong Trường;",
+        "2. Tổ chức kiểm tra, thanh tra các hoạt động giảng dạy giáo dục quốc  phòng và an ninh theo quy định này và quy chế đào tạo đại học hệ chính quy  hiện hành của Trường."
+      ],
+      "responses": [
+        "\nĐiều 16. Trách nhiệm của Phòng Thanh tra – Pháp chế\n1. Phối hợp với Phòng Quản lý đào tạo, Ban Cơ bản dự thảo các quy định  liên quan đến tổ chức đào tạo giáo dục quốc phòng và an ninh trong Trường;\n2. Tổ chức kiểm tra, thanh tra các hoạt động giảng dạy giáo dục quốc  phòng và an ninh theo quy định này và quy chế đào tạo đại học hệ chính quy  hiện hành của Trường."
+      ]
+    },
+    {
+      "tag": "Điều17.TráchNhiệmThiHành",
+      "patterns": [
+        "Điều 17. Trách nhiệm thi hành",
+        "Phòng Quản lý đào tạo, Ban Cơ bản, Bộ môn GDTC-Giáo dục quốc  phòng và an ninh, Cơ sở 2 và các đơn vị có liên quan chịu trách nhiệm thi hành ",
+        "2. Trong quá trình tổ chức thực hiện, nếu có những vấn đề vướng mắc,  cần phản ánh kịp thời về Phòng Quản lý đào tạo để trình Ban Giám hiệu xem  xét, giải quyết./"
+      ],
+      "responses": [
+        "\nĐiều 17. Trách nhiệm thi hành\n1. Phòng Quản lý đào tạo, Ban Cơ bản, Bộ môn GDTC-Giáo dục quốc  phòng và an ninh, Cơ sở 2 và các đơn vị có liên quan chịu trách nhiệm thi hành \nQuy định này.\n2. Trong quá trình tổ chức thực hiện, nếu có những vấn đề vướng mắc,  cần phản ánh kịp thời về Phòng Quản lý đào tạo để trình Ban Giám hiệu xem  xét, giải quyết./"
+      ]
+    },
+    {
+      "tag": "Điều1.PhạmViĐiềuChỉnhVàĐốiTượngÁpDụng",
+      "patterns": [
+        "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+        "1. Văn bản này quy định về miễn, giảm môn học cho sinh viên trúng  tuyển vào Trường Đại học Mở Thành phố Hồ Chí Minh (sau đây gọi là Trường)  bao gồm: điều kiện, hồ sơ, trình tự thủ tục, thời gian và thẩm quyền xét miễn,  giảm môn học.",
+        "2. Quy định này áp dụng cho sinh viên đại học chính quy từ khoá tuyển  sinh năm 2022 trở về sau."
+      ],
+      "responses": [
+        "\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về miễn, giảm môn học cho sinh viên trúng  tuyển vào Trường Đại học Mở Thành phố Hồ Chí Minh (sau đây gọi là Trường)  bao gồm: điều kiện, hồ sơ, trình tự thủ tục, thời gian và thẩm quyền xét miễn,  giảm môn học.\n2. Quy định này áp dụng cho sinh viên đại học chính quy từ khoá tuyển  sinh năm 2022 trở về sau."
+      ]
+    },
+    {
+      "tag": "Điều2.GiảiThíchTừNgữ",
+      "patterns": [
+        "Điều 2. Giải thích từ ngữ",
+        "1. Miễn môn học là hình thức Trường miễn học và thi (sinh viên được  miễn đóng học phí);",
+        "Giảm môn học là giảm một hoặc một số thành phần của môn học,  sinh viên phải đóng đầy đủ học phí của môn học. "
+      ],
+      "responses": [
+        "\nĐiều 2. Giải thích từ ngữ\n1. Miễn môn học là hình thức Trường miễn học và thi (sinh viên được  miễn đóng học phí);\n2. Giảm môn học là giảm một hoặc một số thành phần của môn học,  sinh viên phải đóng đầy đủ học phí của môn học. \nViệc xét miễn hoặc giảm môn học được thực hiện trên cơ sở kết quả học tập của sinh viên trước khi vào học tại Trường."
+      ]
+    },
+    {
+      "tag": "Điều3.MụcĐíchMiễn,GiảmMônHọc",
+      "patterns": [
+        "Điều 3. Mục đích miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nĐiều 3. Mục đích miễn, giảm môn học\nGiảm bớt một số môn học sinh viên đã hoàn thành có trong chương  trình đào tạo (CTĐT) của ngành học, tạo cơ hội cho sinh viên tiết kiệm chi phí  và rút ngắn thời gian đào tạo"
+      ]
+    },
+    {
+      "tag": "Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nĐiều 4. Điều kiện được xét miễn, giảm môn học\n1. Đại học chính quy và đại học bằng thứ hai \n2. Liên thông từ cao đẳng lên đại học \n3. Giáo dục thể chất (GDTC)\n4. Giáo dục quốc phòng và an ninh (GDQP&AN)\n6. Đối tượng được miễn học GDQP&AN:\n7. Đối tượng được miễn học, miễn thi một số môn học trong chương  trình GDQP&AN: sinh viên có giấy xác nhận kết quả học tập môn học đó đạt  từ 5,0 điểm trở lên (theo thang điểm 10).\n8. Đối tượng được miễn học các nội dung thực hành kỹ năng quân sự:\n9. Đối tượng được tạm hoãn học GDQP&AN:\n5. Tin học đại cương"
+      ]
+    },
+    {
+      "tag": "ĐạiHọcChínhQuyVàĐạiHọcBằngThứHai#*#Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Đại học chính quy và đại học bằng thứ hai  #*# Điều 4. Điều kiện được xét miễn, giảm môn học",
+        "#*# Đại học chính quy và đại học bằng thứ hai "
+      ],
+      "responses": [
+        "\nĐại học chính quy và đại học bằng thứ hai  #*# Điều 4. Điều kiện được xét miễn, giảm môn học\n+ Không phân biệt hình thức đào tạo của bảng điểm ngành thứ nhất  khi xét miễn môn học.\n+ Tổng số tín chỉ được xét miễn không vượt quá 50% tổng số tín chỉ tối thiểu của CTĐT tại Trường.\n+ Điểm của môn học xét miễn phải đạt từ 5,0 trở lên theo thang điểm\n10. #*# Đại học chính quy và đại học bằng thứ hai \n+ Số tín chỉ của môn học xét miễn phải lớn hơn hoặc bằng số tín chỉ của môn học trong CTĐT của ngành học tại Trường.\n+ Đối với các môn học thuộc khối kiến thức giáo dục đại cương: không  giới hạn thời gian xét miễn.\n+ Đối với các môn học thuộc khối kiến thức giáo dục chuyên nghiệp:  thời gian không quá 7 năm tính từ học kỳ học của môn học đến học kỳ xét  miễn. \n+ Các môn học có tên khác với tên môn học trong CTĐT tại Trường  sẽ được xem xét miễn, giảm căn cứ vào đề cương môn học do sinh viên cung  cấp."
+      ]
+    },
+    {
+      "tag": "LiênThôngTừCaoĐẳngLênĐạiHọc#*#Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Liên thông từ cao đẳng lên đại học  #*# Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nLiên thông từ cao đẳng lên đại học  #*# Điều 4. Điều kiện được xét miễn, giảm môn học\nSinh viên được xét miễn môn học căn cứ vào chuẩn đầu ra và khối  lượng học tập bậc cao đẳng."
+      ]
+    },
+    {
+      "tag": "GiáoDụcThểChất(gdtc)#*#Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Giáo dục thể chất (GDTC) #*# Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nGiáo dục thể chất (GDTC) #*# Điều 4. Điều kiện được xét miễn, giảm môn học\n+ Miễn học và thi: Sinh viên đã có chứng chỉ GDTC hoặc bảng điểm  đã hoàn thành môn học GDTC có số tín chỉ đào tạo lớn hơn hoặc bằng số tín  chỉ của môn GDTC trong CTĐT của Trường. \n+ Giảm phần thực hành: Sinh viên có thương tật, khuyết tật bẩm sinh, bị bệnh mãn tính làm hạn chế chức năng vận động có giấy chứng nhận của bệnh  viện cấp quận, huyện và tương đương trở lên cấp, đồng thời được sự đồng ý của \n Sổ tay sinh viên 2022 83\nTrạm Y tế Trường sẽ được học các nội dung thay thế phù hợp do bộ môn GDTC  biên soạn nhằm tăng cường sức khỏe cho từng trường hợp cụ thể."
+      ]
+    },
+    {
+      "tag": "GiáoDụcQuốcPhòngVàAnNinh(gdqp&an)#*#Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Giáo dục quốc phòng và an ninh (GDQP&AN) #*# Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nGiáo dục quốc phòng và an ninh (GDQP&AN) #*# Điều 4. Điều kiện được xét miễn, giảm môn học\nThực hiện xét miễn, giảm, tạm hoãn theo Điều 4 Quy định tổ chức đào  tạo và đánh giá kết quả học tập chương trình giáo dục quốc phòng và an ninh  tại Trường Đại học Mở Thành phố Hồ Chí Minh ban hành kèm theo Quyết định  số 1415/QĐ-ĐHM ngày 7 tháng 7 năm 2021 của Hiệu trưởng Trường Đại học \nMở Thành phố Hồ Chí Minh, cụ thể như sau:"
+      ]
+    },
+    {
+      "tag": "ĐốiTượngĐượcMiễnHọcGdqp&an:#*#Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Đối tượng được miễn học GDQP&AN: #*# Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nĐối tượng được miễn học GDQP&AN: #*# Điều 4. Điều kiện được xét miễn, giảm môn học\n+ Sinh viên có giấy chứng nhận sĩ quan dự bị hoặc bằng tốt nghiệp do  các trường quân đội, công an cấp;\n+ Sinh viên đã có chứng chỉ GDQP&AN trình độ đại học;\n+ Sinh viên là người nước ngoài."
+      ]
+    },
+    {
+      "tag": "ĐốiTượngĐượcMiễnHọc,MiễnThiMộtSốMônHọcTrongChươngTrìnhGdqp&an:SinhViênCóGiấyXácNhậnKếtQuảHọcTậpMônHọcĐóĐạtTừ5,0ĐiểmTrởLên(theoThangĐiểm10).#*#Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Đối tượng được miễn học, miễn thi một số môn học trong chương  trình GDQP&AN: sinh viên có giấy xác nhận kết quả học tập môn học đó đạt  từ 5,0 điểm trở lên (theo thang điểm 10). #*# Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nĐối tượng được miễn học, miễn thi một số môn học trong chương  trình GDQP&AN: sinh viên có giấy xác nhận kết quả học tập môn học đó đạt  từ 5,0 điểm trở lên (theo thang điểm 10). #*# Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ]
+    },
+    {
+      "tag": "ĐốiTượngĐượcMiễnHọcCácNộiDungThựcHànhKỹNăngQuânSự:#*#Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Đối tượng được miễn học các nội dung thực hành kỹ năng quân sự: #*# Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nĐối tượng được miễn học các nội dung thực hành kỹ năng quân sự: #*# Điều 4. Điều kiện được xét miễn, giảm môn học\n+ Sinh viên là người khuyết tật, có giấy xác nhận khuyết tật theo quy  định của pháp luật về người khuyết tật;\n+ Sinh viên không đủ sức khỏe về thể lực hoặc mắc những bệnh lý  không thể hoạt động mạnh theo danh sách khám sức khỏe hàng năm của \nTrạm Y tế Trường;\n+ Sinh viên đã hoàn thành nghĩa vụ quân sự, công an nhân dân."
+      ]
+    },
+    {
+      "tag": "ĐốiTượngĐượcTạmHoãnHọcGdqp&an:#*#Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Đối tượng được tạm hoãn học GDQP&AN: #*# Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nĐối tượng được tạm hoãn học GDQP&AN: #*# Điều 4. Điều kiện được xét miễn, giảm môn học\n+ Sinh viên vì lý do sức khỏe phải dừng học trong thời gian dài để điều  trị, có giấy xác nhận của bệnh viện (cấp quận, huyện trở lên) nơi sinh viên điều  trị cấp;\n+ Sinh viên là nữ đang mang thai hoặc trong thời gian nghỉ chế độ thai  sản có giấy xác nhận của bệnh viện phụ sản.\nHết thời gian tạm hoãn, sinh viên đăng ký học GDQP&AN phù hợp với  kế hoạch cá nhân để hoàn thành CTĐT.\n84 Sổ tay sinh viên 2022"
+      ]
+    },
+    {
+      "tag": "TinHọcĐạiCương#*#Điều4.ĐiềuKiệnĐượcXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Tin học đại cương #*# Điều 4. Điều kiện được xét miễn, giảm môn học"
+      ],
+      "responses": [
+        "\nTin học đại cương #*# Điều 4. Điều kiện được xét miễn, giảm môn học\nSinh viên đạt chuẩn đầu ra Tin học khi đạt điểm môn Tin học đại cương  từ 5.0 trở lên theo thang điểm 10.\nSinh viên đã có một trong các văn bằng, chứng chỉ tin học liệt kê dưới  đây sẽ được miễn học môn Tin học đại cương:\n+ Tốt nghiệp đại học, cao đẳng hoặc trung cấp các nhóm ngành Máy  tính và Công nghệ thông tin ở trong nước hoặc nước ngoài; các bằng tốt  nghiệp ở nước ngoài phải được Cục Quản lý chất lượng – Bộ giáo dục và Đào  tạo công nhận. \n+ Chứng chỉ Ứng dụng công nghệ thông tin trình độ cơ bản do các  đơn vị được Bộ Giáo dục và Đào tạo cho phép cấp;\nCấp độ\nSố lượng chứng  chỉ phải nộp\nChứng chỉ xét miễn giảm\nMaster 1  MOS Master\nExpert 2  Word Expert và Excel Expert\nSpeciali st 3\n Word Specialist (hoặc Word Expert)\n Excel Specialist (hoặc Excel Expert)\n Power Point Specialist\n+ Chứng chỉ IC3 (The Internet and Computing Core Certification)  phiên bản GS4 (Global Standard 4) trở lên;\n+ Chứng chỉ MOS (Microsoft Office Specialist) phiên bản 2010 trở lên  và được xét 1 trong 3 cấp độ sau:"
+      ]
+    },
+    {
+      "tag": "Điều5.ThẩmQuyềnQuyếtĐịnhMiễn,GiảmMônHọc",
+      "patterns": [
+        "Điều 5. Thẩm quyền quyết định miễn, giảm môn học",
+        "1. Phòng Quản lý đào tạo xét miễn, giảm các môn học thuộc khối kiến  thức giáo dục đại cương.",
+        "2. Các khoa xét miễn các môn học thuộc khối kiến thức giáo dục  chuyên nghiệp.",
+        "3. Đối với liên thông trình độ từ cao đẳng lên đại học, Trường ban hành  danh mục các môn học được miễn căn cứ vào chuẩn đầu ra và khối lượng  học tập bậc cao đẳng theo đề xuất của Khoa.",
+        "Các trường hợp khác sẽ được Phòng Quản lý đào tạo và Khoa phối ",
+        "5. Phòng Quản lý đào tạo được sự ủy quyền của Hiệu trưởng cấp cho  sinh viên Phiếu miễn môn học trên cơ sở tổng hợp các môn học được miễn."
+      ],
+      "responses": [
+        "\nĐiều 5. Thẩm quyền quyết định miễn, giảm môn học\n1. Phòng Quản lý đào tạo xét miễn, giảm các môn học thuộc khối kiến  thức giáo dục đại cương.\n2. Các khoa xét miễn các môn học thuộc khối kiến thức giáo dục  chuyên nghiệp.\n3. Đối với liên thông trình độ từ cao đẳng lên đại học, Trường ban hành  danh mục các môn học được miễn căn cứ vào chuẩn đầu ra và khối lượng  học tập bậc cao đẳng theo đề xuất của Khoa.\n4. Các trường hợp khác sẽ được Phòng Quản lý đào tạo và Khoa phối \n Sổ tay sinh viên 2022 85 hợp xem xét giải quyết trên cơ sở các đề cương môn học, các chứng chỉ, bằng  cấp mà sinh viên đã đạt.\n5. Phòng Quản lý đào tạo được sự ủy quyền của Hiệu trưởng cấp cho  sinh viên Phiếu miễn môn học trên cơ sở tổng hợp các môn học được miễn."
+      ]
+    },
+    {
+      "tag": "Điều6.HồSơXinMiễn,GiảmMônHọc",
+      "patterns": [
+        "Điều 6. Hồ sơ xin miễn, giảm môn học",
+        "Đơn xin miễn môn học hoặc đơn xin giảm học phần thực hành môn ",
+        "Bảng điểm in theo từng học kỳ hoặc Đề cương môn học (nếu có yêu  cầu) do cơ sở đào tạo sinh viên từng học cấp hoặc các chứng chỉ GDQP, "
+      ],
+      "responses": [
+        "\nĐiều 6. Hồ sơ xin miễn, giảm môn học\nHồ sơ xin miễn, giảm môn học gồm có:\n1. Đơn xin miễn môn học hoặc đơn xin giảm học phần thực hành môn \nGDTC; GDQP&AN (phát tại Phòng Quản lý đào tạo hoặc tải về từ trang thông  tin điện tử http://www.ou.edu.vn, chuyên trang Phòng Quản lý đào tạo, chuyên  mục Các văn bản, biểu mẫu)\n2. Bảng điểm in theo từng học kỳ hoặc Đề cương môn học (nếu có yêu  cầu) do cơ sở đào tạo sinh viên từng học cấp hoặc các chứng chỉ GDQP, \nGDTC, Ngoại ngữ, Tin học phù hợp với quy định."
+      ]
+    },
+    {
+      "tag": "Điều7.TrìnhTự,ThủTụcXinMiễn,GiảmMônHọc",
+      "patterns": [
+        "Điều 7. Trình tự, thủ tục xin miễn, giảm môn học",
+        "1. Sinh viên nộp hồ sơ xin miễn, giảm môn học tại Phòng Quản lý đào tạo.",
+        "2. Phòng Quản lý đào tạo cấp Phiếu miễn, giảm các môn học cho sinh  viên trong thời gian tối đa không quá 30 ngày kể từ ngày nhận được hồ sơ xin  miễn, giảm hợp lệ."
+      ],
+      "responses": [
+        "\nĐiều 7. Trình tự, thủ tục xin miễn, giảm môn học\n1. Sinh viên nộp hồ sơ xin miễn, giảm môn học tại Phòng Quản lý đào tạo.\n2. Phòng Quản lý đào tạo cấp Phiếu miễn, giảm các môn học cho sinh  viên trong thời gian tối đa không quá 30 ngày kể từ ngày nhận được hồ sơ xin  miễn, giảm hợp lệ."
+      ]
+    },
+    {
+      "tag": "Điều8.ThờiGianNhậnĐơnXétMiễn,GiảmMônHọc",
+      "patterns": [
+        "Điều 8. Thời gian nhận đơn xét miễn, giảm môn học",
+        "1. Đối với các môn học trong CTĐT và môn Tin học đại cương: Sinh  viên nộp bảng điểm và chứng chỉ hợp lệ trong vòng một tháng kể từ khi làm  thủ tục nhập học. Trường chỉ xét miễn một lần cho toàn khóa học.",
+        "2. Đối với môn GDTC, GDQP&AN: Sinh viên nộp chứng chỉ và bảng  điểm hợp lệ theo kế hoạch đào tạo năm học Trường đã ban hành."
+      ],
+      "responses": [
+        "\nĐiều 8. Thời gian nhận đơn xét miễn, giảm môn học\n1. Đối với các môn học trong CTĐT và môn Tin học đại cương: Sinh  viên nộp bảng điểm và chứng chỉ hợp lệ trong vòng một tháng kể từ khi làm  thủ tục nhập học. Trường chỉ xét miễn một lần cho toàn khóa học.\n2. Đối với môn GDTC, GDQP&AN: Sinh viên nộp chứng chỉ và bảng  điểm hợp lệ theo kế hoạch đào tạo năm học Trường đã ban hành."
+      ]
+    },
+    {
+      "tag": "Điều9.QuyĐịnhLưuTrữ",
+      "patterns": [
+        "Điều 9. Quy định lưu trữ"
+      ],
+      "responses": [
+        "\nĐiều 9. Quy định lưu trữ\nKết quả xét miễn môn học được lưu trữ cùng với hồ sơ tốt nghiệp của  sinh viên."
+      ]
+    },
+    {
+      "tag": "Điều10.HoạtĐộngThanhTra,KiểmTra,GiámSát",
+      "patterns": [
+        "Điều 10. Hoạt động thanh tra, kiểm tra, giám sát"
+      ],
+      "responses": [
+        "\nĐiều 10. Hoạt động thanh tra, kiểm tra, giám sát\nPhòng Thanh tra-Pháp chế có trách nhiệm thanh tra, kiểm tra và giám  sát các hoạt động liên quan đến công tác xét miễn, giảm môn học theo quy  định hiện hành"
+      ]
+    },
+    {
+      "tag": "Điều1.PhạmViĐiềuChỉnhVàĐốiTượngÁpDụng",
+      "patterns": [
+        "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+        "Văn bản này quy định về việc đăng ký môn học tại Trường Đại học ",
+        "2. Quy định này áp dụng cho giảng viên, viên chức, sinh viên tham gia  tổ chức giảng dạy và học tập trình độ đại học theo hình thức đào tạo chính quy  từ năm học 2022-2023."
+      ],
+      "responses": [
+        "\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về việc đăng ký môn học tại Trường Đại học \nMở Thành phố Hồ Chí Minh (sau đây gọi là Trường) bao gồm: các hình thức  đăng ký môn học, kế hoạch đăng ký môn học trực tuyến và các quy định khác.\n2. Quy định này áp dụng cho giảng viên, viên chức, sinh viên tham gia  tổ chức giảng dạy và học tập trình độ đại học theo hình thức đào tạo chính quy  từ năm học 2022-2023."
+      ]
+    },
+    {
+      "tag": "Điều2.GiảiThíchTừNgữ",
+      "patterns": [
+        "Điều 2. Giải thích từ ngữ",
+        "1. Sinh viên: Tất cả sinh viên chính quy còn trong thời gian tối đa được  phép học tại Trường.",
+        "2. Sinh viên chính khóa: sinh viên đang học trong thời gian học tập  chuẩn của khóa học.",
+        "3. Học cải thiện: sinh viên đã có kết quả môn học đạt muốn đăng ký  học lại để có kết quả cao hơn.",
+        "4. Học vượt: sinh viên chính khóa đăng ký môn học cùng với khóa trên  để hoàn thành chương trình trước thời hạn.",
+        "5. Học lại: sinh viên đăng ký học lại môn học không đạt cùng với khóa  sau hoặc ngành khác."
+      ],
+      "responses": [
+        "\nĐiều 2. Giải thích từ ngữ\n1. Sinh viên: Tất cả sinh viên chính quy còn trong thời gian tối đa được  phép học tại Trường.\n2. Sinh viên chính khóa: sinh viên đang học trong thời gian học tập  chuẩn của khóa học.\n3. Học cải thiện: sinh viên đã có kết quả môn học đạt muốn đăng ký  học lại để có kết quả cao hơn.\n4. Học vượt: sinh viên chính khóa đăng ký môn học cùng với khóa trên  để hoàn thành chương trình trước thời hạn.\n5. Học lại: sinh viên đăng ký học lại môn học không đạt cùng với khóa  sau hoặc ngành khác."
+      ]
+    },
+    {
+      "tag": "Điều3.CácHìnhThứcĐăngKýMônHọc",
+      "patterns": [
+        "Điều 3. Các hình thức đăng ký môn học",
+        "Đăng ký môn học trực tuyến là hình thức đăng ký môn học qua mạng ",
+        "Đăng ký môn học trễ hạn là hình thức đăng ký trực tiếp tại Phòng "
+      ],
+      "responses": [
+        "\nĐiều 3. Các hình thức đăng ký môn học\nPhòng Quản lý đào tạo tổ chức đăng ký môn học theo hai hình thức  như sau:\na. Đăng ký môn học trực tuyến là hình thức đăng ký môn học qua mạng \nInternet, được tổ chức thực hiện trước khi bắt đầu học kỳ tối thiểu 01 tháng.\nb. Đăng ký môn học trễ hạn là hình thức đăng ký trực tiếp tại Phòng \nQuản lý đào tạo, được tổ chức thực hiện trong 02 tuần đầu của học kỳ, dành  cho những sinh viên cần điều chỉnh khối lượng học tập đã đăng ký sau khi kết \n Sổ tay sinh viên 2022 87 thúc thời gian đăng ký môn học trực tuyến."
+      ]
+    },
+    {
+      "tag": "Điều4.KếHoạchĐăngKýMônHọcTrựcTuyến",
+      "patterns": [
+        "Điều 4. Kế hoạch đăng ký môn học trực tuyến"
+      ],
+      "responses": [
+        "\nĐiều 4. Kế hoạch đăng ký môn học trực tuyến\nĐầu mỗi học kỳ, Phòng Quản lý đào tạo công bố công khai kế hoạch tổ chức đăng ký môn học trực tuyến trên trang thông tin điện tử của Trường và  của Phòng Quản lý đào tạo. Kế hoạch có các mốc thời gian đăng ký môn học  cụ thể cho từng khóa, nhóm đối tượng để đảm bảo hệ thống đăng ký môn học  hoạt động thông suốt."
+      ]
+    },
+    {
+      "tag": "Điều5.ĐăngKýMônHọcTrựcTuyến",
+      "patterns": [
+        "Điều 5. Đăng ký môn học trực tuyến"
+      ],
+      "responses": [
+        "\nĐiều 5. Đăng ký môn học trực tuyến\n1. Quy định chung\n2. Quy định áp dụng cho sinh viên chính khóa\na. Sinh viên chính khóa các ngành không chuyên ngữ phải đăng ký 2  cấp độ tiếng Anh tiếp theo của học kỳ liền trước thì mới được đăng ký các môn  học còn lại của thời khóa biểu.\nb. Sinh viên chính khóa muốn học vượt phải làm đơn đề nghị được  học vượt và được Cố vấn học tập phê duyệt. Sinh viên nộp đơn đăng ký học  vượt đã được Cố vấn học tập cho phép cho Phòng Quản lý đào tạo để được "
+      ]
+    },
+    {
+      "tag": "QuyĐịnhChung#*#Điều5.ĐăngKýMônHọcTrựcTuyến",
+      "patterns": [
+        "Quy định chung #*# Điều 5. Đăng ký môn học trực tuyến"
+      ],
+      "responses": [
+        "\nQuy định chung #*# Điều 5. Đăng ký môn học trực tuyến\n+ Sinh viên đăng ký môn học theo chương trình đào tạo ngành – khóa  học đã ban hành (tham khảo tại mục Chương trình đào tạo đăng tại trang thông  tin điện tử của khoa). Các môn học đăng ký phải đúng tên môn học, mã môn  học và số tín chỉ quy định. Sinh viên đăng ký học lại cùng với khóa sau hoặc  ngành khác cần phải tham khảo thêm danh mục môn học tương đương – thay  thế đã công bố của Trường.\n+ Sinh viên phải đọc kỹ quy định đăng ký môn học, tham khảo ý kiến  của Cố vấn học tập trước khi quyết định đăng ký môn học trực tuyến.\n+ Số tín chỉ tối đa được đăng ký trong một học kỳ là 21 tín chỉ không  bao gồm các môn học thuộc chương trình Giáo dục quốc phòng – An ninh,\nGiáo dục thể chất và tiếng Anh căn bản.\n+ Sinh viên không được đăng ký môn học trùng thời khóa biểu (hệ thống đăng ký môn học có nhắc nhở). \n+ Sinh viên không đăng ký những môn học chưa có kết quả thi.\n+ Sinh viên đăng ký học cải thiện (điểm<9) được lấy điểm cao nhất  trong các lần thi."
+      ]
+    },
+    {
+      "tag": "QuyĐịnhÁpDụngChoSinhViênChínhKhóa#*#Điều5.ĐăngKýMônHọcTrựcTuyến",
+      "patterns": [
+        "Quy định áp dụng cho sinh viên chính khóa #*# Điều 5. Đăng ký môn học trực tuyến"
+      ],
+      "responses": [
+        "\nQuy định áp dụng cho sinh viên chính khóa #*# Điều 5. Đăng ký môn học trực tuyến"
+      ]
+    },
+    {
+      "tag": "SinhViênChínhKhóaCácNgànhKhôngChuyênNgữPhảiĐăngKý2CấpĐộTiếngAnhTiếpTheoCủaHọcKỳLiềnTrướcThìMớiĐượcĐăngKýCácMônHọcCònLạiCủaThờiKhóaBiểu.#*#Điều5.ĐăngKýMônHọcTrựcTuyến",
+      "patterns": [
+        "Sinh viên chính khóa các ngành không chuyên ngữ phải đăng ký 2  cấp độ tiếng Anh tiếp theo của học kỳ liền trước thì mới được đăng ký các môn  học còn lại của thời khóa biểu. #*# Điều 5. Đăng ký môn học trực tuyến"
+      ],
+      "responses": [
+        "\nSinh viên chính khóa các ngành không chuyên ngữ phải đăng ký 2  cấp độ tiếng Anh tiếp theo của học kỳ liền trước thì mới được đăng ký các môn  học còn lại của thời khóa biểu. #*# Điều 5. Đăng ký môn học trực tuyến"
+      ]
+    },
+    {
+      "tag": "SinhViênChínhKhóaMuốnHọcVượtPhảiLàmĐơnĐềNghịĐượcHọcVượtVàĐượcCốVấnHọcTậpPhêDuyệt.SinhViênNộpĐơnĐăngKýHọcVượtĐãĐượcCốVấnHọcTậpChoPhépChoPhòngQuảnLýĐàoTạoĐểĐược#*#Điều5.ĐăngKýMônHọcTrựcTuyến",
+      "patterns": [
+        "Sinh viên chính khóa muốn học vượt phải làm đơn đề nghị được  học vượt và được Cố vấn học tập phê duyệt. Sinh viên nộp đơn đăng ký học  vượt đã được Cố vấn học tập cho phép cho Phòng Quản lý đào tạo để được  #*# Điều 5. Đăng ký môn học trực tuyến"
+      ],
+      "responses": [
+        "\nSinh viên chính khóa muốn học vượt phải làm đơn đề nghị được  học vượt và được Cố vấn học tập phê duyệt. Sinh viên nộp đơn đăng ký học  vượt đã được Cố vấn học tập cho phép cho Phòng Quản lý đào tạo để được  #*# Điều 5. Đăng ký môn học trực tuyến\n88 Sổ tay sinh viên 2022 hỗ trợ đăng ký môn học nếu còn sĩ số."
+      ]
+    },
+    {
+      "tag": "Điều6.ĐăngKýMônHọcTrễHạn",
+      "patterns": [
+        "Điều 6. Đăng ký môn học trễ hạn"
+      ],
+      "responses": [
+        "\nĐiều 6. Đăng ký môn học trễ hạn\n1. Đăng ký môn học trễ hạn dành cho các sinh viên muốn điều chỉnh  khối lượng đăng ký học tập sau khi hết thời gian đăng ký môn học trực tuyến.\n2. Phòng Quản lý đào tạo giải quyết hủy bớt các môn học sinh viên đã  đăng ký trực tuyến cho các trường hợp cụ thể liệt kê dưới đây:\n3. Phòng Quản lý đào tạo giải quyết đăng ký thêm môn học vào các  lớp học chưa đầy sĩ số cho các trường hợp: "
+      ]
+    },
+    {
+      "tag": "ĐăngKýMônHọcTrễHạnDànhChoCácSinhViênMuốnĐiềuChỉnhKhốiLượngĐăngKýHọcTậpSauKhiHếtThờiGianĐăngKýMônHọcTrựcTuyến.#*#Điều6.ĐăngKýMônHọcTrễHạn",
+      "patterns": [
+        "Đăng ký môn học trễ hạn dành cho các sinh viên muốn điều chỉnh  khối lượng đăng ký học tập sau khi hết thời gian đăng ký môn học trực tuyến. #*# Điều 6. Đăng ký môn học trễ hạn"
+      ],
+      "responses": [
+        "\nĐăng ký môn học trễ hạn dành cho các sinh viên muốn điều chỉnh  khối lượng đăng ký học tập sau khi hết thời gian đăng ký môn học trực tuyến. #*# Điều 6. Đăng ký môn học trễ hạn"
+      ]
+    },
+    {
+      "tag": "PhòngQuảnLýĐàoTạoGiảiQuyếtHủyBớtCácMônHọcSinhViênĐãĐăngKýTrựcTuyếnChoCácTrườngHợpCụThểLiệtKêDướiĐây:#*#Điều6.ĐăngKýMônHọcTrễHạn",
+      "patterns": [
+        "Phòng Quản lý đào tạo giải quyết hủy bớt các môn học sinh viên đã  đăng ký trực tuyến cho các trường hợp cụ thể liệt kê dưới đây: #*# Điều 6. Đăng ký môn học trễ hạn"
+      ],
+      "responses": [
+        "\nPhòng Quản lý đào tạo giải quyết hủy bớt các môn học sinh viên đã  đăng ký trực tuyến cho các trường hợp cụ thể liệt kê dưới đây: #*# Điều 6. Đăng ký môn học trễ hạn\n+ Trùng lịch học do Trường thay đổi thời khóa biểu sau khi sinh viên  đã đăng ký môn học;\n+ Môn học đã đăng ký nhưng Trường không mở lớp do không đủ sĩ  số tối thiểu theo quy định;\n+ Sinh viên được Trường cho phép miễn môn học trong cùng học kỳ. \nTrường hợp này sinh viên làm thủ tục hoàn học phí trước 2/3 thời gian học  của môn học;\n+ Sinh viên bị tai nạn đột xuất hoặc nằm viện trong thời gian dài, không  thể theo học học kỳ đã đăng ký môn học. Trường hợp này sinh viên phải có  giấy xác nhận của cơ quan y tế cấp quận, huyện trở lên cấp; \n+ Gia đình gặp thiên tai đột xuất, không thể theo học học kỳ đã đăng  ký. Trường hợp này sinh viên phải có giấy xác nhận của UBND cấp quận,  huyện trở lên cấp;\n+ Sinh viên phải nhập ngũ, không thể tham gia học kỳ đã đăng ký môn  học. Trường hợp này sinh viên phải có giấy gọi nhập ngũ."
+      ]
+    },
+    {
+      "tag": "PhòngQuảnLýĐàoTạoGiảiQuyếtĐăngKýThêmMônHọcVàoCácLớpHọcChưaĐầySĩSốChoCácTrườngHợp:#*#Điều6.ĐăngKýMônHọcTrễHạn",
+      "patterns": [
+        "Phòng Quản lý đào tạo giải quyết đăng ký thêm môn học vào các  lớp học chưa đầy sĩ số cho các trường hợp:  #*# Điều 6. Đăng ký môn học trễ hạn"
+      ],
+      "responses": [
+        "\nPhòng Quản lý đào tạo giải quyết đăng ký thêm môn học vào các  lớp học chưa đầy sĩ số cho các trường hợp:  #*# Điều 6. Đăng ký môn học trễ hạn\n+ Sinh viên có kết quả thi không đạt của môn học đăng ký học học kỳ trước đó sau khi đã kết thúc thời gian đăng ký môn học trực tuyến; \n+ Sinh viên bị trùng lịch học do Trường thay đổi thời khóa biểu;\n+ Sinh viên đăng ký bổ sung thêm môn học để đủ khối lượng tín chỉ tối thiểu do môn học đã đăng ký không được mở lớp."
+      ]
+    },
+    {
+      "tag": "Điều7.ThờiKhóaBiểuCáNhânVàHọcPhí",
+      "patterns": [
+        "Điều 7. Thời khóa biểu cá nhân và học phí"
+      ],
+      "responses": [
+        "\nĐiều 7. Thời khóa biểu cá nhân và học phí\n+ Căn cứ vào kế hoạch đăng ký môn học trực tuyến, sau khi kết thúc  thời gian đăng ký môn học, sinh viên kiểm tra Thời khóa biểu cá nhân và học \n Sổ tay sinh viên 2022 89 phí trên Hệ thống thông tin sinh viên http://tienichsv.ou.edu.vn.\n+ Sinh viên đóng học phí trực tuyến hoặc trực tiếp tại các ngân hàng  liên kết theo hướng dẫn cụ thể của Phòng Tài chính – Kế toán."
+      ]
+    },
+    {
+      "tag": "Điều8.CácQuyĐịnhKhác",
+      "patterns": [
+        "Điều 8. Các quy định khác",
+        "1. Sinh viên đóng học phí theo thời gian quy định của Trường. Các  trường hợp không đóng học phí hoặc đóng học phí trễ hạn sẽ bị khóa mã số sinh viên học kỳ kế tiếp.",
+        "Sinh viên bị khóa mã số sinh viên làm thủ tục mở mã số sinh viên tại ",
+        "Các trường hợp xin tạm nghỉ học vì lý do cá nhân sau khi đã kết thúc  thời gian đăng ký môn học trực tuyến (không thuộc các điểm d, đ, e Khoản 2, "
+      ],
+      "responses": [
+        "\nĐiều 8. Các quy định khác\n1. Sinh viên đóng học phí theo thời gian quy định của Trường. Các  trường hợp không đóng học phí hoặc đóng học phí trễ hạn sẽ bị khóa mã số sinh viên học kỳ kế tiếp.\n2. Sinh viên bị khóa mã số sinh viên làm thủ tục mở mã số sinh viên tại \nPhòng Quản lý đào tạo theo thời gian quy định trong Kế hoạch đăng ký môn  học trực tuyến.\n3. Các trường hợp xin tạm nghỉ học vì lý do cá nhân sau khi đã kết thúc  thời gian đăng ký môn học trực tuyến (không thuộc các điểm d, đ, e Khoản 2, \nĐiều 6) phải đóng học phí theo quy định"
+      ]
+    },
+    {
+      "tag": "Điều1.PhạmViĐiềuChỉnhVàĐốiTượngÁpDụngLịchThi",
+      "patterns": [
+        "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng lịch thi",
+        "1. Quy định này áp dụng cho sinh viên bậc đại học (bao gồm đại học,  bằng thứ hai và liên thông từ cao đẳng lên đại học) hình thức đào tạo chính  quy.",
+        "2. Quy định này áp dụng từ năm học 2020-2021."
+      ],
+      "responses": [
+        "\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng lịch thi\n1. Quy định này áp dụng cho sinh viên bậc đại học (bao gồm đại học,  bằng thứ hai và liên thông từ cao đẳng lên đại học) hình thức đào tạo chính  quy.\n2. Quy định này áp dụng từ năm học 2020-2021."
+      ]
+    },
+    {
+      "tag": "Điều2.ĐiềuKiệnĐượcXétĐiềuChỉnhLịchThi",
+      "patterns": [
+        "Điều 2. Điều kiện được xét điều chỉnh lịch thi",
+        "Sinh viên bị ốm đau, tai nạn có giấy xác nhận của cơ sở y tế cấp ",
+        "Sinh viên có tang của người thân là vợ (chồng), ông, bà, cha, mẹ,  anh, chị, em ruột (hoặc của chồng/vợ), có bản sao giấy trích lục khai tử, bản  sao hộ khẩu và các giấy tờ khác xác nhận quan hệ gia đình (công chứng tại ",
+        "3. Sinh viên có quyết định của cơ quan cử đi công tác đột xuất.",
+        "4. Sinh viên bị xếp trùng lịch thi do đăng ký học cải thiện điểm, học các  môn thuộc các lớp khác với lớp đang theo học (trừ trường hợp sinh viên đăng  ký môn học khác trong học kỳ có học Giáo dục quốc phòng và an ninh)."
+      ],
+      "responses": [
+        "\nĐiều 2. Điều kiện được xét điều chỉnh lịch thi\nSinh viên được xét điều chỉnh lịch thi trong các trường hợp sau đây:\n1. Sinh viên bị ốm đau, tai nạn có giấy xác nhận của cơ sở y tế cấp \nQuận, Huyện trở lên cấp.\n2. Sinh viên có tang của người thân là vợ (chồng), ông, bà, cha, mẹ,  anh, chị, em ruột (hoặc của chồng/vợ), có bản sao giấy trích lục khai tử, bản  sao hộ khẩu và các giấy tờ khác xác nhận quan hệ gia đình (công chứng tại \nỦy ban nhân dân cấp Phường, Xã hoặc bản chính để đối chiếu).\n3. Sinh viên có quyết định của cơ quan cử đi công tác đột xuất.\n4. Sinh viên bị xếp trùng lịch thi do đăng ký học cải thiện điểm, học các  môn thuộc các lớp khác với lớp đang theo học (trừ trường hợp sinh viên đăng  ký môn học khác trong học kỳ có học Giáo dục quốc phòng và an ninh)."
+      ]
+    },
+    {
+      "tag": "Điều3.HồSơXinĐiềuChỉnhLịchThi",
+      "patterns": [
+        "Điều 3. Hồ sơ xin điều chỉnh lịch thi",
+        "1. Phiếu đề nghị điều chỉnh lịch thi (phát tại Bộ phận tiếp sinh viên thuộc  phòng Quản lý đào tạo hoặc tải về tại trang http://www.ou.edu.vn/qldt, chuyên  mục Văn bản – Quy định – Biểu mẫu).",
+        "2. Các giấy tờ liên quan: được quy định tại Điều 2 quy định này."
+      ],
+      "responses": [
+        "\nĐiều 3. Hồ sơ xin điều chỉnh lịch thi\nHồ sơ xin điều chỉnh lịch thi gồm có:\n1. Phiếu đề nghị điều chỉnh lịch thi (phát tại Bộ phận tiếp sinh viên thuộc  phòng Quản lý đào tạo hoặc tải về tại trang http://www.ou.edu.vn/qldt, chuyên  mục Văn bản – Quy định – Biểu mẫu).\n2. Các giấy tờ liên quan: được quy định tại Điều 2 quy định này."
+      ]
+    },
+    {
+      "tag": "Điều4.TrìnhTự,ThủTụcXinĐiềuChỉnhLịchThi",
+      "patterns": [
+        "Điều 4. Trình tự, thủ tục xin điều chỉnh lịch thi",
+        "Sinh viên nộp hồ sơ xin điều chỉnh lịch thi tại Bộ phận tiếp sinh viên  thuộc phòng Quản lý đào tạo.",
+        "Phòng Quản lý đào tạo trả lời trực tiếp cho sinh viên tối đa không quá "
+      ],
+      "responses": [
+        "\nĐiều 4. Trình tự, thủ tục xin điều chỉnh lịch thi\n1. Sinh viên nộp hồ sơ xin điều chỉnh lịch thi tại Bộ phận tiếp sinh viên  thuộc phòng Quản lý đào tạo.\n Sổ tay sinh viên 2022 91\n2. Phòng Quản lý đào tạo trả lời trực tiếp cho sinh viên tối đa không quá \n3 (ba) ngày làm việc kể từ ngày nhận được hồ sơ xin điều chỉnh lịch thi hợp lệ."
+      ]
+    },
+    {
+      "tag": "Điều5.ThờiGianNhậnHồSơĐềNghịĐiềuChỉnhLịchThi",
+      "patterns": [
+        "Điều 5. Thời gian nhận hồ sơ đề nghị điều chỉnh lịch thi",
+        "1. Trùng lịch thi: Một tuần kể từ ngày thông báo lịch thi trên trang http://www.ou.edu.vn tại mục Lịch thi chung.",
+        "2. Trường hợp bị tai nạn, ốm vào đúng ngày thi: nhận đơn tối đa 3 ngày  sau khi thi.",
+        "Trường hợp người thân mất trong vòng 3 ngày trước ngày thi: nhận  đơn tối đa 3 ngày sau khi thi."
+      ],
+      "responses": [
+        "\nĐiều 5. Thời gian nhận hồ sơ đề nghị điều chỉnh lịch thi\n1. Trùng lịch thi: Một tuần kể từ ngày thông báo lịch thi trên trang http://www.ou.edu.vn tại mục Lịch thi chung.\n2. Trường hợp bị tai nạn, ốm vào đúng ngày thi: nhận đơn tối đa 3 ngày  sau khi thi.\n3. Trường hợp người thân mất trong vòng 3 ngày trước ngày thi: nhận  đơn tối đa 3 ngày sau khi thi.\nCác trường hợp xin điều chỉnh lịch thi khác ngoài quy định này, Phòng \nQuản lý đào tạo sẽ xem xét và trả lời cụ thể (không trái với các quy định hiện  hành)"
+      ]
+    },
+    {
+      "tag": "Điều1.PhạmViĐiềuChỉnhVàĐốiTượngÁpDụng",
+      "patterns": [
+        "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+        "1. Văn bản này quy định về việc sinh viên chuyển vào/ra giữa chương  trình Đại trà với chương trình Chất lượng cao.",
+        "2. Quy định này áp dụng đối với các sinh viên Chính quy từ khóa 2022  xin chuyển vào/ra chương trình Chất lượng cao từ học kỳ I năm học 2022-",
+        "2023."
+      ],
+      "responses": [
+        "\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định về việc sinh viên chuyển vào/ra giữa chương  trình Đại trà với chương trình Chất lượng cao.\n2. Quy định này áp dụng đối với các sinh viên Chính quy từ khóa 2022  xin chuyển vào/ra chương trình Chất lượng cao từ học kỳ I năm học 2022-\n2023."
+      ]
+    },
+    {
+      "tag": "Điều2.GiảiThíchTừNgữ",
+      "patterns": [
+        "Điều 2. Giải thích từ ngữ",
+        "1. Chuyển vào: Sinh viên đang học chương trình Đại trà có nguyện  vọng muốn xin chuyển học chương trình Chất lượng cao cùng hoặc khác  ngành.",
+        "2. Chuyển ra: Sinh viên đang học chương trình Chất lượng cao có  nguyện vọng muốn xin chuyển học chương trình đào tạo Đại trà cùng hoặc  khác ngành."
+      ],
+      "responses": [
+        "\nĐiều 2. Giải thích từ ngữ\nTrong Quy định này, các từ ngữ dưới đây được hiểu như sau:\n1. Chuyển vào: Sinh viên đang học chương trình Đại trà có nguyện  vọng muốn xin chuyển học chương trình Chất lượng cao cùng hoặc khác  ngành.\n2. Chuyển ra: Sinh viên đang học chương trình Chất lượng cao có  nguyện vọng muốn xin chuyển học chương trình đào tạo Đại trà cùng hoặc  khác ngành."
+      ]
+    },
+    {
+      "tag": "Điều3.ĐiềuKiệnĐểĐượcXétChuyểnVào/raChươngTrìnhChấtLượngCao",
+      "patterns": [
+        "Điều 3. Điều kiện để được xét chuyển vào/ra chương trình Chất  lượng cao",
+        "1. Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa,  không thuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo  quy định.",
+        "2. Ngành và chương trình chuyển đến có tổ chức tuyển sinh cùng một  phương thức trong cùng đợt xét tuyển của ngành và chương trình sinh viên  đang theo học. Điểm xét tuyển của sinh viên phải bằng hoặc cao hơn điểm  trúng tuyển cùng một tổ hợp môn trong cùng đợt của ngành chuyển đến, được  sự chấp thuận của Phòng Quản lý đào tạo và Ban Giám hiệu phê duyệt.",
+        "Sinh viên đăng ký chuyển vào/ra chương trình Chất lượng cao theo ",
+        "4. Sinh viên chỉ được xét chuyển Chương trình một lần duy nhất trong  suốt khóa học và được tính là một lần chuyển ngành trong trường hợp trái  ngành.",
+        "5. Sinh viên phải hoàn tất chương trình đào tạo của ngành, chương  trình chuyển đến trong khoảng thời gian tối đa được phép học của ngành  chuyển đến tính từ năm nhập học/trúng tuyển.",
+        "6. Đối với các ngành trong cùng năm tuyển sinh có số lượng sinh viên  đang theo học dưới 60 (đối với chương trình Đại trà) hoặc dưới 30 (đối với  chương trình Chất lượng cao), sinh viên không được giải quyết chuyển đi"
+      ],
+      "responses": [
+        "\nĐiều 3. Điều kiện để được xét chuyển vào/ra chương trình Chất  lượng cao\n1. Không đang là sinh viên trình độ năm thứ nhất hoặc năm cuối khóa,  không thuộc diện bị xem xét buộc thôi học và còn đủ thời gian học tập theo  quy định.\n2. Ngành và chương trình chuyển đến có tổ chức tuyển sinh cùng một  phương thức trong cùng đợt xét tuyển của ngành và chương trình sinh viên  đang theo học. Điểm xét tuyển của sinh viên phải bằng hoặc cao hơn điểm  trúng tuyển cùng một tổ hợp môn trong cùng đợt của ngành chuyển đến, được  sự chấp thuận của Phòng Quản lý đào tạo và Ban Giám hiệu phê duyệt.\n3. Sinh viên đăng ký chuyển vào/ra chương trình Chất lượng cao theo \nKế hoạch năm học.\n94 Sổ tay sinh viên 2022\n4. Sinh viên chỉ được xét chuyển Chương trình một lần duy nhất trong  suốt khóa học và được tính là một lần chuyển ngành trong trường hợp trái  ngành.\n5. Sinh viên phải hoàn tất chương trình đào tạo của ngành, chương  trình chuyển đến trong khoảng thời gian tối đa được phép học của ngành  chuyển đến tính từ năm nhập học/trúng tuyển.\n6. Đối với các ngành trong cùng năm tuyển sinh có số lượng sinh viên  đang theo học dưới 60 (đối với chương trình Đại trà) hoặc dưới 30 (đối với  chương trình Chất lượng cao), sinh viên không được giải quyết chuyển đi"
+      ]
+    },
+    {
+      "tag": "Điều1.PhạmViĐiềuChỉnhVàĐốiTượngÁpDụng",
+      "patterns": [
+        "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+        "1. Quy chế này quy định về công tác sinh viên đối với người học trình  độ đại học hình thức đào tạo chính quy, bao gồm: Nhiệm vụ và quyền của sinh  viên; khen thưởng và kỷ luật sinh viên; nội dung công tác sinh viên; hệ thống  tổ chức, quản lý công tác sinh viên và tổ chức thực hiện.",
+        "2. Quy chế này áp dụng đối với đối với người học trình độ đại học hình  thức đào tạo chính quy và các cá nhân, đơn vị có liên quan."
+      ],
+      "responses": [
+        "\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Quy chế này quy định về công tác sinh viên đối với người học trình  độ đại học hình thức đào tạo chính quy, bao gồm: Nhiệm vụ và quyền của sinh  viên; khen thưởng và kỷ luật sinh viên; nội dung công tác sinh viên; hệ thống  tổ chức, quản lý công tác sinh viên và tổ chức thực hiện.\n2. Quy chế này áp dụng đối với đối với người học trình độ đại học hình  thức đào tạo chính quy và các cá nhân, đơn vị có liên quan."
+      ]
+    },
+    {
+      "tag": "Điều2.SinhViên",
+      "patterns": [
+        "Điều 2. Sinh viên",
+        "Sinh viên được quy định tại quy chế này là người học trình độ đại  học hình thức đào tạo chính quy tại Trường Đại học Mở Thành phố Hồ Chí ",
+        "Sinh viên là trung tâm của các hoạt động giáo dục và đào tạo trong "
+      ],
+      "responses": [
+        "\nĐiều 2. Sinh viên\n1. Sinh viên được quy định tại quy chế này là người học trình độ đại  học hình thức đào tạo chính quy tại Trường Đại học Mở Thành phố Hồ Chí \nMinh.\n2. Sinh viên là trung tâm của các hoạt động giáo dục và đào tạo trong \nTrường, được bảo đảm điều kiện thực hiện đầy đủ nhiệm vụ và quyền trong  quá trình học tập và rèn luyện tại Trường."
+      ]
+    },
+    {
+      "tag": "Điều3.CôngTácSinhViên",
+      "patterns": [
+        "Điều 3. Công tác sinh viên",
+        "Công tác sinh viên là một trong những công tác trọng tâm của ",
+        "Công tác sinh viên phải thực hiện đúng chủ trương, đường lối của ",
+        "3. Công tác sinh viên phải bảo đảm dân chủ, khách quan, công bằng,  công khai, minh bạch trong các vấn đề có liên quan đến sinh viên"
+      ],
+      "responses": [
+        "\nĐiều 3. Công tác sinh viên\n1. Công tác sinh viên là một trong những công tác trọng tâm của \nTrường, bao gồm tổng thể các hoạt động giáo dục, tuyên truyền; quản lý; hỗ trợ và dịch vụ đối với sinh viên nhằm đảm bảo các mục tiêu của giáo dục đại  học.\n2. Công tác sinh viên phải thực hiện đúng chủ trương, đường lối của \nĐảng, chính sách, pháp luật của Nhà nước và các quy định của Bộ Giáo dục  và Đào tạo.\n3. Công tác sinh viên phải bảo đảm dân chủ, khách quan, công bằng,  công khai, minh bạch trong các vấn đề có liên quan đến sinh viên"
+      ]
+    },
+    {
+      "tag": "Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nĐiều 4. Nhiệm vụ của sinh viên\n1. Chấp hành chủ trương, đường lối của Đảng, chính sách, pháp luật  của Nhà nước, Điều lệ trường đại học và các quy chế, nội quy của Trường.\n2. Học tập, rèn luyện theo chương trình, kế hoạch giáo dục, đào tạo của \n3. Tôn trọng nhà giáo, cán bộ quản lý, viên chức và nhân viên của \n4. Giữ gìn và bảo vệ tài sản; hành động góp phần bảo vệ, xây dựng và  phát huy truyền thống của Trường.\n5. Thực hiện đầy đủ quy định về việc khám sức khỏe đầu khóa và khám  sức khỏe định kỳ trong thời gian học tập theo quy định của Trường.\n6. Đóng học phí, bảo hiểm y tế đầy đủ, đúng thời hạn.\n7. Tham gia lao động công ích, hoạt động tình nguyện, hoạt động xã hội  vì cộng đồng phù hợp với năng lực và sức khỏe theo yêu cầu của Trường.\n8. Chấp hành nghĩa vụ làm việc có thời hạn theo sự Điều động của Nhà  nước khi được hưởng học bổng, chi phí đào tạo do Nhà nước cấp hoặc do  nước ngoài tài trợ theo Hiệp định ký kết với Nhà nước, nếu không chấp hành  phải bồi hoàn học bổng, chi phí đào tạo theo quy định của Chính phủ.\n9. Tham gia phòng, chống tiêu cực, gian lận trong học tập, thi cử và các  hoạt động khác của sinh viên; kịp thời báo cáo với khoa, phòng chức năng, \n10. Tham gia công tác bảo đảm an ninh, trật tự, an toàn giao thông,  phòng chống tội phạm, tệ nạn xã hội trong trường học, gia đình và cộng đồng.\n11. Thực hiện các nhiệm vụ khác có liên quan theo quy định của pháp "
+      ]
+    },
+    {
+      "tag": "ChấpHànhChủTrương,ĐườngLốiCủaĐảng,ChínhSách,PhápLuậtCủaNhàNước,ĐiềuLệTrườngĐạiHọcVàCácQuyChế,NộiQuyCủaTrường.#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Chấp hành chủ trương, đường lối của Đảng, chính sách, pháp luật  của Nhà nước, Điều lệ trường đại học và các quy chế, nội quy của Trường. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nChấp hành chủ trương, đường lối của Đảng, chính sách, pháp luật  của Nhà nước, Điều lệ trường đại học và các quy chế, nội quy của Trường. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ]
+    },
+    {
+      "tag": "HọcTập,RènLuyệnTheoChươngTrình,KếHoạchGiáoDục,ĐàoTạoCủa#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Học tập, rèn luyện theo chương trình, kế hoạch giáo dục, đào tạo của  #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nHọc tập, rèn luyện theo chương trình, kế hoạch giáo dục, đào tạo của  #*# Điều 4. Nhiệm vụ của sinh viên\nTrường; chủ động, tích cực tự học, nghiên cứu, sáng tạo và rèn luyện đạo  đức, lối sống."
+      ]
+    },
+    {
+      "tag": "TônTrọngNhàGiáo,CánBộQuảnLý,ViênChứcVàNhânViênCủa#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Tôn trọng nhà giáo, cán bộ quản lý, viên chức và nhân viên của  #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nTôn trọng nhà giáo, cán bộ quản lý, viên chức và nhân viên của  #*# Điều 4. Nhiệm vụ của sinh viên\nTrường; đoàn kết, giúp đỡ lẫn nhau trong quá trình học tập và rèn luyện; thực  hiện tốt nếp sống văn hóa trong trường học."
+      ]
+    },
+    {
+      "tag": "GiữGìnVàBảoVệTàiSản;HànhĐộngGópPhầnBảoVệ,XâyDựngVàPhátHuyTruyềnThốngCủaTrường.#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Giữ gìn và bảo vệ tài sản; hành động góp phần bảo vệ, xây dựng và  phát huy truyền thống của Trường. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nGiữ gìn và bảo vệ tài sản; hành động góp phần bảo vệ, xây dựng và  phát huy truyền thống của Trường. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ]
+    },
+    {
+      "tag": "ThựcHiệnĐầyĐủQuyĐịnhVềViệcKhámSứcKhỏeĐầuKhóaVàKhámSứcKhỏeĐịnhKỳTrongThờiGianHọcTậpTheoQuyĐịnhCủaTrường.#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Thực hiện đầy đủ quy định về việc khám sức khỏe đầu khóa và khám  sức khỏe định kỳ trong thời gian học tập theo quy định của Trường. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nThực hiện đầy đủ quy định về việc khám sức khỏe đầu khóa và khám  sức khỏe định kỳ trong thời gian học tập theo quy định của Trường. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ]
+    },
+    {
+      "tag": "ĐóngHọcPhí,BảoHiểmYTếĐầyĐủ,ĐúngThờiHạn.#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Đóng học phí, bảo hiểm y tế đầy đủ, đúng thời hạn. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nĐóng học phí, bảo hiểm y tế đầy đủ, đúng thời hạn. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ]
+    },
+    {
+      "tag": "ThamGiaLaoĐộngCôngÍch,HoạtĐộngTìnhNguyện,HoạtĐộngXãHộiVìCộngĐồngPhùHợpVớiNăngLựcVàSứcKhỏeTheoYêuCầuCủaTrường.#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Tham gia lao động công ích, hoạt động tình nguyện, hoạt động xã hội  vì cộng đồng phù hợp với năng lực và sức khỏe theo yêu cầu của Trường. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nTham gia lao động công ích, hoạt động tình nguyện, hoạt động xã hội  vì cộng đồng phù hợp với năng lực và sức khỏe theo yêu cầu của Trường. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ]
+    },
+    {
+      "tag": "ChấpHànhNghĩaVụLàmViệcCóThờiHạnTheoSựĐiềuĐộngCủaNhàNướcKhiĐượcHưởngHọcBổng,ChiPhíĐàoTạoDoNhàNướcCấpHoặcDoNướcNgoàiTàiTrợTheoHiệpĐịnhKýKếtVớiNhàNước,NếuKhôngChấpHànhPhảiBồiHoànHọcBổng,ChiPhíĐàoTạoTheoQuyĐịnhCủaChínhPhủ.#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Chấp hành nghĩa vụ làm việc có thời hạn theo sự Điều động của Nhà  nước khi được hưởng học bổng, chi phí đào tạo do Nhà nước cấp hoặc do  nước ngoài tài trợ theo Hiệp định ký kết với Nhà nước, nếu không chấp hành  phải bồi hoàn học bổng, chi phí đào tạo theo quy định của Chính phủ. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nChấp hành nghĩa vụ làm việc có thời hạn theo sự Điều động của Nhà  nước khi được hưởng học bổng, chi phí đào tạo do Nhà nước cấp hoặc do  nước ngoài tài trợ theo Hiệp định ký kết với Nhà nước, nếu không chấp hành  phải bồi hoàn học bổng, chi phí đào tạo theo quy định của Chính phủ. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ]
+    },
+    {
+      "tag": "ThamGiaPhòng,ChốngTiêuCực,GianLậnTrongHọcTập,ThiCửVàCácHoạtĐộngKhácCủaSinhViên;KịpThờiBáoCáoVớiKhoa,PhòngChứcNăng,#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Tham gia phòng, chống tiêu cực, gian lận trong học tập, thi cử và các  hoạt động khác của sinh viên; kịp thời báo cáo với khoa, phòng chức năng,  #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nTham gia phòng, chống tiêu cực, gian lận trong học tập, thi cử và các  hoạt động khác của sinh viên; kịp thời báo cáo với khoa, phòng chức năng,  #*# Điều 4. Nhiệm vụ của sinh viên\nHiệu trưởng Trường Đại học Mở Thành phố Hồ Chí Minh hoặc các cơ quan  có thẩm quyền khi phát hiện những hành vi tiêu cực, gian lận trong học tập, thi  cử hoặc những hành vi vi phạm pháp luật, vi phạm nội quy, quy chế khác của  sinh viên, cán bộ, nhà giáo trong Trường."
+      ]
+    },
+    {
+      "tag": "ThamGiaCôngTácBảoĐảmAnNinh,TrậtTự,AnToànGiaoThông,PhòngChốngTộiPhạm,TệNạnXãHộiTrongTrườngHọc,GiaĐìnhVàCộngĐồng.#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Tham gia công tác bảo đảm an ninh, trật tự, an toàn giao thông,  phòng chống tội phạm, tệ nạn xã hội trong trường học, gia đình và cộng đồng. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nTham gia công tác bảo đảm an ninh, trật tự, an toàn giao thông,  phòng chống tội phạm, tệ nạn xã hội trong trường học, gia đình và cộng đồng. #*# Điều 4. Nhiệm vụ của sinh viên"
+      ]
+    },
+    {
+      "tag": "ThựcHiệnCácNhiệmVụKhácCóLiênQuanTheoQuyĐịnhCủaPháp#*#Điều4.NhiệmVụCủaSinhViên",
+      "patterns": [
+        "Thực hiện các nhiệm vụ khác có liên quan theo quy định của pháp  #*# Điều 4. Nhiệm vụ của sinh viên"
+      ],
+      "responses": [
+        "\nThực hiện các nhiệm vụ khác có liên quan theo quy định của pháp  #*# Điều 4. Nhiệm vụ của sinh viên\n Sổ tay sinh viên 2022 97 luật và của Trường."
+      ]
+    },
+    {
+      "tag": "Điều5.QuyềnCủaSinhViên",
+      "patterns": [
+        "Điều 5. Quyền của sinh viên"
+      ],
+      "responses": [
+        "\nĐiều 5. Quyền của sinh viên\n1. Được nhận vào học đúng ngành, nghề đã đăng ký dự tuyển nếu đủ các điều kiện trúng tuyển theo quy định của Bộ Giáo dục và Đào tạo và Trường.\n2. Được tôn trọng và đối xử bình đẳng; được cung cấp đầy đủ thông  tin cá nhân về việc học tập, rèn luyện theo quy định của Trường; được phổ biến nội quy, quy chế về đào tạo, rèn luyện và các chế độ, chính sách của Nhà  nước có liên quan đến sinh viên.\n3. Được tạo điều kiện trong học tập, nghiên cứu khoa học và rèn luyện,  bao gồm:\n4. Được hưởng các chế độ, chính sách, được xét nhận học bổng  khuyến khích học tập, học bổng do các tổ chức, cá nhân trong và ngoài nước \n5. Được góp ý kiến, tham gia quản lý và giám sát hoạt động giáo dục  và các điều kiện đảm bảo chất lượng giáo dục; trực tiếp hoặc thông qua đại  diện hợp pháp của mình kiến nghị các giải pháp góp phần xây dựng và phát  triển Trường; đề đạt nguyện vọng và khiếu nại lên Hiệu trưởng Trường giải  quyết các vấn đề có liên quan đến quyền, lợi ích chính đáng của sinh viên.\n6. Được hỗ trợ giới thiệu nhà trọ theo quy định.\n7. Sinh viên đủ điều kiện công nhận tốt nghiệp được cấp bằng tốt  nghiệp, chứng chỉ, bảng điểm học tập và rèn luyện, các giấy tờ liên quan và  giải quyết các thủ tục hành chính khác."
+      ]
+    },
+    {
+      "tag": "ĐượcNhậnVàoHọcĐúngNgành,NghềĐãĐăngKýDựTuyểnNếuĐủCácĐiềuKiệnTrúngTuyểnTheoQuyĐịnhCủaBộGiáoDụcVàĐàoTạoVàTrường.#*#Điều5.QuyềnCủaSinhViên",
+      "patterns": [
+        "Được nhận vào học đúng ngành, nghề đã đăng ký dự tuyển nếu đủ các điều kiện trúng tuyển theo quy định của Bộ Giáo dục và Đào tạo và Trường. #*# Điều 5. Quyền của sinh viên"
+      ],
+      "responses": [
+        "\nĐược nhận vào học đúng ngành, nghề đã đăng ký dự tuyển nếu đủ các điều kiện trúng tuyển theo quy định của Bộ Giáo dục và Đào tạo và Trường. #*# Điều 5. Quyền của sinh viên"
+      ]
+    },
+    {
+      "tag": "ĐượcTônTrọngVàĐốiXửBìnhĐẳng;ĐượcCungCấpĐầyĐủThôngTinCáNhânVềViệcHọcTập,RènLuyệnTheoQuyĐịnhCủaTrường;ĐượcPhổBiếnNộiQuy,QuyChếVềĐàoTạo,RènLuyệnVàCácChếĐộ,ChínhSáchCủaNhàNướcCóLiênQuanĐếnSinhViên.#*#Điều5.QuyềnCủaSinhViên",
+      "patterns": [
+        "Được tôn trọng và đối xử bình đẳng; được cung cấp đầy đủ thông  tin cá nhân về việc học tập, rèn luyện theo quy định của Trường; được phổ biến nội quy, quy chế về đào tạo, rèn luyện và các chế độ, chính sách của Nhà  nước có liên quan đến sinh viên. #*# Điều 5. Quyền của sinh viên"
+      ],
+      "responses": [
+        "\nĐược tôn trọng và đối xử bình đẳng; được cung cấp đầy đủ thông  tin cá nhân về việc học tập, rèn luyện theo quy định của Trường; được phổ biến nội quy, quy chế về đào tạo, rèn luyện và các chế độ, chính sách của Nhà  nước có liên quan đến sinh viên. #*# Điều 5. Quyền của sinh viên"
+      ]
+    },
+    {
+      "tag": "ĐượcTạoĐiềuKiệnTrongHọcTập,NghiênCứuKhoaHọcVàRènLuyện,BaoGồm:#*#Điều5.QuyềnCủaSinhViên",
+      "patterns": [
+        "Được tạo điều kiện trong học tập, nghiên cứu khoa học và rèn luyện,  bao gồm: #*# Điều 5. Quyền của sinh viên"
+      ],
+      "responses": [
+        "\nĐược tạo điều kiện trong học tập, nghiên cứu khoa học và rèn luyện,  bao gồm: #*# Điều 5. Quyền của sinh viên\n+ Sử dụng hệ thống thư viện, các trang thiết bị và phương tiện phục vụ các hoạt động học tập, nghiên cứu khoa học, văn hóa, văn nghệ, thể dục, thể thao;\n+ Tham gia nghiên cứu khoa học, thi sinh viên giỏi, thi Olympic các môn  học, thi sáng tạo khoa học, kỹ thuật;\n+ Chăm sóc, bảo vệ sức khỏe theo quy định hiện hành của Nhà nước;\n+ Đăng ký dự tuyển đi học, tham gia các hoạt động giao lưu, trao đổi sinh  viên ở nước ngoài; học chuyển tiếp ở các trình độ đào tạo cao hơn theo quy  định hiện hành;\n+ Tham gia hoạt động trong tổ chức Đảng Cộng sản Việt Nam, Đoàn \nTNCS Hồ Chí Minh, Hội Sinh viên Việt Nam; tham gia các tổ chức tự quản của  sinh viên, các hoạt động xã hội có liên quan ở trong và ngoài trường học theo  quy định của pháp luật; các hoạt động văn hóa, văn nghệ, thể thao lành mạnh,  phù hợp với Mục tiêu đào tạo của Trường;\n+ Sử dụng các dịch vụ công tác xã hội hiện có của Trường (bao gồm các  dịch vụ về hướng nghiệp, tư vấn việc làm, tư vấn sức khỏe, tâm lý, hỗ trợ sinh  viên có hoàn cảnh đặc biệt,...)\n+ Nghỉ học tạm thời, tạm ngừng học, học theo tiến độ chậm, tiến độ nhanh, học cùng lúc hai chương trình, chuyển trường theo quy định của quy  chế về đào tạo của Bộ Giáo dục và Đào tạo; được nghỉ hè, nghỉ tết, nghỉ lễ theo quy định."
+      ]
+    },
+    {
+      "tag": "ĐượcHưởngCácChếĐộ,ChínhSách,ĐượcXétNhậnHọcBổngKhuyếnKhíchHọcTập,HọcBổngDoCácTổChức,CáNhânTrongVàNgoàiNước#*#Điều5.QuyềnCủaSinhViên",
+      "patterns": [
+        "Được hưởng các chế độ, chính sách, được xét nhận học bổng  khuyến khích học tập, học bổng do các tổ chức, cá nhân trong và ngoài nước  #*# Điều 5. Quyền của sinh viên"
+      ],
+      "responses": [
+        "\nĐược hưởng các chế độ, chính sách, được xét nhận học bổng  khuyến khích học tập, học bổng do các tổ chức, cá nhân trong và ngoài nước  #*# Điều 5. Quyền của sinh viên\n98 Sổ tay sinh viên 2022 tài trợ theo quy định hiện hành; được miễn giảm phí khi sử dụng các dịch vụ công cộng về giao thông, giải trí, tham quan bảo tàng, di tích lịch sử, công trình  văn hóa theo quy định của Nhà nước."
+      ]
+    },
+    {
+      "tag": "ĐượcGópÝKiến,ThamGiaQuảnLýVàGiámSátHoạtĐộngGiáoDụcVàCácĐiềuKiệnĐảmBảoChấtLượngGiáoDục;TrựcTiếpHoặcThôngQuaĐạiDiệnHợpPhápCủaMìnhKiếnNghịCácGiảiPhápGópPhầnXâyDựngVàPhátTriểnTrường;ĐềĐạtNguyệnVọngVàKhiếuNạiLênHiệuTrưởngTrườngGiảiQuyếtCácVấnĐềCóLiênQuanĐếnQuyền,LợiÍchChínhĐángCủaSinhViên.#*#Điều5.QuyềnCủaSinhViên",
+      "patterns": [
+        "Được góp ý kiến, tham gia quản lý và giám sát hoạt động giáo dục  và các điều kiện đảm bảo chất lượng giáo dục; trực tiếp hoặc thông qua đại  diện hợp pháp của mình kiến nghị các giải pháp góp phần xây dựng và phát  triển Trường; đề đạt nguyện vọng và khiếu nại lên Hiệu trưởng Trường giải  quyết các vấn đề có liên quan đến quyền, lợi ích chính đáng của sinh viên. #*# Điều 5. Quyền của sinh viên"
+      ],
+      "responses": [
+        "\nĐược góp ý kiến, tham gia quản lý và giám sát hoạt động giáo dục  và các điều kiện đảm bảo chất lượng giáo dục; trực tiếp hoặc thông qua đại  diện hợp pháp của mình kiến nghị các giải pháp góp phần xây dựng và phát  triển Trường; đề đạt nguyện vọng và khiếu nại lên Hiệu trưởng Trường giải  quyết các vấn đề có liên quan đến quyền, lợi ích chính đáng của sinh viên. #*# Điều 5. Quyền của sinh viên"
+      ]
+    },
+    {
+      "tag": "ĐượcHỗTrợGiớiThiệuNhàTrọTheoQuyĐịnh.#*#Điều5.QuyềnCủaSinhViên",
+      "patterns": [
+        "Được hỗ trợ giới thiệu nhà trọ theo quy định. #*# Điều 5. Quyền của sinh viên"
+      ],
+      "responses": [
+        "\nĐược hỗ trợ giới thiệu nhà trọ theo quy định. #*# Điều 5. Quyền của sinh viên"
+      ]
+    },
+    {
+      "tag": "SinhViênĐủĐiềuKiệnCôngNhậnTốtNghiệpĐượcCấpBằngTốtNghiệp,ChứngChỉ,BảngĐiểmHọcTậpVàRènLuyện,CácGiấyTờLiênQuanVàGiảiQuyếtCácThủTụcHànhChínhKhác.#*#Điều5.QuyềnCủaSinhViên",
+      "patterns": [
+        "Sinh viên đủ điều kiện công nhận tốt nghiệp được cấp bằng tốt  nghiệp, chứng chỉ, bảng điểm học tập và rèn luyện, các giấy tờ liên quan và  giải quyết các thủ tục hành chính khác. #*# Điều 5. Quyền của sinh viên"
+      ],
+      "responses": [
+        "\nSinh viên đủ điều kiện công nhận tốt nghiệp được cấp bằng tốt  nghiệp, chứng chỉ, bảng điểm học tập và rèn luyện, các giấy tờ liên quan và  giải quyết các thủ tục hành chính khác. #*# Điều 5. Quyền của sinh viên"
+      ]
+    },
+    {
+      "tag": "Điều6.CácHànhViSinhViênKhôngĐượcLàm",
+      "patterns": [
+        "Điều 6. Các hành vi sinh viên không được làm",
+        "1. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể giảng viên, cán  bộ quản lý giáo dục, nhân viên, người học của Trường và người khác.",
+        "2. Xuyên tạc nội dung giáo dục.",
+        "3. Gian lận trong học tập, kiểm tra, thi cử, tuyển sinh.",
+        "4. Hút thuốc; uống rượu, bia trong Trường.",
+        "5. Tham gia tệ nạn xã hội, gây rối an ninh trật tự trong Trường hoặc  nơi công cộng và các hành vi vi phạm pháp luật khác.",
+        "6. Tổ chức hoặc tham gia các hoạt động vi phạm pháp luật"
+      ],
+      "responses": [
+        "\nĐiều 6. Các hành vi sinh viên không được làm\nThực hiện theo quy định tại Điều 22 Luật Giáo dục được ban hành kèm  theo văn bản Luật số 43/2019/QH14 ngày 14 tháng 06 năm 2019, Điều 61 Luật \nGiáo dục đại học được ban hành kèm theo văn bản Luật số: 08/2012/QH13  ngày 18 tháng 6 năm 2012 và căn cứ quy phạm pháp luật khác có liên quan,  cụ thể như sau:\n1. Xúc phạm nhân phẩm, danh dự, xâm phạm thân thể giảng viên, cán  bộ quản lý giáo dục, nhân viên, người học của Trường và người khác.\n2. Xuyên tạc nội dung giáo dục.\n3. Gian lận trong học tập, kiểm tra, thi cử, tuyển sinh.\n4. Hút thuốc; uống rượu, bia trong Trường.\n5. Tham gia tệ nạn xã hội, gây rối an ninh trật tự trong Trường hoặc  nơi công cộng và các hành vi vi phạm pháp luật khác.\n6. Tổ chức hoặc tham gia các hoạt động vi phạm pháp luật"
+      ]
+    },
+    {
+      "tag": "Điều7.NộiDung,HìnhThứcKhenThưởng",
+      "patterns": [
+        "Điều 7. Nội dung, hình thức khen thưởng"
+      ],
+      "responses": [
+        "\nĐiều 7. Nội dung, hình thức khen thưởng\n1. Khen thưởng thường xuyên, kịp thời đối với cá nhân và tập thể lớp  sinh viên đạt thành tích xứng đáng để biểu dương, khen thưởng. Cụ thể:\n2. Thi đua, khen thưởng toàn diện, định kỳ đối với cá nhân và tập thể lớp sinh viên được tiến hành vào cuối năm học, khóa học. Cụ thể:"
+      ]
+    },
+    {
+      "tag": "KhenThưởngThườngXuyên,KịpThờiĐốiVớiCáNhânVàTậpThểLớpSinhViênĐạtThànhTíchXứngĐángĐểBiểuDương,KhenThưởng.CụThể:#*#Điều7.NộiDung,HìnhThứcKhenThưởng",
+      "patterns": [
+        "Khen thưởng thường xuyên, kịp thời đối với cá nhân và tập thể lớp  sinh viên đạt thành tích xứng đáng để biểu dương, khen thưởng. Cụ thể: #*# Điều 7. Nội dung, hình thức khen thưởng"
+      ],
+      "responses": [
+        "\nKhen thưởng thường xuyên, kịp thời đối với cá nhân và tập thể lớp  sinh viên đạt thành tích xứng đáng để biểu dương, khen thưởng. Cụ thể: #*# Điều 7. Nội dung, hình thức khen thưởng\n+ Đoạt giải trong các cuộc thi Olympic các môn học, thi nghiên cứu  khoa học, các cuộc thi sáng tạo kỹ thuật, học thuật, văn hóa, văn nghệ, thể thao;\n+ Đóng góp có hiệu quả trong công tác Đảng, Đoàn thanh niên, Hội  sinh viên, trong hoạt động thanh niên xung kích, sinh viên tình nguyện, giữ gìn  an ninh trật tự, các hoạt động trong lớp, khoa, trong ký túc xá, hoạt động xã  hội, văn hóa, văn nghệ, thể thao;\n+ Có thành tích trong việc thực hiện phong trào toàn dân bảo vệ an  ninh tổ quốc, bảo đảm an ninh, trật tự trường học, phòng chống tội phạm, tệ nạn xã hội, dũng cảm cứu người bị nạn, chống tiêu cực, tham nhũng;\n+ Các thành tích đặc biệt khác.\nNội dung, hình thức và mức khen thưởng thường xuyên do Hiệu trưởng  quy định."
+      ]
+    },
+    {
+      "tag": "ThiĐua,KhenThưởngToànDiện,ĐịnhKỳĐốiVớiCáNhânVàTậpThểLớpSinhViênĐượcTiếnHànhVàoCuốiNămHọc,KhóaHọc.CụThể:#*#Điều7.NộiDung,HìnhThứcKhenThưởng",
+      "patterns": [
+        "Thi đua, khen thưởng toàn diện, định kỳ đối với cá nhân và tập thể lớp sinh viên được tiến hành vào cuối năm học, khóa học. Cụ thể: #*# Điều 7. Nội dung, hình thức khen thưởng"
+      ],
+      "responses": [
+        "\nThi đua, khen thưởng toàn diện, định kỳ đối với cá nhân và tập thể lớp sinh viên được tiến hành vào cuối năm học, khóa học. Cụ thể: #*# Điều 7. Nội dung, hình thức khen thưởng\n+ Đối với cá nhân:\n- Danh hiệu cá nhân gồm 3 loại: Khá, Giỏi, Xuất sắc.\n- Tiêu chuẩn xếp loại:\n Đạt danh hiệu sinh viên Khá: xếp loại học tập và rèn luyện từ khá  trở lên;\n Đạt danh hiệu sinh viên Giỏi: xếp loại học tập từ giỏi trở lên và xếp  loại rèn luyện từ tốt trở lên;\n Đạt danh hiệu sinh viên Xuất sắc: kết quả học tập đạt từ 3,6 (thang \nĐiểm 4) trở lên và xếp loại rèn luyện xuất sắc.\n100 Sổ tay sinh viên 2022\n- Danh hiệu cá nhân được lưu vào hồ sơ quản lý sinh viên.\n- Không xét khen thưởng đối với sinh viên bị kỷ luật hoặc có điểm kết  thúc học phần trong năm học đó dưới mức trung bình.\n+ Đối với tập thể lớp sinh viên:\n- Danh hiệu tập thể lớp sinh viên gồm 2 loại: Lớp sinh viên Tiên tiến và \nLớp sinh viên Xuất sắc.\n- Hình thức khen thưởng đối với tập thể sinh viên:\n Giấy khen của Hiệu trưởng.\n Các hình thức khác của cấp trên theo quy định của pháp luật.\n- Tiêu chuẩn xét danh hiệu thi đua đối với tập thể\n Đạt danh hiệu tập thể tiên tiến nếu đạt các tiêu chuẩn sau: Có từ\n25% học sinh, sinh viên đạt danh hiệu sinh viên khá trở lên; có cá nhân đạt  danh hiệu sinh viên giỏi trở lên; không có cá nhân xếp loại học tập kém hoặc  rèn luyện kém, bị kỷ luật từ mức khiển trách trở lên; tập thể đoàn kết, giúp đỡ lẫn nhau trong học tập, rèn luyện, tổ chức nhiều hoạt động thi đua và tích cực  hưởng ứng phong trào thi đua của Trường\nĐạt danh hiệu tập thể xuất sắc nếu đạt các tiêu chuẩn của danh hiệu  lớp sinh viên tiên tiến và có từ 10% sinh viên đạt danh hiệu sinh viên giỏi trở lên, có cá nhân đạt danh hiệu sinh viên xuất sắc."
+      ]
+    },
+    {
+      "tag": "Điều8.TrìnhTự,ThủTụcXétKhenThưởng",
+      "patterns": [
+        "Điều 8. Trình tự, thủ tục xét khen thưởng",
+        "Trình tự xét danh hiệu thi đua và khen thưởng",
+        "Hồ sơ xét khen thưởng báo cáo Hội đồng thi đua, khen thưởng "
+      ],
+      "responses": [
+        "\nĐiều 8. Trình tự, thủ tục xét khen thưởng\n1. Trình tự xét danh hiệu thi đua và khen thưởng\n+ Căn cứ thành tích đạt được trong học tập và rèn luyện của sinh viên;  các lớp sinh viên tiến hành họp xem xét thành tích, lựa chọn sinh viên đủ tiêu  chuẩn lập danh sách đề nghị kèm theo bản thành tích cá nhân và tập thể lớp,  có xác nhận của giáo viên chủ nhiệm/cố vấn học tập, đề nghị khoa/đơn vị phụ trách công tác sinh viên xem xét; \n+ Khoa/đơn vị phụ trách công tác sinh viên tổ chức họp, xét và đề nghị\nHội đồng thi đua, khen thưởng Trường xét duyệt;\n+ Căn cứ vào đề nghị của khoa/đơn vị phụ trách công tác sinh viên, \nHội đồng thi đua, khen thưởng Trường tổ chức xét và đề nghị Hiệu trưởng  quyết định công nhận danh hiệu thi đua, khen thưởng cho tập thể sinh viên  theo quy định.\n Sổ tay sinh viên 2022 101\n2. Hồ sơ xét khen thưởng báo cáo Hội đồng thi đua, khen thưởng \nTrường\n+ Bản kê khai thành tích;\n+ Biên bản họp xét đề nghị khen thưởng của lớp sinh viên;\n+ Biên bản họp xét đề nghị khen thưởng của khoa/đơn vị phụ trách;\n+ Danh sách đề nghị công nhận danh hiệu thi đua, khen thưởng.\nHiệu trưởng Trường quy định cụ thể về tiêu chuẩn danh hiệu Lớp sinh  viên Tiên tiến và Lớp sinh viên Xuất sắc."
+      ]
+    },
+    {
+      "tag": "Điều9.HìnhThứcKỷLuậtVàNộiDungViPhạm",
+      "patterns": [
+        "Điều 9. Hình thức kỷ luật và nội dung vi phạm"
+      ],
+      "responses": [
+        "\nĐiều 9. Hình thức kỷ luật và nội dung vi phạm\n1. Những sinh viên có hành vi vi phạm thì tùy tính chất, mức độ, hậu  quả của hành vi vi phạm có thể được nhắc nhở, phê bình hoặc phải chịu một  trong các hình thức kỷ luật sau:\n2. Các hình thức kỷ luật của sinh viên phải được lưu vào hồ sơ quản  lý sinh viên và thông báo cho sinh viên. \n3. Nội dung vi phạm và khung xử lý kỷ luật thực hiện theo quy định Phụ lục kèm theo Quy chế này."
+      ]
+    },
+    {
+      "tag": "NhữngSinhViênCóHànhViViPhạmThìTùyTínhChất,MứcĐộ,HậuQuảCủaHànhViViPhạmCóThểĐượcNhắcNhở,PhêBìnhHoặcPhảiChịuMộtTrongCácHìnhThứcKỷLuậtSau:#*#Điều9.HìnhThứcKỷLuậtVàNộiDungViPhạm",
+      "patterns": [
+        "Những sinh viên có hành vi vi phạm thì tùy tính chất, mức độ, hậu  quả của hành vi vi phạm có thể được nhắc nhở, phê bình hoặc phải chịu một  trong các hình thức kỷ luật sau: #*# Điều 9. Hình thức kỷ luật và nội dung vi phạm"
+      ],
+      "responses": [
+        "\nNhững sinh viên có hành vi vi phạm thì tùy tính chất, mức độ, hậu  quả của hành vi vi phạm có thể được nhắc nhở, phê bình hoặc phải chịu một  trong các hình thức kỷ luật sau: #*# Điều 9. Hình thức kỷ luật và nội dung vi phạm\n+ Khiển trách: áp dụng đối với sinh viên có hành vi vi phạm lần đầu  nhưng ở mức độ nhẹ;\n+ Cảnh cáo: áp dụng đối với sinh viên đã bị khiển trách mà tái phạm  hoặc vi phạm ở mức độ nhẹ nhưng hành vi vi phạm có tính chất thường xuyên  hoặc mới vi phạm lần đầu nhưng mức độ tương đối nghiêm trọng;\n+ Đình chỉ học tập có thời hạn: áp dụng đối với những sinh viên đang  trong thời gian bị cảnh cáo mà vẫn vi phạm kỷ luật hoặc vi phạm nghiêm trọng  các hành vi sinh viên không được làm; sinh viên vi phạm pháp luật bị xử phạt  tù nhưng cho hưởng án treo. Tùy từng trường hợp cụ thể, Hiệu trưởng căn cứ vào quy chế đào tạo để quyết định thời hạn đình chỉ học tập theo các mức:  đình chỉ một học kỳ, đình chỉ một năm học hoặc đình chỉ theo thời gian sinh  viên bị xử phạt tù nhưng cho hưởng án treo.\n+ Buộc thôi học: áp dụng đối với sinh viên đang trong thời gian bị đình  chỉ học tập mà vẫn tiếp tục vi phạm kỷ luật hoặc vi phạm lần đầu nhưng có  tính chất và mức độ vi phạm đặc biệt nghiêm trọng, gây ảnh hưởng xấu đến \nTrường và xã hội; vi phạm pháp luật bị xử phạt tù giam."
+      ]
+    },
+    {
+      "tag": "CácHìnhThứcKỷLuậtCủaSinhViênPhảiĐượcLưuVàoHồSơQuảnLýSinhViênVàThôngBáoChoSinhViên.#*#Điều9.HìnhThứcKỷLuậtVàNộiDungViPhạm",
+      "patterns": [
+        "Các hình thức kỷ luật của sinh viên phải được lưu vào hồ sơ quản  lý sinh viên và thông báo cho sinh viên.  #*# Điều 9. Hình thức kỷ luật và nội dung vi phạm"
+      ],
+      "responses": [
+        "\nCác hình thức kỷ luật của sinh viên phải được lưu vào hồ sơ quản  lý sinh viên và thông báo cho sinh viên.  #*# Điều 9. Hình thức kỷ luật và nội dung vi phạm\n102 Sổ tay sinh viên 2022\n+ Trường hợp sinh viên bị kỷ luật mức đình chỉ học tập có thời hạn  hoặc buộc thôi học, Trường phải gửi thông báo cho địa phương và gia đình  sinh viên biết để phối hợp quản lý, giáo dục.\n+ Trong thời gian sinh viên bị kỷ luật ở mức khiển trách, cảnh cáo  không được hưởng các quyền của sinh viên được nêu tại điểm b, d khoản 3  và khoản 4 thuộc điều 5 của Quy chế này."
+      ]
+    },
+    {
+      "tag": "NộiDungViPhạmVàKhungXửLýKỷLuậtThựcHiệnTheoQuyĐịnhPhụLụcKèmTheoQuyChếNày.#*#Điều9.HìnhThứcKỷLuậtVàNộiDungViPhạm",
+      "patterns": [
+        "Nội dung vi phạm và khung xử lý kỷ luật thực hiện theo quy định Phụ lục kèm theo Quy chế này. #*# Điều 9. Hình thức kỷ luật và nội dung vi phạm"
+      ],
+      "responses": [
+        "\nNội dung vi phạm và khung xử lý kỷ luật thực hiện theo quy định Phụ lục kèm theo Quy chế này. #*# Điều 9. Hình thức kỷ luật và nội dung vi phạm"
+      ]
+    },
+    {
+      "tag": "Điều10.TrìnhTự,ThủTụcVàHồSơXétKỷLuật",
+      "patterns": [
+        "Điều 10. Trình tự, thủ tục và hồ sơ xét kỷ luật"
+      ],
+      "responses": [
+        "\nĐiều 10. Trình tự, thủ tục và hồ sơ xét kỷ luật\n1. Thủ tục xét kỷ luật:\n2. Hồ sơ xử lý kỷ luật của sinh viên:"
+      ]
+    },
+    {
+      "tag": "ThủTụcXétKỷLuật:#*#Điều10.TrìnhTự,ThủTụcVàHồSơXétKỷLuật",
+      "patterns": [
+        "Thủ tục xét kỷ luật: #*# Điều 10. Trình tự, thủ tục và hồ sơ xét kỷ luật"
+      ],
+      "responses": [
+        "\nThủ tục xét kỷ luật: #*# Điều 10. Trình tự, thủ tục và hồ sơ xét kỷ luật\n+ Sinh viên có hành vi vi phạm phải làm bản tự kiểm điểm và tự nhận  hình thức kỷ luật (theo mẫu 1 – KL - CQ). \nGhi chú: Trường hợp sinh viên không phối hợp làm bản kiểm điểm; Khoa  tiến hành gửi thư (theo mẫu số 2 – KL - CQ) mời sinh viên có hành vi vi phạm  đến làm bản kiểm điểm. \nTrong vòng 15 ngày sau khi Khoa gửi thư mời (gửi thư có hồi báo), trường  hợp sinh viên không chấp hành làm bản kiểm điểm hoặc không thể mời sinh  viên đến làm bản kiểm điểm Khoa vẫn thực hiện các bước tiếp theo.\nTrường hợp sinh viên không chấp hành làm bản tự kiểm điểm thì Hội  đồng khen thưởng và kỷ luật sinh viên vẫn họp để xử lý trên cơ sở các chứng  cứ thu thập được;\n+ Khoa tổ chức họp với Chủ nhiệm lớp sinh viên, Ban cán sự lớp, Chi \nĐoàn, Chi Hội và sinh viên vi phạm kỷ luật phân tích và đề nghị hình thức kỷ luật gửi biên bản họp (theo mẫu 3 – KL - CQ) và toàn bộ hồ sơ liên quan về phòng Công tác sinh viên tổng hợp trình Hội đồng;\n+ Phòng Công tác sinh viên xem xét, đề nghị Hội đồng khen thưởng và  kỷ luật sinh viên của Trường;\n+ Hội đồng khen thưởng và kỷ luật sinh viên tổ chức họp để xét kỷ luật,  thành phần bao gồm: các thành viên của Hội đồng xét thi đua, khen thưởng  và kỷ luật sinh viên.\nHội đồng kiến nghị áp dụng hình thức kỷ luật, đề nghị Hiệu trưởng Trường  ra quyết định kỷ luật bằng văn bản.\n Sổ tay sinh viên 2022 103"
+      ]
+    },
+    {
+      "tag": "HồSơXửLýKỷLuậtCủaSinhViên:#*#Điều10.TrìnhTự,ThủTụcVàHồSơXétKỷLuật",
+      "patterns": [
+        "Hồ sơ xử lý kỷ luật của sinh viên: #*# Điều 10. Trình tự, thủ tục và hồ sơ xét kỷ luật"
+      ],
+      "responses": [
+        "\nHồ sơ xử lý kỷ luật của sinh viên: #*# Điều 10. Trình tự, thủ tục và hồ sơ xét kỷ luật\n+ Bản tự kiểm điểm (nếu có);\n+ Biên bản của Khoa họp kiểm điểm sinh viên có hành vi vi phạm;\n+ Biên bản họp Hội đồng khen thưởng và kỷ luật sinh viên;\n+ Các tài liệu có liên quan."
+      ]
+    },
+    {
+      "tag": "Điều11.ChấmDứtHiệuLựcCủaQuyếtĐịnhKỷLuật",
+      "patterns": [
+        "Điều 11. Chấm dứt hiệu lực của quyết định kỷ luật"
+      ],
+      "responses": [
+        "\nĐiều 11. Chấm dứt hiệu lực của quyết định kỷ luật\n-Đối với sinh viên bị kỷ luật khiển trách: sau 03 tháng kể từ ngày có  quyết định kỷ luật, nếu sinh viên không tái phạm hoặc không có những vi phạm  đến mức phải xử lý kỷ luật thì đương nhiên được chấm dứt hiệu lực của quyết  định kỷ luật và được hưởng quyền lợi của sinh viên kể từ ngày quyết định kỷ luật chấm dứt hiệu lực.\n- Đối với sinh viên bị kỷ luật cảnh cáo: sau 06 tháng kể từ ngày có  quyết định kỷ luật, nếu sinh viên không tái phạm hoặc không có những vi phạm  đến mức phải xử lý kỷ luật thì đương nhiên được chấm dứt hiệu lực của quyết  định kỷ luật và được hưởng quyền lợi của sinh viên kể từ ngày quyết định kỷ luật chấm dứt hiệu lực.\n-Đối với trường hợp đình chỉ học tập có thời hạn: khi hết thời hạn  đình chỉ, sinh viên phải xuất trình chứng nhận của địa phương (cấp xã,  phường, thị trấn) nơi cư trú về việc chấp hành tốt nghĩa vụ công dân tại địa  phương; chứng nhận của cơ quan có thẩm quyền về việc đã chấp hành xong  hình phạt tù nhưng cho hưởng án treo để Trường xem xét, tiếp nhận vào học  tiếp nếu đủ điều kiện.\nGhi chú: Trường hợp sinh viên không xuất trình các giấy tờ theo quy định  sẽ không được tiếp tục học tập tại Trường.\n-Cấp có thẩm quyền quyết định kỷ luật phải có điều khoản ghi rõ thời  gian sinh viên bị thi hành kỷ luật, tính từ khi ban hành quyết định kỷ luật đến  thời điểm hết thời hạn bị kỷ luật theo quy định."
+      ]
+    },
+    {
+      "tag": "Điều12.CơCấuTổChứcVàNhiệmVụCủaHộiĐồngKhenThưởngVàKỷLuậtSinhViên",
+      "patterns": [
+        "Điều 12. Cơ cấu tổ chức và nhiệm vụ của hội đồng khen thưởng  và kỷ luật sinh viên",
+        "Cơ cấu tổ chức Hội đồng khen thưởng và kỷ luật sinh viên:",
+        "2. Hiệu trưởng Trường ra quyết định thành lập và quy định cụ thể về chức năng, nhiệm vụ, tổ chức và hoạt động của Hội đồng khen thưởng và kỷ luật sinh viên."
+      ],
+      "responses": [
+        "\nĐiều 12. Cơ cấu tổ chức và nhiệm vụ của hội đồng khen thưởng  và kỷ luật sinh viên\n1. Cơ cấu tổ chức Hội đồng khen thưởng và kỷ luật sinh viên:\n+ Chủ tịch Hội đồng: là Hiệu trưởng hoặc phó Hiệu trưởng Trường do \nHiệu trưởng uỷ quyền;\n104 Sổ tay sinh viên 2022\n+ Thường trực Hội đồng: là Trưởng phòng Công tác sinh viên.\n+ Các ủy viên: là đại diện các khoa, phòng, ban có liên quan; Đoàn \nTNCS Hồ Chí Minh, Hội sinh viên Việt Nam của Trường.\n2. Hiệu trưởng Trường ra quyết định thành lập và quy định cụ thể về chức năng, nhiệm vụ, tổ chức và hoạt động của Hội đồng khen thưởng và kỷ luật sinh viên."
+      ]
+    },
+    {
+      "tag": "Điều13.QuyềnKhiếuNạiVềKhenThưởng,KỷLuật",
+      "patterns": [
+        "Điều 13. Quyền khiếu nại về khen thưởng, kỷ luật "
+      ],
+      "responses": [
+        "\nĐiều 13. Quyền khiếu nại về khen thưởng, kỷ luật \nCá nhân và tập thể sinh viên nếu xét thấy các hình thức khen thưởng  và kỷ luật không thỏa đáng có quyền khiếu nại lên các phòng, ban chức năng  hoặc Hiệu trưởng Trường; nếu Trường đã xem xét lại mà chưa thỏa đáng có  thể khiếu nại lên cấp có thẩm quyền theo quy định của pháp luật về khiếu nại,  tố cáo."
+      ]
+    },
+    {
+      "tag": "Điều14.TổChứcCácHoạtĐộngGiáoDục,TuyênTruyền",
+      "patterns": [
+        "Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền"
+      ],
+      "responses": [
+        "\nĐiều 14. Tổ chức các hoạt động giáo dục, tuyên truyền\nNội dung : \n1. Giáo dục tư tưởng chính trị\n2. Giáo dục đạo đức, lối sống\n3. Giáo dục, tuyên truyền phổ biến pháp luật\n4. Giáo dục kỹ năng: Kỹ năng sống, kỹ năng nghề nghiệp, việc làm,...\n5. Giáo dục thể chất\n6. Giáo dục thẩm mỹ"
+      ]
+    },
+    {
+      "tag": "NộiDung:#*#Điều14.TổChứcCácHoạtĐộngGiáoDục,TuyênTruyền",
+      "patterns": [
+        "Nội dung :  #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền"
+      ],
+      "responses": [
+        "\nNội dung :  #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền\nPhòng Công tác sinh viên phối hợp với các đơn vị và các cá nhân có liên  quan thực hiện các công tác sau:"
+      ]
+    },
+    {
+      "tag": "GiáoDụcTưTưởngChínhTrị#*#Điều14.TổChứcCácHoạtĐộngGiáoDục,TuyênTruyền",
+      "patterns": [
+        "Giáo dục tư tưởng chính trị #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền"
+      ],
+      "responses": [
+        "\nGiáo dục tư tưởng chính trị #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền\n+ Giáo dục, tuyên truyền để sinh viên nắm vững và thực hiện đúng chủ trương, đường lối của Đảng, hình thành bản lĩnh chính trị, yêu tổ quốc Việt \nNam xã hội chủ nghĩa, cảnh giác và biết phê phán những luận điểm xuyên tạc,  hành động chống phá Đảng và Nhà nước:\n+ Phối hợp với Đoàn TNCS Hồ Chí Minh, Hội Sinh viên Việt Nam và các  tổ chức chính trị - xã hội khác có liên quan trong các hoạt động rèn luyện của  sinh viên. Tạo môi trường để sinh viên rèn luyện phấn đấu, được xét kết nạp  vào Đảng."
+      ]
+    },
+    {
+      "tag": "GiáoDụcĐạoĐức,LốiSống#*#Điều14.TổChứcCácHoạtĐộngGiáoDục,TuyênTruyền",
+      "patterns": [
+        "Giáo dục đạo đức, lối sống #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền"
+      ],
+      "responses": [
+        "\nGiáo dục đạo đức, lối sống #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền\n+ Giáo dục, tuyên truyền cho sinh viên những giá trị, truyền thống đạo đức  tốt đẹp của dân tộc Việt Nam, những chuẩn mực đạo đức chung của xã hội và  đạo đức nghề nghiệp; biết phê phán những hành vi không phù hợp với chuẩn  mực đạo đức;\n Sổ tay sinh viên 2022 105\n+ Định hướng, giáo dục lối sống lành mạnh, văn minh, tiến bộ phù hợp với  bản sắc văn hóa dân tộc Việt Nam; giáo dục ý thức trách nhiệm của cá nhân  sinh viên đối với tập thể và cộng đồng."
+      ]
+    },
+    {
+      "tag": "GiáoDục,TuyênTruyềnPhổBiếnPhápLuật#*#Điều14.TổChứcCácHoạtĐộngGiáoDục,TuyênTruyền",
+      "patterns": [
+        "Giáo dục, tuyên truyền phổ biến pháp luật #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền"
+      ],
+      "responses": [
+        "\nGiáo dục, tuyên truyền phổ biến pháp luật #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền\n+ Giáo dục, tuyên truyền nâng cao nhận thức và ý thức tuân thủ pháp luật,  thói quen sống và làm việc theo pháp luật;\n+ Nội dung giáo dục pháp luật đối với sinh viên tập trung vào các quy chế,  quy định về học tập và rèn luyện; pháp luật về phòng chống tội phạm, tệ nạn  xã hội; đảm bảo trật tự an toàn giao thông và các luật khác có liên quan."
+      ]
+    },
+    {
+      "tag": "GiáoDụcKỹNăng:KỹNăngSống,KỹNăngNghềNghiệp,ViệcLàm,...#*#Điều14.TổChứcCácHoạtĐộngGiáoDục,TuyênTruyền",
+      "patterns": [
+        "Giáo dục kỹ năng: Kỹ năng sống, kỹ năng nghề nghiệp, việc làm,... #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền"
+      ],
+      "responses": [
+        "\nGiáo dục kỹ năng: Kỹ năng sống, kỹ năng nghề nghiệp, việc làm,... #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền"
+      ]
+    },
+    {
+      "tag": "GiáoDụcThểChất#*#Điều14.TổChứcCácHoạtĐộngGiáoDục,TuyênTruyền",
+      "patterns": [
+        "Giáo dục thể chất #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền"
+      ],
+      "responses": [
+        "\nGiáo dục thể chất #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền\n+ Giáo dục, hướng dẫn sinh viên về kỹ thuật, phương pháp luyện tập và  tổ chức cho sinh viên tham gia các hoạt động thể dục, thể thao theo quy định  của Bộ Giáo dục và Đào tạo;\n+ Phổ biến, tuyên truyền nâng cao nhận thức cho sinh viên về ăn uống  đảm bảo dinh dưỡng, vệ sinh an toàn thực phẩm, sinh hoạt điều độ, không  lạm dụng rượu, bia, sử dụng chất kích thích, gây nghiện; kiến thức và kỹ năng  chăm sóc sức khỏe, phòng chống dịch, bệnh, tai nạn thương tích,…; Tổ chức  và triển khai hoạt động của Trạm Y tế trong Trường theo quy định của Bộ Giáo  dục và Đào tạo."
+      ]
+    },
+    {
+      "tag": "GiáoDụcThẩmMỹ#*#Điều14.TổChứcCácHoạtĐộngGiáoDục,TuyênTruyền",
+      "patterns": [
+        "Giáo dục thẩm mỹ #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền"
+      ],
+      "responses": [
+        "\nGiáo dục thẩm mỹ #*# Điều 14. Tổ chức các hoạt động giáo dục, tuyên truyền\n+ Giáo dục kiến thức, kỹ năng để sinh viên biết yêu và cảm thụ cái đẹp  trong tự nhiên, cuộc sống xã hội và trong nghệ thuật.\n+ Hình thành năng lực phán đoán và đánh giá thẩm mỹ; hình thành thị hiếu, lý tưởng thẩm mỹ đúng đắn; hình thành năng lực sáng tạo nghệ thuật,  lòng ham muốn và khả năng chuyển tải cái đẹp vào đời sống học tập, lao động  và ứng xử. Có thái độ phê phán cái xấu, phản thẩm mỹ trong tâm hồn, trong  hành vi ứng xử, hình dáng, trang phục,..."
+      ]
+    },
+    {
+      "tag": "Điều15.CôngTácQuảnLýSinhViên",
+      "patterns": [
+        "Điều 15. Công tác quản lý sinh viên"
+      ],
+      "responses": [
+        "\nĐiều 15. Công tác quản lý sinh viên\n1. Công tác hành chính\n2. Công tác khen thưởng và kỷ luật\n3. Công tác sinh viên nội trú, ngoại trú\n4. Công tác bảo đảm an ninh, trật tự trường học\n5. Thực hiện các chế độ, chính sách đối với sinh viên"
+      ]
+    },
+    {
+      "tag": "CôngTácHànhChính#*#Điều15.CôngTácQuảnLýSinhViên",
+      "patterns": [
+        "Công tác hành chính #*# Điều 15. Công tác quản lý sinh viên"
+      ],
+      "responses": [
+        "\nCông tác hành chính #*# Điều 15. Công tác quản lý sinh viên\n+ Tổ chức tiếp nhận thí sinh trúng tuyển, sắp xếp, bố trí sinh viên vào các  lớp; chỉ định Ban cán sự lớp (lớp trưởng, lớp phó) lâm thời, làm thẻ sinh viên, \n106 Sổ tay sinh viên 2022 thẻ thư viện; quản lý, tổ chức cấp phát văn bằng, chứng chỉ của sinh viên;\n+ Thống kê, tổng hợp dữ liệu và quản lý, lưu trữ hồ sơ liên quan đến sinh  viên; giải quyết các công việc hành chính có liên quan đến sinh viên."
+      ]
+    },
+    {
+      "tag": "CôngTácKhenThưởngVàKỷLuật#*#Điều15.CôngTácQuảnLýSinhViên",
+      "patterns": [
+        "Công tác khen thưởng và kỷ luật #*# Điều 15. Công tác quản lý sinh viên"
+      ],
+      "responses": [
+        "\nCông tác khen thưởng và kỷ luật #*# Điều 15. Công tác quản lý sinh viên\n+ Theo dõi, đánh giá ý thức học tập; tổ chức đánh giá kết quả rèn luyện của  sinh viên; phân loại, xếp loại sinh viên cuối mỗi học kỳ, năm học, khóa học  theo Quy chế của Bộ Giáo dục và Đào tạo;\n+ Phát động, tổ chức các phong trào thi đua trong sinh viên; Tổ chức đánh  giá, bình bầu và khen thưởng cho tập thể, cá nhân sinh viên đạt thành tích cao  trong học tập và rèn luyện; tổ chức cho sinh viên nghiên cứu khoa học, thi \nOlympic các môn học, thi sáng tạo tài năng trẻ và các hoạt động khuyến khích  học tập khác;\n+ Hướng dẫn, kiểm tra, giám sát việc thực hiện các quy chế, quy định về học tập và rèn luyện đối với sinh viên;\n+ Tham mưu, theo dõi và tổng hợp việc xử lý kỷ luật sinh viên vi phạm theo  quy định."
+      ]
+    },
+    {
+      "tag": "CôngTácSinhViênNộiTrú,NgoạiTrú#*#Điều15.CôngTácQuảnLýSinhViên",
+      "patterns": [
+        "Công tác sinh viên nội trú, ngoại trú #*# Điều 15. Công tác quản lý sinh viên"
+      ],
+      "responses": [
+        "\nCông tác sinh viên nội trú, ngoại trú #*# Điều 15. Công tác quản lý sinh viên\nTổ chức thực hiện các nội dung, biện pháp công tác sinh viên nội trú,  ngoại trú theo quy định của Bộ Giáo dục và Đào tạo."
+      ]
+    },
+    {
+      "tag": "CôngTácBảoĐảmAnNinh,TrậtTựTrườngHọc#*#Điều15.CôngTácQuảnLýSinhViên",
+      "patterns": [
+        "Công tác bảo đảm an ninh, trật tự trường học #*# Điều 15. Công tác quản lý sinh viên"
+      ],
+      "responses": [
+        "\nCông tác bảo đảm an ninh, trật tự trường học #*# Điều 15. Công tác quản lý sinh viên\n+ Ban hành nội quy, quy định, xây dựng kế hoạch, tổ chức kiểm tra, giám  sát việc thực hiện các văn bản chỉ đạo, văn bản quy phạm pháp luật của Đảng, \nNhà nước về công tác bảo đảm an ninh, trật tự an toàn xã hội, phòng chống  tội phạm, tệ nạn xã hội trong sinh viên. Phối hợp với công an địa phương thực  hiện các biện pháp bảo đảm an ninh, trật tự trường học;\n+ Xây dựng môi trường giáo dục lành mạnh, đảm bảo an toàn cho các  hoạt động học tập, rèn luyện của sinh viên. Theo dõi, nắm bắt diễn biến tư  tưởng, hành vi của sinh viên để có sự định hướng, giáo dục; phối hợp ngăn  chặn việc kích động, lôi kéo sinh viên tham gia các hoạt động chống phá Đảng, \nNhà nước, tham gia các tệ nạn xã hội, truyền đạo trái phép và các hành vi vi  phạm pháp luật; phối hợp xử lý các vụ việc về an ninh, trật tự trường học và  các vụ việc liên quan đến sinh viên ở trong và ngoài Trường."
+      ]
+    },
+    {
+      "tag": "ThựcHiệnCácChếĐộ,ChínhSáchĐốiVớiSinhViên#*#Điều15.CôngTácQuảnLýSinhViên",
+      "patterns": [
+        "Thực hiện các chế độ, chính sách đối với sinh viên #*# Điều 15. Công tác quản lý sinh viên"
+      ],
+      "responses": [
+        "\nThực hiện các chế độ, chính sách đối với sinh viên #*# Điều 15. Công tác quản lý sinh viên\n Sổ tay sinh viên 2022 107\nTuyên truyền, hướng dẫn, theo dõi, tổng hợp và giải quyết các chế độ,  chính sách của Nhà nước liên quan đến sinh viên theo quy định."
+      ]
+    },
+    {
+      "tag": "Điều16.HỗTrợVàDịchVụSinhViên",
+      "patterns": [
+        "Điều 16. Hỗ trợ và dịch vụ sinh viên"
+      ],
+      "responses": [
+        "\nĐiều 16. Hỗ trợ và dịch vụ sinh viên\n1. Tư vấn học tập\n2. Công tác hướng nghiệp, tư vấn việc làm\n3. Tư vấn tâm lý, chăm sóc sức khỏe\n4. Hỗ trợ tài chính\n5. Hỗ trợ đặc biệt\n6. Tổ chức, quản lý các dịch vụ sinh viên"
+      ]
+    },
+    {
+      "tag": "TưVấnHọcTập#*#Điều16.HỗTrợVàDịchVụSinhViên",
+      "patterns": [
+        "Tư vấn học tập #*# Điều 16. Hỗ trợ và dịch vụ sinh viên"
+      ],
+      "responses": [
+        "\nTư vấn học tập #*# Điều 16. Hỗ trợ và dịch vụ sinh viên\nTư vấn, hỗ trợ sinh viên xây dựng kế hoạch, phương pháp học tập phù hợp  với Mục tiêu và năng lực; cung cấp thông tin về chương trình đào tạo, hướng  dẫn sinh viên tiếp cận các nguồn lực (về học thuật, tài chính, kỹ thuật...) nhằm  nâng cao khả năng, học tập hiệu quả."
+      ]
+    },
+    {
+      "tag": "CôngTácHướngNghiệp,TưVấnViệcLàm#*#Điều16.HỗTrợVàDịchVụSinhViên",
+      "patterns": [
+        "Công tác hướng nghiệp, tư vấn việc làm #*# Điều 16. Hỗ trợ và dịch vụ sinh viên"
+      ],
+      "responses": [
+        "\nCông tác hướng nghiệp, tư vấn việc làm #*# Điều 16. Hỗ trợ và dịch vụ sinh viên\nTổ chức thực hiện các nội dung, biện pháp công tác tư vấn hướng nghiệp, việc làm theo quy định của Bộ Giáo dục và Đào tạo."
+      ]
+    },
+    {
+      "tag": "TưVấnTâmLý,ChămSócSứcKhỏe#*#Điều16.HỗTrợVàDịchVụSinhViên",
+      "patterns": [
+        "Tư vấn tâm lý, chăm sóc sức khỏe #*# Điều 16. Hỗ trợ và dịch vụ sinh viên"
+      ],
+      "responses": [
+        "\nTư vấn tâm lý, chăm sóc sức khỏe #*# Điều 16. Hỗ trợ và dịch vụ sinh viên\n+ Tư vấn, hỗ trợ sinh viên khi gặp phải các vấn đề về tâm lý - xã hội;  phối hợp tổ chức các dịch vụ tư vấn, chăm sóc sức khỏe để có sự hỗ trợ, can  thiệp cần thiết khi sinh viên gặp phải các vấn đề ảnh hưởng đến thể chất và  tinh thần;\n+ Tổ chức khám sức khỏe đầu vào và định kỳ cho sinh viên; tư vấn, tổ chức cho sinh viên thực hiện Luật bảo hiểm y tế; sơ, cấp cứu, khám chữa  bệnh ban đầu cho sinh viên."
+      ]
+    },
+    {
+      "tag": "HỗTrợTàiChính#*#Điều16.HỗTrợVàDịchVụSinhViên",
+      "patterns": [
+        "Hỗ trợ tài chính #*# Điều 16. Hỗ trợ và dịch vụ sinh viên"
+      ],
+      "responses": [
+        "\nHỗ trợ tài chính #*# Điều 16. Hỗ trợ và dịch vụ sinh viên\nPhối hợp với các tổ chức, cá nhân hảo tâm xây dựng, quản lý các quỹ học  bổng; tổ chức trao học bổng tài trợ cho sinh viên xuất sắc, sinh viên có hoàn  cảnh gia đình khó khăn."
+      ]
+    },
+    {
+      "tag": "HỗTrợĐặcBiệt#*#Điều16.HỗTrợVàDịchVụSinhViên",
+      "patterns": [
+        "Hỗ trợ đặc biệt #*# Điều 16. Hỗ trợ và dịch vụ sinh viên"
+      ],
+      "responses": [
+        "\nHỗ trợ đặc biệt #*# Điều 16. Hỗ trợ và dịch vụ sinh viên\nTriển khai dịch vụ công tác xã hội trong trường học, tạo điều kiện giúp đỡ sinh viên khuyết tật, sinh viên diện chính sách, có hoàn cảnh đặc biệt khó khăn."
+      ]
+    },
+    {
+      "tag": "TổChức,QuảnLýCácDịchVụSinhViên#*#Điều16.HỗTrợVàDịchVụSinhViên",
+      "patterns": [
+        "Tổ chức, quản lý các dịch vụ sinh viên #*# Điều 16. Hỗ trợ và dịch vụ sinh viên"
+      ],
+      "responses": [
+        "\nTổ chức, quản lý các dịch vụ sinh viên #*# Điều 16. Hỗ trợ và dịch vụ sinh viên\nTổ chức dịch vụ cho sinh viên như: internet, điện thoại, nhà ăn, căng tin,  trông giữ xe, sân chơi, bãi tập, thiết chế văn hóa."
+      ]
+    },
+    {
+      "tag": "Điều17.HệThốngTổChức,QuảnLýCôngTácSinhViên",
+      "patterns": [
+        "Điều 17. Hệ thống tổ chức, quản lý công tác sinh viên"
+      ],
+      "responses": [
+        "\nĐiều 17. Hệ thống tổ chức, quản lý công tác sinh viên\nHệ thống tổ chức, quản lý công tác sinh viên của Trường gồm: Hiệu  trưởng Trường, phòng Công tác sinh viên, khoa, chủ nhiệm lớp sinh viên, cố vấn học tập và lớp sinh viên.\nCăn cứ Điều lệ trường đại học, Hiệu trưởng Trường quy định hệ thống  tổ chức, quản lý công tác sinh viên phù hợp, bảo đảm thực hiện tốt các nội  dung công tác sinh viên."
+      ]
+    },
+    {
+      "tag": "Điều18.HiệuTrưởngNhàTrường",
+      "patterns": [
+        "Điều 18. Hiệu trưởng nhà trường",
+        "1. Chỉ đạo, tổ chức quản lý các hoạt động của công tác sinh viên. Bố trí các nguồn lực nhằm bảo đảm thực hiện tốt các nội dung của công tác sinh  viên.",
+        "2. Xây dựng kế hoạch và tổ chức thực hiện các chủ trương, đường lối  của Đảng, chính sách, pháp luật của Nhà nước, các quy định của Bộ Giáo dục  và Đào tạo, ngành và địa phương trong công tác sinh viên; tạo điều kiện cho  sinh viên thực hiện đầy đủ quyền và nhiệm vụ của mình.",
+        "3. Chỉ đạo tổ chức “Tuần Sinh hoạt công dân - sinh viên” đầu khóa, đầu  năm và cuối khóa học theo hướng dẫn của Bộ Giáo dục và Đào tạo; hằng  năm, tổ chức đối thoại với sinh viên để cung cấp thông tin cần thiết cho sinh  viên, nắm bắt tâm tư, nguyện vọng và giải quyết kịp thời những thắc mắc, nhu  cầu chính đáng của sinh viên.",
+        "Đảm bảo các điều kiện để phát huy hiệu quả vai trò của tổ chức ",
+        "Quyết định sự tham gia của sinh viên mang tính chất đại diện cho "
+      ],
+      "responses": [
+        "\nĐiều 18. Hiệu trưởng nhà trường\n1. Chỉ đạo, tổ chức quản lý các hoạt động của công tác sinh viên. Bố trí các nguồn lực nhằm bảo đảm thực hiện tốt các nội dung của công tác sinh  viên.\n2. Xây dựng kế hoạch và tổ chức thực hiện các chủ trương, đường lối  của Đảng, chính sách, pháp luật của Nhà nước, các quy định của Bộ Giáo dục  và Đào tạo, ngành và địa phương trong công tác sinh viên; tạo điều kiện cho  sinh viên thực hiện đầy đủ quyền và nhiệm vụ của mình.\n3. Chỉ đạo tổ chức “Tuần Sinh hoạt công dân - sinh viên” đầu khóa, đầu  năm và cuối khóa học theo hướng dẫn của Bộ Giáo dục và Đào tạo; hằng  năm, tổ chức đối thoại với sinh viên để cung cấp thông tin cần thiết cho sinh  viên, nắm bắt tâm tư, nguyện vọng và giải quyết kịp thời những thắc mắc, nhu  cầu chính đáng của sinh viên.\n4. Đảm bảo các điều kiện để phát huy hiệu quả vai trò của tổ chức \nĐoàn TNCS Hồ Chí Minh và Hội Sinh viên Việt Nam trong công tác sinh viên;  chú trọng công tác giáo dục tư tưởng chính trị, đạo đức, lối sống cho sinh viên.\n5. Quyết định sự tham gia của sinh viên mang tính chất đại diện cho \nTrường khi có sự huy động của địa phương, các cấp, các ngành hoặc các tổ chức khác."
+      ]
+    },
+    {
+      "tag": "Điều19.CácĐơnVị,CáNhânPhụTráchCôngTácSinhViên",
+      "patterns": [
+        "Điều 19. Các đơn vị, cá nhân phụ trách công tác sinh viên",
+        "Căn cứ Điều lệ trường đại học, Hiệu trưởng Trường quyết định thành  lập và quy định chức năng, nhiệm vụ của Khoa và các đơn vị phụ trách các ",
+        "Chủ nhiệm lớp sinh viên",
+        "Cố vấn học tập"
+      ],
+      "responses": [
+        "\nĐiều 19. Các đơn vị, cá nhân phụ trách công tác sinh viên\n1. Căn cứ Điều lệ trường đại học, Hiệu trưởng Trường quyết định thành  lập và quy định chức năng, nhiệm vụ của Khoa và các đơn vị phụ trách các \n Sổ tay sinh viên 2022 109 nội dung công tác sinh viên của Trường và giao cho phòng Công tác sinh viên  là đơn vị chủ trì tham mưu, tổng hợp giúp Hiệu trưởng Trường về công tác  sinh viên của Trường.\n2. Chủ nhiệm lớp sinh viên\nĐầu mỗi khóa học Lãnh đạo khoa phân công giảng viên, viên chức của \nTrường làm công tác chủ nhiệm lớp sinh viên để hỗ trợ quản lý, hướng dẫn  các hoạt động học tập và rèn luyện của lớp sinh viên trình Trường ban hành  quyết định công nhận hoặc điều chỉnh mỗi năm học.\n3. Cố vấn học tập\nTùy theo điều kiện cụ thể, Lãnh đạo khoa phân công giảng viên kiêm nhiệm  công tác cố vấn học tập cho sinh viên để tư vấn, hướng dẫn sinh viên thực  hiện tốt quy chế, quy định về đào tạo.\nBan giám hiệu có thể phân công một giảng viên kiêm nhiệm công tác cố vấn học tập và chủ nhiệm lớp sinh viên."
+      ]
+    },
+    {
+      "tag": "Điều20.LớpSinhViên",
+      "patterns": [
+        "Điều 20. Lớp sinh viên"
+      ],
+      "responses": [
+        "\nĐiều 20. Lớp sinh viên\n1. Lớp sinh viên: bao gồm những sinh viên cùng ngành, cùng khóa học. \n2. Ban cán sự lớp sinh viên gồm:"
+      ]
+    },
+    {
+      "tag": "LớpSinhViên:BaoGồmNhữngSinhViênCùngNgành,CùngKhóaHọc.#*#Điều20.LớpSinhViên",
+      "patterns": [
+        "Lớp sinh viên: bao gồm những sinh viên cùng ngành, cùng khóa học.  #*# Điều 20. Lớp sinh viên"
+      ],
+      "responses": [
+        "\nLớp sinh viên: bao gồm những sinh viên cùng ngành, cùng khóa học.  #*# Điều 20. Lớp sinh viên\nLớp sinh viên được duy trì ổn định trong cả khóa học, là nơi để Trường tổ chức, quản lý về thực hiện các nhiệm vụ học tập, rèn luyện, các hoạt động  đoàn thể, các hoạt động xã hội, thi đua, khen thưởng, kỷ luật."
+      ]
+    },
+    {
+      "tag": "BanCánSựLớpSinhViênGồm:#*#Điều20.LớpSinhViên",
+      "patterns": [
+        "Ban cán sự lớp sinh viên gồm: #*# Điều 20. Lớp sinh viên"
+      ],
+      "responses": [
+        "\nBan cán sự lớp sinh viên gồm: #*# Điều 20. Lớp sinh viên\n+ Đầu mỗi khóa học, Khoa lập danh sách Ban cán sự lớp trình Hiệu trưởng  ban hành quyết định công nhận hoặc điều chỉnh mỗi năm học (nếu có).\n+ Số lượng Ban cán sự lớp\nSĩ số Lớp sinh viên Số lượng Ban cán sự lớp\nDưới 50 sinh viên 1 lớp trưởng\nTừ 51 – 99 sinh viên 1 lớp trưởng, 1 lớp phó\nTừ 100 trở lên 1 lớp trưởng, 2 lớp phó\n110 Sổ tay sinh viên 2022\n+ Nhiệm vụ của ban cán sự lớp sinh viên:\n- Tổ chức thực hiện các nhiệm vụ học tập, rèn luyện, các hoạt động sinh  hoạt, đời sống và các hoạt động xã hội theo kế hoạch của trường, khoa, phòng,  ban;\n- Đôn đốc sinh viên trong lớp chấp hành nghiêm chỉnh nội quy, quy chế về học tập, rèn luyện. Xây dựng nề nếp tự quản trong lớp;\n- Tổ chức, động viên giúp đỡ những sinh viên gặp khó khăn trong học  tập, rèn luyện.\n- Thay mặt cho sinh viên của lớp liên hệ với chủ nhiệm lớp và các giảng  viên bộ môn; đề nghị các khoa, phòng Công tác sinh viên và Ban giám hiệu \nTrường giải quyết những vấn đề có liên quan đến nhiệm vụ và quyền của sinh  viên trong lớp;\n- Phối hợp chặt chẽ và thường xuyên với tổ chức Đoàn TNCS Hồ Chí \nMinh, và Hội sinh viên Việt Nam trong hoạt động của lớp;\n- Báo cáo đầy đủ, chính xác tình hình học tập, rèn luyện theo học kỳ,  năm học và những việc đột xuất của lớp với Chủ nhiệm lớp, Cố vấn học tập, \nKhoa hoặc phòng Công tác sinh viên;\n+ Quyền lợi của ban cán sự lớp sinh viên: Được ưu tiên cộng điểm rèn  luyện và các chế độ khác theo quy định của trường."
+      ]
+    },
+    {
+      "tag": "Điều21.LớpHọcPhần",
+      "patterns": [
+        "Điều 21. Lớp học phần",
+        "Lớp học phần: bao gồm những sinh viên đăng ký cùng học một học  phần. Lớp học phần được tổ chức theo thời gian học một học phần, là nơi để",
+        "Trường hợp lớp học phần chưa có Ban cán sự lớp sinh viên bao  gồm lớp trưởng và các lớp phó; Giảng viên bộ môn thực hiện chỉ định hoặc  bầu chọn lớp trưởng và các lớp phó để giới thiệu về Khoa lập danh sách trình ",
+        "3. Nhiệm kỳ của ban cán sự Lớp học phần theo thời gian học của học  phần. Ban cán sự lớp học học phần có trách nhiệm báo cáo việc chấp hành  nội quy, quy chế của sinh viên trong lớp với khoa, đơn vị phụ trách công tác  sinh viên. Ban cán sự lớp học phần được ưu tiên cộng điểm rèn luyện và các  chế độ khác theo quy định của Trường"
+      ],
+      "responses": [
+        "\nĐiều 21. Lớp học phần\n1. Lớp học phần: bao gồm những sinh viên đăng ký cùng học một học  phần. Lớp học phần được tổ chức theo thời gian học một học phần, là nơi để\nTrường theo dõi, quản lý về học tập và ý thức kỷ luật của sinh viên trong giờ học.\n2. Trường hợp lớp học phần chưa có Ban cán sự lớp sinh viên bao  gồm lớp trưởng và các lớp phó; Giảng viên bộ môn thực hiện chỉ định hoặc  bầu chọn lớp trưởng và các lớp phó để giới thiệu về Khoa lập danh sách trình \nHiệu trưởng ban hành quyết định công nhận.\n3. Nhiệm kỳ của ban cán sự Lớp học phần theo thời gian học của học  phần. Ban cán sự lớp học học phần có trách nhiệm báo cáo việc chấp hành  nội quy, quy chế của sinh viên trong lớp với khoa, đơn vị phụ trách công tác  sinh viên. Ban cán sự lớp học phần được ưu tiên cộng điểm rèn luyện và các  chế độ khác theo quy định của Trường"
+      ]
+    },
+    {
+      "tag": "Điều22.CôngTácPhốiHợp",
+      "patterns": [
+        "Điều 22. Công tác phối hợp"
+      ],
+      "responses": [
+        "\nĐiều 22. Công tác phối hợp\nCác đơn vị phụ trách công tác sinh viên chủ động phối hợp chặt chẽ với  các tổ chức đoàn thể trong Trường, gia đình sinh viên, các cơ quan có liên  quan trên địa bàn để tổ chức thực hiện tốt công tác sinh viên."
+      ]
+    },
+    {
+      "tag": "Điều23.ChếĐộBáoCáo",
+      "patterns": [
+        "Điều 23. Chế độ báo cáo",
+        "1. Kết thúc năm học, trường tổ chức tổng kết, đánh giá công tác sinh  viên, báo cáo Bộ Giáo dục và Đào tạo trên cơ sở báo cáo của các đơn vị phụ trách công tác sinh viên trong Trường.",
+        "2. Các đơn vị kịp thời báo về Phòng Công tác sinh viên và các đơn vị phụ trách công tác sinh viên, Ban giám hiệu những vụ việc xảy ra có liên quan  đến sinh viên để Trường báo cáo với Bộ Giáo dục đào tạo và các cơ quan trực  tiếp có liên quan."
+      ],
+      "responses": [
+        "\nĐiều 23. Chế độ báo cáo\n1. Kết thúc năm học, trường tổ chức tổng kết, đánh giá công tác sinh  viên, báo cáo Bộ Giáo dục và Đào tạo trên cơ sở báo cáo của các đơn vị phụ trách công tác sinh viên trong Trường.\n2. Các đơn vị kịp thời báo về Phòng Công tác sinh viên và các đơn vị phụ trách công tác sinh viên, Ban giám hiệu những vụ việc xảy ra có liên quan  đến sinh viên để Trường báo cáo với Bộ Giáo dục đào tạo và các cơ quan trực  tiếp có liên quan."
+      ]
+    },
+    {
+      "tag": "Điều24.CôngTácThanhTra,KiểmTra,KhenThưởng,KỷLuật",
+      "patterns": [
+        "Điều 24. Công tác thanh tra, kiểm tra, khen thưởng, kỷ luật",
+        "1. Phòng Thanh tra – Pháp chế tổ chức thanh tra, kiểm tra việc thực  hiện công tác sinh viên trong Trường.",
+        "2. Các đơn vị, cá nhân có thành tích trong công tác sinh viên được xét  khen thưởng theo quy định.",
+        "3. Các cá nhân vi phạm quy định về công tác sinh viên tuỳ theo mức  độ sẽ bị xử lý theo quy định./."
+      ],
+      "responses": [
+        "\nĐiều 24. Công tác thanh tra, kiểm tra, khen thưởng, kỷ luật\n1. Phòng Thanh tra – Pháp chế tổ chức thanh tra, kiểm tra việc thực  hiện công tác sinh viên trong Trường.\n2. Các đơn vị, cá nhân có thành tích trong công tác sinh viên được xét  khen thưởng theo quy định.\n3. Các cá nhân vi phạm quy định về công tác sinh viên tuỳ theo mức  độ sẽ bị xử lý theo quy định./."
+      ]
+    },
+    {
+      "tag": "Điều25.HiệuLựcThiHànhVàTổChứcThựcHiện",
+      "patterns": [
+        "Điều 25. Hiệu lực thi hành và tổ chức thực hiện",
+        "Quy chế này có hiệu lực thi hành từ Học kỳ 2 năm học 2021 – 2022  và thay thế Quyết định số 707/QĐ-ĐHM ngày 31 tháng 5 năm 2016 của Hiệu  trưởng Trường Đại học Mở Thành phố Hồ Chí Minh về việc ban hành Quy chế",
+        "2. Các Khoa, Phòng, Ban và đơn vị khác có liên quan tuỳ thuộc vào  chức năng, nhiệm vụ và quyền hạn của mình tổ chức hoạt động và giám sát  thực hiện nội dung của Quy chế này.",
+        "3. Việc sửa đổi, bổ sung các điều, khoản của Quy chế do Hiệu trưởng  quyết định./"
+      ],
+      "responses": [
+        "\nĐiều 25. Hiệu lực thi hành và tổ chức thực hiện\n1. Quy chế này có hiệu lực thi hành từ Học kỳ 2 năm học 2021 – 2022  và thay thế Quyết định số 707/QĐ-ĐHM ngày 31 tháng 5 năm 2016 của Hiệu  trưởng Trường Đại học Mở Thành phố Hồ Chí Minh về việc ban hành Quy chế\n112 Sổ tay sinh viên 2022\nCông tác sinh viên đối với chương trình đào tạo đại học hệ chính quy Trường \nĐại học Mở Thành phố Hồ Chí Minh.\n2. Các Khoa, Phòng, Ban và đơn vị khác có liên quan tuỳ thuộc vào  chức năng, nhiệm vụ và quyền hạn của mình tổ chức hoạt động và giám sát  thực hiện nội dung của Quy chế này.\n3. Việc sửa đổi, bổ sung các điều, khoản của Quy chế do Hiệu trưởng  quyết định./"
+      ]
+    },
+    {
+      "tag": "MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nMỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nNội dung : \n1. Đến muộn giờ học, giờ thực tập;  nghỉ học không  phép hoặc quá  phép\n2. Mất trật tự, làm  việc riêng trong  giờ học, giờ thực  tập và tự học\n3. Vô lễ với thầy, cô  giáo và CBVC \n4. Học thay hoặc  nhờ người khác  học thay\n5. Thi, kiểm tra thay,  hoặc nhờ thi, kiểm  tra thay; làm thay,  nhờ làm hoặc sao  chép tiểu luận, đồ\n6. Tổ chức học, thi,  kiểm tra hộ; tổ chức làm hộ tiểu  luận, đồ án, khoá  luận tốt nghiệp\n7. Mang tài liệu vào  phòng thi, đưa đề thi ra ngoài nhờ làm thay, ném tài  liệu vào phòng thi,  vẽ bậy vào bài thi;  bỏ thi không có lý  do chính đáng và  các hình thức gian  lận khác trong học  tập, thi, kiểm tra.\n8. Cố tình chậm nộp  hoặc không nộp  học phí, bảo hiểm  y tế theo quy định  của Trường mà  không có lý do  chính đáng.\n9. Làm hư hỏng tài  sản trong KTX và  các tài sản khác  của trường\n10. Uống rượu, bia  trong giờ học; say  rượu, bia khi đến  lớp.\n11. Hút thuốc lá trong  giờ học, phòng  họp, phòng thí  nghiệm và nơi  cấm hút thuốc  theo quy định\n12. Đánh bạc dưới  mọi hình thức\n13. Tàng trữ, lưu  hành, truy cập, sử dụng sản phẩm  văn hoá đồi trụy  hoặc tham gia các  hoạt động mê tín  dị đoan, hoạt động  tôn giáo trái phép\n14. Buôn bán, vận  chuyển, tàng trữ,  lôi kéo người khác  sử dụng ma tuý\n15. Sử dụng ma tuý Xử lý theo quy  định về xử lý  sinh viên liên  quan đến ma  túy.\n16. Chứa chấp, môi  giới hoạt động  mại dâm\n17. Hoạt động mại  dâm\n18. Lấy cắp tài sản,  chứa chấp, tiêu  thụ tài sản do lấy  cắp mà có\n19. Chứa chấp buôn  bán vũ khí, chất  nổ, chất dễ cháy  và các hàng cấm  theo quy định của \n20. Đưa phần tử xấu  vào trong trường, \n21. Đánh nhau, tổ chức hoặc tham  gia tổ chức đánh  nhau\n22. Kích động, lôi kéo  người khác biểu  tình, viết truyền  đơn, áp phích trái  pháp luật"
+      ]
+    },
+    {
+      "tag": "NộiDung:#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Nội dung :  #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nNội dung :  #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nTT Nội dung vi  phạm\nSố lần vi phạm  và hình thức xử lý\n(Số lần tính trong cả khoá học)\nGhi chú\nKhiển  trách\nCảnh  cáo\nĐình chỉ học tập 1  năm học\nBuộc  thôi  học\n1 2 3 4 5 6 7"
+      ]
+    },
+    {
+      "tag": "ĐếnMuộnGiờHọc,GiờThựcTập;NghỉHọcKhôngPhépHoặcQuáPhép#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Đến muộn giờ học, giờ thực tập;  nghỉ học không  phép hoặc quá  phép #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nĐến muộn giờ học, giờ thực tập;  nghỉ học không  phép hoặc quá  phép #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nBị trừ điểm rèn  luyện từ 1-10  điểm tùy giảng  viên đề nghị."
+      ]
+    },
+    {
+      "tag": "MấtTrậtTự,LàmViệcRiêngTrongGiờHọc,GiờThựcTậpVàTựHọc#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Mất trật tự, làm  việc riêng trong  giờ học, giờ thực  tập và tự học #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nMất trật tự, làm  việc riêng trong  giờ học, giờ thực  tập và tự học #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nBị trừ điểm rèn  luyện từ 1-10  điểm tùy giảng  viên đề nghị."
+      ]
+    },
+    {
+      "tag": "VôLễVớiThầy,CôGiáoVàCbvc#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Vô lễ với thầy, cô  giáo và CBVC  #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nVô lễ với thầy, cô  giáo và CBVC  #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nTrường\nTuỳ theo mức  độ, xử lý từ khiển trách đến  buộc thôi học"
+      ]
+    },
+    {
+      "tag": "HọcThayHoặcNhờNgườiKhácHọcThay#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Học thay hoặc  nhờ người khác  học thay #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nHọc thay hoặc  nhờ người khác  học thay #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nTuỳ theo mức  độ, xử lý từ khiển trách đến  buộc thôi học"
+      ]
+    },
+    {
+      "tag": "Thi,KiểmTraThay,HoặcNhờThi,KiểmTraThay;LàmThay,NhờLàmHoặcSaoChépTiểuLuận,Đồ#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Thi, kiểm tra thay,  hoặc nhờ thi, kiểm  tra thay; làm thay,  nhờ làm hoặc sao  chép tiểu luận, đồ #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nThi, kiểm tra thay,  hoặc nhờ thi, kiểm  tra thay; làm thay,  nhờ làm hoặc sao  chép tiểu luận, đồ #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nLần 1 Lần 2\n114 Sổ tay sinh viên 2022 án, khoá luận tốt  nghiệp"
+      ]
+    },
+    {
+      "tag": "TổChứcHọc,Thi,KiểmTraHộ;TổChứcLàmHộTiểuLuận,ĐồÁn,KhoáLuậnTốtNghiệp#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Tổ chức học, thi,  kiểm tra hộ; tổ chức làm hộ tiểu  luận, đồ án, khoá  luận tốt nghiệp #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nTổ chức học, thi,  kiểm tra hộ; tổ chức làm hộ tiểu  luận, đồ án, khoá  luận tốt nghiệp #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nLần 1 Tuỳ theo mức  độ có thể giao  cho cơ quan  chức năng xử lý  theo quy định  của pháp luật"
+      ]
+    },
+    {
+      "tag": "MangTàiLiệuVàoPhòngThi,ĐưaĐềThiRaNgoàiNhờLàmThay,NémTàiLiệuVàoPhòngThi,VẽBậyVàoBàiThi;BỏThiKhôngCóLýDoChínhĐángVàCácHìnhThứcGianLậnKhácTrongHọcTập,Thi,KiểmTra.#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Mang tài liệu vào  phòng thi, đưa đề thi ra ngoài nhờ làm thay, ném tài  liệu vào phòng thi,  vẽ bậy vào bài thi;  bỏ thi không có lý  do chính đáng và  các hình thức gian  lận khác trong học  tập, thi, kiểm tra. #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nMang tài liệu vào  phòng thi, đưa đề thi ra ngoài nhờ làm thay, ném tài  liệu vào phòng thi,  vẽ bậy vào bài thi;  bỏ thi không có lý  do chính đáng và  các hình thức gian  lận khác trong học  tập, thi, kiểm tra. #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nXử lý theo quy  chế đào tạo"
+      ]
+    },
+    {
+      "tag": "CốTìnhChậmNộpHoặcKhôngNộpHọcPhí,BảoHiểmYTếTheoQuyĐịnhCủaTrườngMàKhôngCóLýDoChínhĐáng.#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Cố tình chậm nộp  hoặc không nộp  học phí, bảo hiểm  y tế theo quy định  của Trường mà  không có lý do  chính đáng. #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nCố tình chậm nộp  hoặc không nộp  học phí, bảo hiểm  y tế theo quy định  của Trường mà  không có lý do  chính đáng. #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nTuỳ theo mức  độ, xử lý từ nhắc nhở, khiển  trách đến buộc  thôi học"
+      ]
+    },
+    {
+      "tag": "LàmHưHỏngTàiSảnTrongKtxVàCácTàiSảnKhácCủaTrường#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Làm hư hỏng tài  sản trong KTX và  các tài sản khác  của trường #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nLàm hư hỏng tài  sản trong KTX và  các tài sản khác  của trường #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nTuỳ theo mức  độ xử lý từ khiển  trách đến buộc  thôi học và phải  bồi thường thiệt  hại"
+      ]
+    },
+    {
+      "tag": "UốngRượu,BiaTrongGiờHọc;SayRượu,BiaKhiĐếnLớp.#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Uống rượu, bia  trong giờ học; say  rượu, bia khi đến  lớp. #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nUống rượu, bia  trong giờ học; say  rượu, bia khi đến  lớp. #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nLần 1 Lần 2 Lần 3 Lần 4\n Sổ tay sinh viên 2022 115"
+      ]
+    },
+    {
+      "tag": "HútThuốcLáTrongGiờHọc,PhòngHọp,PhòngThíNghiệmVàNơiCấmHútThuốcTheoQuyĐịnh#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Hút thuốc lá trong  giờ học, phòng  họp, phòng thí  nghiệm và nơi  cấm hút thuốc  theo quy định #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nHút thuốc lá trong  giờ học, phòng  họp, phòng thí  nghiệm và nơi  cấm hút thuốc  theo quy định #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nTừ lần 3 trở lên,  xử lý từ khiển  trách đến cảnh  cáo"
+      ]
+    },
+    {
+      "tag": "ĐánhBạcDướiMọiHìnhThức#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Đánh bạc dưới  mọi hình thức #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nĐánh bạc dưới  mọi hình thức #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nLần 1 Lần 2 Lần 3 Lần 4 Tuỳ theo mức  độ có thể giao  cho cơ quan  chức năng xử lý  theo quy định  của pháp luật"
+      ]
+    },
+    {
+      "tag": "TàngTrữ,LưuHành,TruyCập,SửDụngSảnPhẩmVănHoáĐồiTrụyHoặcThamGiaCácHoạtĐộngMêTínDịĐoan,HoạtĐộngTônGiáoTráiPhép#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Tàng trữ, lưu  hành, truy cập, sử dụng sản phẩm  văn hoá đồi trụy  hoặc tham gia các  hoạt động mê tín  dị đoan, hoạt động  tôn giáo trái phép #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nTàng trữ, lưu  hành, truy cập, sử dụng sản phẩm  văn hoá đồi trụy  hoặc tham gia các  hoạt động mê tín  dị đoan, hoạt động  tôn giáo trái phép #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nLần 1 Lần 2 Lần 3 Lần 4 Nếu nghiêm  trọng giao cho  cơ quan chức  năng xử lý theo  quy định của  pháp luật"
+      ]
+    },
+    {
+      "tag": "BuônBán,VậnChuyển,TàngTrữ,LôiKéoNgườiKhácSửDụngMaTuý#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Buôn bán, vận  chuyển, tàng trữ,  lôi kéo người khác  sử dụng ma tuý #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nBuôn bán, vận  chuyển, tàng trữ,  lôi kéo người khác  sử dụng ma tuý #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nLần 1 Giao cho cơ  quan chức năng  xử lý theo quy  định của pháp  luật"
+      ]
+    },
+    {
+      "tag": "SửDụngMaTuýXửLýTheoQuyĐịnhVềXửLýSinhViênLiênQuanĐếnMaTúy.#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Sử dụng ma tuý Xử lý theo quy  định về xử lý  sinh viên liên  quan đến ma  túy. #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nSử dụng ma tuý Xử lý theo quy  định về xử lý  sinh viên liên  quan đến ma  túy. #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ]
+    },
+    {
+      "tag": "ChứaChấp,MôiGiớiHoạtĐộngMạiDâm#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Chứa chấp, môi  giới hoạt động  mại dâm #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nChứa chấp, môi  giới hoạt động  mại dâm #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nLần 1 Giao cho cơ  quan chức năng  xử lý theo quy  định của pháp  luật"
+      ]
+    },
+    {
+      "tag": "HoạtĐộngMạiDâm#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Hoạt động mại  dâm #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nHoạt động mại  dâm #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nGiao cho cơ  quan chức năng  xử lý theo quy \n116 Sổ tay sinh viên 2022 định của pháp  luật"
+      ]
+    },
+    {
+      "tag": "LấyCắpTàiSản,ChứaChấp,TiêuThụTàiSảnDoLấyCắpMàCó#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Lấy cắp tài sản,  chứa chấp, tiêu  thụ tài sản do lấy  cắp mà có #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nLấy cắp tài sản,  chứa chấp, tiêu  thụ tài sản do lấy  cắp mà có #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nTuỳ theo mức  độ xử lý từ cảnh  cáo đến buộc  thôi học. Nếu  nghiêm trọng,  giao cho cơ  quan chức năng  xử lý theo quy  định của pháp  luật"
+      ]
+    },
+    {
+      "tag": "ChứaChấpBuônBánVũKhí,ChấtNổ,ChấtDễCháyVàCácHàngCấmTheoQuyĐịnhCủa#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Chứa chấp buôn  bán vũ khí, chất  nổ, chất dễ cháy  và các hàng cấm  theo quy định của  #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nChứa chấp buôn  bán vũ khí, chất  nổ, chất dễ cháy  và các hàng cấm  theo quy định của  #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nNhà nước.\nLần 1 Giao cho cơ  quan chức năng  xử lý theo quy  định của pháp  luật"
+      ]
+    },
+    {
+      "tag": "ĐưaPhầnTửXấuVàoTrongTrường,#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Đưa phần tử xấu  vào trong trường,  #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nĐưa phần tử xấu  vào trong trường,  #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nKTX gây ảnh  hưởng xấu đến an  ninh, trật tự trong  nhà trường.\nTuỳ theo mức  độ xử lý từ cảnh  cáo đến buộc  thôi học"
+      ]
+    },
+    {
+      "tag": "ĐánhNhau,TổChứcHoặcThamGiaTổChứcĐánhNhau#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Đánh nhau, tổ chức hoặc tham  gia tổ chức đánh  nhau #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nĐánh nhau, tổ chức hoặc tham  gia tổ chức đánh  nhau #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nLần 1 Lần 2 Lần 3 Nếu nghiêm  trọng, giao cho  cơ quan chức  năng xử lý theo  quy định của  pháp luật"
+      ]
+    },
+    {
+      "tag": "KíchĐộng,LôiKéoNgườiKhácBiểuTình,ViếtTruyềnĐơn,ÁpPhíchTráiPhápLuật#*#MộtSốNộiDungViPhạmVàKhungXửLýKỷLuậtSinhViên",
+      "patterns": [
+        "Kích động, lôi kéo  người khác biểu  tình, viết truyền  đơn, áp phích trái  pháp luật #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN"
+      ],
+      "responses": [
+        "\nKích động, lôi kéo  người khác biểu  tình, viết truyền  đơn, áp phích trái  pháp luật #*# MỘT SỐ NỘI DUNG VI PHẠM VÀ KHUNG XỬ LÝ KỶ LUẬT SINH VIÊN\nLần 1 Lần 2 Nếu nghiêm  trọng, giao cho  cơ quan chức  năng xử lý theo  quy định của  pháp luật."
+      ]
+    },
+    {
+      "tag": "Điều1.PhạmViĐiềuChỉnhVàĐốiTượngÁpDụng",
+      "patterns": [
+        "Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng",
+        "Văn bản này quy định việc sử dụng hệ thống thư điện tử và các dịch  vụ trực tuyến kèm theo thư điện tử nhằm mục đích quản lý và trao đổi thông  tin điện tử trong hoạt động của Trường Đại học Mở Thành phố Hồ Chí Minh ",
+        "2. Quy định này áp dụng đối với người học tại Trường."
+      ],
+      "responses": [
+        "\nĐiều 1. Phạm vi điều chỉnh và đối tượng áp dụng\n1. Văn bản này quy định việc sử dụng hệ thống thư điện tử và các dịch  vụ trực tuyến kèm theo thư điện tử nhằm mục đích quản lý và trao đổi thông  tin điện tử trong hoạt động của Trường Đại học Mở Thành phố Hồ Chí Minh \n(sau đây gọi tắt là Trường), tạo nền tảng để triển khai các ứng dụng mới trong  quản lý giảng dạy và học tập, góp phần chuyên nghiệp hóa các hoạt động của \nTrường.\n2. Quy định này áp dụng đối với người học tại Trường."
+      ]
+    },
+    {
+      "tag": "Điều2.GiảiThíchTừNgữ",
+      "patterns": [
+        "Điều 2. Giải thích từ ngữ",
+        "1. Người học: là các học viên, sinh viên đang theo học tại Trường.",
+        "2. Thư điện tử (email): là phương tiện liên lạc, trao đổi thông tin thông  qua các hộp thư điện tử trên Internet của Trường, các đơn vị, viên chức và  người học.",
+        "3. Các dịch vụ trực tuyến đính kèm: là các tiện ích kèm theo thư điện  tử do nhà trường cung cấp.",
+        "4. Văn bản điện tử: là văn bản được đăng tải trên trang thông tin điện  tử (website) của Trường, được chuyển qua hệ thống thư điện tử theo đúng  quy định của pháp luật, được đảm bảo xác thực về nguồn gốc và sự toàn vẹn  của văn bản, có giá trị pháp lý tương đương như văn bản giấy.",
+        "Giao dịch văn bản điện tử: cung cấp, trao đổi thông tin qua hệ thống  thư điện tử và trang thông tin điện tử của Trường."
+      ],
+      "responses": [
+        "\nĐiều 2. Giải thích từ ngữ\nTrong văn bản này các từ ngữ dưới đây được hiểu như sau:\n1. Người học: là các học viên, sinh viên đang theo học tại Trường.\n2. Thư điện tử (email): là phương tiện liên lạc, trao đổi thông tin thông  qua các hộp thư điện tử trên Internet của Trường, các đơn vị, viên chức và  người học.\n3. Các dịch vụ trực tuyến đính kèm: là các tiện ích kèm theo thư điện  tử do nhà trường cung cấp.\n4. Văn bản điện tử: là văn bản được đăng tải trên trang thông tin điện  tử (website) của Trường, được chuyển qua hệ thống thư điện tử theo đúng  quy định của pháp luật, được đảm bảo xác thực về nguồn gốc và sự toàn vẹn  của văn bản, có giá trị pháp lý tương đương như văn bản giấy.\n5. Giao dịch văn bản điện tử: cung cấp, trao đổi thông tin qua hệ thống  thư điện tử và trang thông tin điện tử của Trường.\n Sổ tay sinh viên 2022 119"
+      ]
+    },
+    {
+      "tag": "Điều3.CácHànhViNghiêmCấm",
+      "patterns": [
+        "Điều 3. Các hành vi nghiêm cấm",
+        "1. Các hành vi theo quy định của pháp luật và các quy định có liên quan  khác của Nhà nước.",
+        "2. Lưu chuyển trên hệ thống thư điện tử các văn bản, tài liệu có tính  mật theo quy định của pháp luật.",
+        "3. Phát tán thư rác, virus và các hành động làm ảnh hưởng đến hoạt  động của hệ thống.",
+        "4. Sử dụng hộp thư điện tử gửi thư với mục đích tuyên truyền, quảng  bá kinh doanh, hay sử dụng với mục đích thương mại hóa.",
+        "5. Phát tán, chuyển tiếp thư có nội dung đồi trụy, chống phá Nhà nước,  kích động bạo lực và chiến tranh, gây chia rẽ đoàn kết giữa các dân tộc, giữa  các tôn giáo và các đơn thư khiếu nại, tố cáo, bôi xấu nhà trường, gây chia rẽ nội bộ."
+      ],
+      "responses": [
+        "\nĐiều 3. Các hành vi nghiêm cấm\n1. Các hành vi theo quy định của pháp luật và các quy định có liên quan  khác của Nhà nước.\n2. Lưu chuyển trên hệ thống thư điện tử các văn bản, tài liệu có tính  mật theo quy định của pháp luật.\n3. Phát tán thư rác, virus và các hành động làm ảnh hưởng đến hoạt  động của hệ thống.\n4. Sử dụng hộp thư điện tử gửi thư với mục đích tuyên truyền, quảng  bá kinh doanh, hay sử dụng với mục đích thương mại hóa.\n5. Phát tán, chuyển tiếp thư có nội dung đồi trụy, chống phá Nhà nước,  kích động bạo lực và chiến tranh, gây chia rẽ đoàn kết giữa các dân tộc, giữa  các tôn giáo và các đơn thư khiếu nại, tố cáo, bôi xấu nhà trường, gây chia rẽ nội bộ."
+      ]
+    },
+    {
+      "tag": "Điều4.TênMiềnCủaHộpThưĐiệnTử",
+      "patterns": [
+        "Điều 4. Tên miền của hộp thư điện tử"
+      ],
+      "responses": [
+        "\nĐiều 4. Tên miền của hộp thư điện tử\nMỗi người học thuộc Trường được cấp một hộp thư điện tử dùng trong  giao dịch văn bản điện tử và sử dụng các dịch vụ trực tuyến đính kèm với tên  miền cụ thể:\n Đối với người học đang theo học hệ chính quy bậc cao học, đại học  là ou.edu.vn \n Đối với người học đang theo học hệ không chính quy hình thức đào  tạo từ xa và vừa làm vừa học là oude.edu.vn"
+      ]
+    },
+    {
+      "tag": "Điều5.QuyTắcNhậnHoặcGửiThưĐiệnTử",
+      "patterns": [
+        "Điều 5. Quy tắc nhận hoặc gửi thư điện tử",
+        "Quy định nhận thư điện tử:",
+        "Quy định gửi thư điện tử:"
+      ],
+      "responses": [
+        "\nĐiều 5. Quy tắc nhận hoặc gửi thư điện tử\n1. Quy định nhận thư điện tử:\nTất cả người học khi nhận được thư điện tử của Trường trực tiếp gửi  đích danh nhằm giải quyết việc cá nhân của người học với nhà trường, người  học phải nhanh chóng trả lời.\n2. Quy định gửi thư điện tử:\n Khi gửi, nội dung thư điện tử cần nêu rõ thông tin cá nhân (bao gồm:  họ và tên, lớp, khoa…) để Trường hỗ trợ tốt hơn; Tránh dùng các từ ngữ mơ  hồ, khó hiểu, phải thể hiện chính xác nội dung.\n Tất cả người học không gửi tài liệu và các thông tin nội bộ của \nTrường cho bên thứ ba khi chưa có sự đồng ý của Trường"
+      ]
+    },
+    {
+      "tag": "Điều6.QuyTrìnhKhởiTạo,CấpLại,QuảnLýVàThuHồiHộpThưĐiệnTửCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Điều 6. Quy trình khởi tạo, cấp lại, quản lý và thu hồi hộp thư  điện tử các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nĐiều 6. Quy trình khởi tạo, cấp lại, quản lý và thu hồi hộp thư  điện tử các dịch vụ trực tuyến đính kèm\n1. Khởi tạo hộp thư điện tử:\n2. Cấp lại thư điện tử:\n3. Quản lý, thu hồi hộp thư điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "KhởiTạoHộpThưĐiệnTử:#*#Điều6.QuyTrìnhKhởiTạo,CấpLại,QuảnLýVàThuHồiHộpThưĐiệnTửCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Khởi tạo hộp thư điện tử: #*# Điều 6. Quy trình khởi tạo, cấp lại, quản lý và thu hồi hộp thư  điện tử các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nKhởi tạo hộp thư điện tử: #*# Điều 6. Quy trình khởi tạo, cấp lại, quản lý và thu hồi hộp thư  điện tử các dịch vụ trực tuyến đính kèm\n Khi người học vào nhập học tại Trường sẽ được cấp hộp thư điện  tử theo quy ước của nhà trường.\n Trung tâm Quản lý hệ thống thông tin chỉ xử lý việc cấp mới khi có  văn bản yêu cầu từ các đơn vị có liên quan."
+      ]
+    },
+    {
+      "tag": "CấpLạiThưĐiệnTử:#*#Điều6.QuyTrìnhKhởiTạo,CấpLại,QuảnLýVàThuHồiHộpThưĐiệnTửCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Cấp lại thư điện tử: #*# Điều 6. Quy trình khởi tạo, cấp lại, quản lý và thu hồi hộp thư  điện tử các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nCấp lại thư điện tử: #*# Điều 6. Quy trình khởi tạo, cấp lại, quản lý và thu hồi hộp thư  điện tử các dịch vụ trực tuyến đính kèm\nKhi phát sinh sự cố về việc đăng nhập, khi mất quyền truy cập, người  học trong Trường phải thông báo ngay cho Trung tâm Quản lý hệ thống thông  tin biết để hỗ trợ, xử lý, giải quyết kịp thời."
+      ]
+    },
+    {
+      "tag": "QuảnLý,ThuHồiHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm#*#Điều6.QuyTrìnhKhởiTạo,CấpLại,QuảnLýVàThuHồiHộpThưĐiệnTửCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Quản lý, thu hồi hộp thư điện tử và các dịch vụ trực tuyến đính kèm #*# Điều 6. Quy trình khởi tạo, cấp lại, quản lý và thu hồi hộp thư  điện tử các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nQuản lý, thu hồi hộp thư điện tử và các dịch vụ trực tuyến đính kèm #*# Điều 6. Quy trình khởi tạo, cấp lại, quản lý và thu hồi hộp thư  điện tử các dịch vụ trực tuyến đính kèm\nKhi một trong các trường hợp sau đây xảy ra, hộp thư điện tử và dịch  vụ trực tuyến đính kèm của người học sẽ bị thu hồi:\n hộp thư điện tử và dịch vụ trực tuyến đính kèm của người học sẽ bị  thu hồi sau khi hoàn tất khóa học theo quy định của Trường.\n Người học sử dụng hộp thư điện tử hoặc các dịch vụ trực tuyến đính  kèm chứa các thông tin có nội dung tại điều 3 chương I của quy định này.\n Khi người học sử dụng thư điện tử và các dịch vụ trực tuyến đính  kèm để thực hiện các hành vi vi phạm pháp luật đã cấu thành bằng chứng; \nTrường và các đơn vị chức năng được quyền can thiệp trực tiếp vào hệ thống  thư điện tử và các dịch vụ trực tuyến đính kèm đang cung cấp cho người học  để phục vụ công tác thực thi pháp luật."
+      ]
+    },
+    {
+      "tag": "Điều7.SửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Điều 7. Sử dụng hộp thư điện tử và các dịch vụ trực tuyến đính  kèm",
+        "Các văn bản quy phạm pháp luật có nội dung liên quan đến ngành ",
+        "2. Các văn bản hành chính do các đơn vị ngoài trường ban hành liên  quan đến hoạt động của Trường.",
+        "3. Các văn bản do Trường, các đơn vị ban hành, bao gồm: Quyết định,  thông báo, công văn, kế hoạch, chương trình, hướng dẫn chuyên môn, các tài  liệu phục vụ công tác học tập và rèn luyện của người học.",
+        "4. Không áp dụng hình thức giao dịch văn bản điện tử đối với các văn  bản ngoài mục đích học tập và rèn luyện."
+      ],
+      "responses": [
+        "\nĐiều 7. Sử dụng hộp thư điện tử và các dịch vụ trực tuyến đính  kèm\nNgười học sử dụng hộp thư điện tử và các dịch vụ trực tuyến đính kèm  để gửi và lưu trữ các loại hình văn bản như sau:\n1. Các văn bản quy phạm pháp luật có nội dung liên quan đến ngành \n Sổ tay sinh viên 2022 121 giáo dục.\n2. Các văn bản hành chính do các đơn vị ngoài trường ban hành liên  quan đến hoạt động của Trường.\n3. Các văn bản do Trường, các đơn vị ban hành, bao gồm: Quyết định,  thông báo, công văn, kế hoạch, chương trình, hướng dẫn chuyên môn, các tài  liệu phục vụ công tác học tập và rèn luyện của người học.\n4. Không áp dụng hình thức giao dịch văn bản điện tử đối với các văn  bản ngoài mục đích học tập và rèn luyện."
+      ]
+    },
+    {
+      "tag": "Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nĐiều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm\n1. Trường cung cấp hộp thư điện tử và các dịch vụ trực tuyến đính kèm  cho người học nhằm mục đích hỗ trợ cho việc quản lý, học tập và trao đổi thông  tin của người học. Khi liên hệ hoặc trao đổi trong việc học tập và rèn luyện với  các đơn vị, viên chức trong Trường và các tổ chức, cá nhân bên ngoài người  học phải dùng thư điện tử được cấp.\n2. Không thực hiện các hành vi bị nghiêm cấm tại Điều 3 của quy định này.\n3. Không sử dụng thư điện tử cá nhân không phải do Trường cấp trong  quá trình học tập tại Trường để trao đổi thông tin học tập, rèn luyện có liên  quan đến Trường.\n4. Mỗi người học có trách nhiệm thực hiện kiểm tra hộp thư điện tử ít  nhất 1 lần trong ngày\n5. Định kỳ xóa những thư điện tử đã cũ không còn giá trị để tiết kiệm  dung lượng và tăng tốc độ truy xuất hệ thống.\n6. Không được đưa mật khẩu cho người khác sử dụng.\n7. Không truy nhập vào hộp thư điện tử của người khác.\n8. Người học phải chịu trách nhiệm trước pháp luật và Trường về nội  dung của những thư điện tử và các tài liệu được lưu trữ trong các dịch vụ trực  tuyến đính kèm được gửi đi từ hộp thư của mình. Vì vậy, để tránh bị kẻ gian  lợi dụng, người học cần bảo quản mật khẩu cẩn thận.\n9. Để tăng cường tính bảo mật, người học nên thường xuyên thay đổi mật khẩu."
+      ]
+    },
+    {
+      "tag": "TrườngCungCấpHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèmChoNgườiHọcNhằmMụcĐíchHỗTrợChoViệcQuảnLý,HọcTậpVàTraoĐổiThôngTinCủaNgườiHọc.KhiLiênHệHoặcTraoĐổiTrongViệcHọcTậpVàRènLuyệnVớiCácĐơnVị,ViênChứcTrongTrườngVàCácTổChức,CáNhânBênNgoàiNgườiHọcPhảiDùngThưĐiệnTửĐượcCấp.#*#Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Trường cung cấp hộp thư điện tử và các dịch vụ trực tuyến đính kèm  cho người học nhằm mục đích hỗ trợ cho việc quản lý, học tập và trao đổi thông  tin của người học. Khi liên hệ hoặc trao đổi trong việc học tập và rèn luyện với  các đơn vị, viên chức trong Trường và các tổ chức, cá nhân bên ngoài người  học phải dùng thư điện tử được cấp. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nTrường cung cấp hộp thư điện tử và các dịch vụ trực tuyến đính kèm  cho người học nhằm mục đích hỗ trợ cho việc quản lý, học tập và trao đổi thông  tin của người học. Khi liên hệ hoặc trao đổi trong việc học tập và rèn luyện với  các đơn vị, viên chức trong Trường và các tổ chức, cá nhân bên ngoài người  học phải dùng thư điện tử được cấp. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "KhôngThựcHiệnCácHànhViBịNghiêmCấmTạiĐiều3CủaQuyĐịnhNày.#*#Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Không thực hiện các hành vi bị nghiêm cấm tại Điều 3 của quy định này. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nKhông thực hiện các hành vi bị nghiêm cấm tại Điều 3 của quy định này. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "KhôngSửDụngThưĐiệnTửCáNhânKhôngPhảiDoTrườngCấpTrongQuáTrìnhHọcTậpTạiTrườngĐểTraoĐổiThôngTinHọcTập,RènLuyệnCóLiênQuanĐếnTrường.#*#Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Không sử dụng thư điện tử cá nhân không phải do Trường cấp trong  quá trình học tập tại Trường để trao đổi thông tin học tập, rèn luyện có liên  quan đến Trường. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nKhông sử dụng thư điện tử cá nhân không phải do Trường cấp trong  quá trình học tập tại Trường để trao đổi thông tin học tập, rèn luyện có liên  quan đến Trường. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "MỗiNgườiHọcCóTráchNhiệmThựcHiệnKiểmTraHộpThưĐiệnTửÍtNhất1LầnTrongNgày#*#Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Mỗi người học có trách nhiệm thực hiện kiểm tra hộp thư điện tử ít  nhất 1 lần trong ngày #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nMỗi người học có trách nhiệm thực hiện kiểm tra hộp thư điện tử ít  nhất 1 lần trong ngày #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "ĐịnhKỳXóaNhữngThưĐiệnTửĐãCũKhôngCònGiáTrịĐểTiếtKiệmDungLượngVàTăngTốcĐộTruyXuấtHệThống.#*#Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Định kỳ xóa những thư điện tử đã cũ không còn giá trị để tiết kiệm  dung lượng và tăng tốc độ truy xuất hệ thống. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nĐịnh kỳ xóa những thư điện tử đã cũ không còn giá trị để tiết kiệm  dung lượng và tăng tốc độ truy xuất hệ thống. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "KhôngĐượcĐưaMậtKhẩuChoNgườiKhácSửDụng.#*#Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Không được đưa mật khẩu cho người khác sử dụng. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nKhông được đưa mật khẩu cho người khác sử dụng. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "KhôngTruyNhậpVàoHộpThưĐiệnTửCủaNgườiKhác.#*#Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Không truy nhập vào hộp thư điện tử của người khác. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nKhông truy nhập vào hộp thư điện tử của người khác. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "NgườiHọcPhảiChịuTráchNhiệmTrướcPhápLuậtVàTrườngVềNộiDungCủaNhữngThưĐiệnTửVàCácTàiLiệuĐượcLưuTrữTrongCácDịchVụTrựcTuyếnĐínhKèmĐượcGửiĐiTừHộpThưCủaMình.VìVậy,ĐểTránhBịKẻGianLợiDụng,NgườiHọcCầnBảoQuảnMậtKhẩuCẩnThận.#*#Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Người học phải chịu trách nhiệm trước pháp luật và Trường về nội  dung của những thư điện tử và các tài liệu được lưu trữ trong các dịch vụ trực  tuyến đính kèm được gửi đi từ hộp thư của mình. Vì vậy, để tránh bị kẻ gian  lợi dụng, người học cần bảo quản mật khẩu cẩn thận. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nNgười học phải chịu trách nhiệm trước pháp luật và Trường về nội  dung của những thư điện tử và các tài liệu được lưu trữ trong các dịch vụ trực  tuyến đính kèm được gửi đi từ hộp thư của mình. Vì vậy, để tránh bị kẻ gian  lợi dụng, người học cần bảo quản mật khẩu cẩn thận. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "ĐểTăngCườngTínhBảoMật,NgườiHọcNênThườngXuyênThayĐổiMậtKhẩu.#*#Điều8.TráchNhiệmCủaNgườiHọcTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Để tăng cường tính bảo mật, người học nên thường xuyên thay đổi mật khẩu. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nĐể tăng cường tính bảo mật, người học nên thường xuyên thay đổi mật khẩu. #*# Điều 8. Trách nhiệm của người học trong việc sử dụng hộp thư  điện tử và các dịch vụ trực tuyến đính kèm"
+      ]
+    },
+    {
+      "tag": "Điều9.TráchNhiệmCủaTrungTâmQuảnLýHệThốngThôngTinTrongViệcSửDụngHộpThưĐiệnTửVàCácDịchVụTrựcTuyếnĐínhKèm",
+      "patterns": [
+        "Điều 9. Trách nhiệm của Trung tâm quản lý hệ thống thông tin  trong việc sử dụng hộp thư điện tử và các dịch vụ trực tuyến đính kèm"
+      ],
+      "responses": [
+        "\nĐiều 9. Trách nhiệm của Trung tâm quản lý hệ thống thông tin  trong việc sử dụng hộp thư điện tử và các dịch vụ trực tuyến đính kèm\nTrung tâm Quản lý hệ thống thông tin có trách nhiệm hỗ trợ kỹ thuật, \n122 Sổ tay sinh viên 2022 khởi tạo, thay đổi mật khẩu, thu hồi các hộp thư và các dịch vụ trực tuyến đính  kèm khi có yêu cầu từ các đơn vị chức năng có liên quan."
+      ]
+    },
+    {
+      "tag": "Điều10.TráchNhiệmCủaLãnhĐạoTrường",
+      "patterns": [
+        "Điều 10. Trách nhiệm của lãnh đạo Trường",
+        "1. Quản lý, chỉ đạo và triển khai giao dịch văn bản điện tử của Trường theo đúng quy định hiện hành của Nhà nước và của Trường.",
+        "Thường xuyên truy cập Cổng thông tin điện tử của Bộ Giáo dục và ",
+        "3. Kiểm tra việc công bố trên trang thông tin điện tử của Trường các  văn bản thuộc trách nhiệm ký ban hành.",
+        "4. Chịu trách nhiệm về nội dung, độ chính xác và bảo mật các thông  tin trong quá trình sử dụng giao dịch văn bản điện tử."
+      ],
+      "responses": [
+        "\nĐiều 10. Trách nhiệm của lãnh đạo Trường\n1. Quản lý, chỉ đạo và triển khai giao dịch văn bản điện tử của Trường theo đúng quy định hiện hành của Nhà nước và của Trường.\n2. Thường xuyên truy cập Cổng thông tin điện tử của Bộ Giáo dục và \nĐào tạo trang thông tin điện tử của Trường và hộp thư điện tử của cá nhân để  kịp thời cập nhật và xử lý các thông tin liên quan.\n3. Kiểm tra việc công bố trên trang thông tin điện tử của Trường các  văn bản thuộc trách nhiệm ký ban hành.\n4. Chịu trách nhiệm về nội dung, độ chính xác và bảo mật các thông  tin trong quá trình sử dụng giao dịch văn bản điện tử."
+      ]
+    },
+    {
+      "tag": "Điều11.TráchNhiệmCủaLãnhĐạoCácĐơnVị",
+      "patterns": [
+        "Điều 11. Trách nhiệm của lãnh đạo các đơn vị",
+        "1. Quản lý, chỉ đạo và triển khai giao dịch văn bản điện tử của đơn vị  mình theo đúng các quy định hiện hành của Nhà nước và của Trường.",
+        "2. Thường xuyên truy cập trang thông tin điện tử của Trường, hộp thư  điện tử của đơn vị và của cá nhân để kịp thời cập nhật và xử lý các thông tin  liên quan.",
+        "3. Chịu trách nhiệm về nội dung, độ chính xác và bảo mật các thông  tin trong quá trình sử dụng giao dịch văn bản điện tử.",
+        "4. Chịu trách nhiệm thông báo và triển khai để đảm bảo tất cả sinh viên  sử dụng hộp thư điện tử do Trường cấp trong các hoạt động và thông tin."
+      ],
+      "responses": [
+        "\nĐiều 11. Trách nhiệm của lãnh đạo các đơn vị\n1. Quản lý, chỉ đạo và triển khai giao dịch văn bản điện tử của đơn vị  mình theo đúng các quy định hiện hành của Nhà nước và của Trường.\n2. Thường xuyên truy cập trang thông tin điện tử của Trường, hộp thư  điện tử của đơn vị và của cá nhân để kịp thời cập nhật và xử lý các thông tin  liên quan.\n3. Chịu trách nhiệm về nội dung, độ chính xác và bảo mật các thông  tin trong quá trình sử dụng giao dịch văn bản điện tử.\n4. Chịu trách nhiệm thông báo và triển khai để đảm bảo tất cả sinh viên  sử dụng hộp thư điện tử do Trường cấp trong các hoạt động và thông tin."
+      ]
+    },
+    {
+      "tag": "Điều12.CôngTácAnNinh,AnToànThôngTinKhiSửDụngThưĐiệnTử",
+      "patterns": [
+        "Điều 12. Công tác an ninh, an toàn thông tin khi sử dụng thư điện tử",
+        "1. Không cung cấp hoặc để lộ mật khẩu vào hệ thống thư điện tử cho  người khác; để người khác sử dụng địa chỉ hộp thư điện tử của cá nhân mình.",
+        "2. Tuân thủ các quy định của pháp luật, của Trường về an ninh, an  toàn, bảo mật thông tin trong quá trình sử dụng.",
+        "3. Không được cố tình phát tán thư, chuyển tiếp thư có nội dung đồi  trụy, chống phá Nhà nước, Kích động bạo lực và chiến tranh, gây chia rẽ đoàn  kết giữa các dân tộc, giữa các tôn giáo và các đơn thư khiếu nại, tố cáo, bôi  xấu Trường, gây chia rẽ nội bộ.",
+        "4. Người học không được sử dụng lưu trữ phim ảnh, âm nhạc và các  phương tiện dưới mọi định dạng mà không liên quan đến việc học tập"
+      ],
+      "responses": [
+        "\nĐiều 12. Công tác an ninh, an toàn thông tin khi sử dụng thư điện tử\n1. Không cung cấp hoặc để lộ mật khẩu vào hệ thống thư điện tử cho  người khác; để người khác sử dụng địa chỉ hộp thư điện tử của cá nhân mình.\n2. Tuân thủ các quy định của pháp luật, của Trường về an ninh, an  toàn, bảo mật thông tin trong quá trình sử dụng.\n3. Không được cố tình phát tán thư, chuyển tiếp thư có nội dung đồi  trụy, chống phá Nhà nước, Kích động bạo lực và chiến tranh, gây chia rẽ đoàn  kết giữa các dân tộc, giữa các tôn giáo và các đơn thư khiếu nại, tố cáo, bôi  xấu Trường, gây chia rẽ nội bộ.\n4. Người học không được sử dụng lưu trữ phim ảnh, âm nhạc và các  phương tiện dưới mọi định dạng mà không liên quan đến việc học tập"
+      ]
+    },
+    {
+      "tag": "Điều13.KhenThưởng,KỷLuật",
+      "patterns": [
+        "Điều 13. Khen thưởng , kỷ luật",
+        "1. Người học thực hiện giao dịch văn bản điện tử sẽ được cộng 5 điểm  rèn luyện vào điều 4 “Đánh giá phẩm chất công dân và quan hệ với  cộng đồng” theo quy chế đánh giá kết quả rèn luyện của người học  được đào tạo trình độ đại học hệ chính quy của Trường.",
+        "2. Người học vi phạm các quy định trong giao dịch văn bản điện tử tùy  theo tính chất, mức độ vi phạm sẽ bị xử lý từ mức khiển trách đến  buộc thôi học. Trường hợp nghiêm trọng giao cho cơ quan chức  năng xử lý theo quy định của pháp luật"
+      ],
+      "responses": [
+        "\nĐiều 13. Khen thưởng , kỷ luật\n1. Người học thực hiện giao dịch văn bản điện tử sẽ được cộng 5 điểm  rèn luyện vào điều 4 “Đánh giá phẩm chất công dân và quan hệ với  cộng đồng” theo quy chế đánh giá kết quả rèn luyện của người học  được đào tạo trình độ đại học hệ chính quy của Trường.\n2. Người học vi phạm các quy định trong giao dịch văn bản điện tử tùy  theo tính chất, mức độ vi phạm sẽ bị xử lý từ mức khiển trách đến  buộc thôi học. Trường hợp nghiêm trọng giao cho cơ quan chức  năng xử lý theo quy định của pháp luật"
+      ]
+    },
+    {
+      "tag": "Điều14.TổChứcThựcHiện",
+      "patterns": [
+        "Điều 14. Tổ chức thực hiện"
+      ],
+      "responses": [
+        "\nĐiều 14. Tổ chức thực hiện\nTrưởng các đơn vị thuộc Trường chịu trách nhiệm phổ biến, triển khai  thực hiện và đôn đốc, kiểm tra việc thực hiện Quy định này.\nThời gian áp dụng kể từ ngày ký\nTrong quá trình thực hiện nếu có khó khăn, vướng mắc, các đơn vị  phản ánh về Phòng Công tác sinh viên để tổng hợp trình Hiệu trưởng xem  xét điều chỉnh, bổ sung cho phù hợp"
+      ]
+    },
+    {
+      "tag": "Điều1.ĐốiTượngVàPhạmViÁpDụng",
+      "patterns": [
+        "Điều 1. Đối tượng và phạm vi áp dụng"
+      ],
+      "responses": [
+        "\nĐiều 1. Đối tượng và phạm vi áp dụng\n- Quy tắc này quy định các chuẩn mực ứng xử phù hợp với văn hóa,  đạo đức, quy định của Pháp luật.\n- Quy tắc này áp dụng cho người học đang học tập tại trường Đại học \nMở Thành phố Hồ Chí Minh."
+      ]
+    },
+    {
+      "tag": "Điều2.MụcĐích",
+      "patterns": [
+        "Điều 2. Mục đích"
+      ],
+      "responses": [
+        "\nĐiều 2. Mục đích\n- Quy định các chuẩn mực ứng xử của người học nhằm xây dựng tính  kỷ cương, nề nếp và môi trường văn hóa trong nhà trường.\n- Xây dựng môi trường học tập lành mạnh, thân thiện cho người học.\n- Nhằm giúp người học nâng cao ý thức bản thân, trách nhiệm với cộng  đồng, định hướng các mối quan hệ theo tính nhân văn; nâng cao khả năng  thích nghi với xã hội; góp phần giáo dục phẩm chất chính trị, đạo đức và lối  sống lành mạnh; xây dựng phong cách ứng xử chuẩn mực của sinh viên đang  học tập tại Trường Đại học Mở Thành phố Hồ Chí Minh.\n- Là cơ sở để giám sát người học trong việc chấp hành các quy định  và nội quy của Nhà trường; là căn cứ để đánh giá, xếp loại rèn luyện, xử lý  trách nhiệm khi người học vi phạm các chuẩn mực trong quá trình học tập và  rèn luyện tại Trường"
+      ]
+    },
+    {
+      "tag": "Điều3.QuyĐịnhVềTrangPhục,TácPhong",
+      "patterns": [
+        "Điều 3. Quy định về trang phục, tác phong"
+      ],
+      "responses": [
+        "\nĐiều 3. Quy định về trang phục, tác phong\n3.1 Trang phục:\n3.2 Tác phong:"
+      ]
+    },
+    {
+      "tag": "TrangPhục:#*#Điều3.QuyĐịnhVềTrangPhục,TácPhong",
+      "patterns": [
+        "Trang phục: #*# Điều 3. Quy định về trang phục, tác phong"
+      ],
+      "responses": [
+        "\nTrang phục: #*# Điều 3. Quy định về trang phục, tác phong\n- Trang phục đối với nam: Áo sơ mi hoặc áo thun có tay, quần dài. \n- Trang phục đối với nữ: gọn gàng, lịch sự, phù hợp tác phong người  học. Không mặc quần áo quá chật, vải quá mỏng, quá ôm sát như: váy ngắn  trên đầu gối, áo sát nách hoặc áo dây, cổ áo quá rộng…\n- Tóc phải gọn gàng.\n- Đi giày hoặc dép có quai hậu, không mang dép lê.\n- Khi đi đến trường người học phải đeo Thẻ sinh viên hoặc Thẻ học  viên. \n- Trong giờ học các môn Giáo dục quốc phòng, Giáo dục thể chất, làm  việc tại phòng thí nghiệm, thực hành, người học sử dụng trang phục theo quy  định riêng, tuy nhiên phải chấp hành đúng quy định chung về trang phục, tác  phong khi đến Trường.\n- Trong trường hợp tham dự các các buổi lễ, đại hội, hội nghị, hội thảo...  thì người học sử dụng trang phục theo quy định, yêu cầu của từng sự kiện."
+      ]
+    },
+    {
+      "tag": "TácPhong:#*#Điều3.QuyĐịnhVềTrangPhục,TácPhong",
+      "patterns": [
+        "Tác phong: #*# Điều 3. Quy định về trang phục, tác phong"
+      ],
+      "responses": [
+        "\nTác phong: #*# Điều 3. Quy định về trang phục, tác phong\n- Khi người học tham gia hội họp, sinh hoạt, học tập phải đúng giờ,  đúng thành phần; nghỉ học, đi muộn phải có lý do chính đáng; phát biểu phải  được sự đồng ý của người chủ trì, giữ thái độ đúng mực, không nói chen  ngang khi phát biểu, thảo luận, không ra về trước khi chương trình kết thúc.\n- Có tác phong nghiêm túc, tôn trọng giảng viên. Người học nên đứng  dậy chào khi giảng viên bước vào lớp và khi kết thúc buổi học. Khi giảng viên  đang giảng bài, người học không được sử dụng điện thoại di động trong lớp;  không nói chuyện riêng gây ồn ào; không được bỏ ra ngoài lớp khi giảng viên  đang giảng bài để làm việc riêng mà không xin phép; không viết vẽ lên bàn,  lên tường; không ngủ, không ăn quà vặt trong giờ học;…"
+      ]
+    },
+    {
+      "tag": "Điều4.QuyĐịnhVềGiaoTiếpVàỨngXửTrongTrường",
+      "patterns": [
+        "Điều 4. Quy định về giao tiếp và ứng xử trong Trường"
+      ],
+      "responses": [
+        "\nĐiều 4. Quy định về giao tiếp và ứng xử trong Trường\n- Phải có thái độ lịch sự, nhã nhặn, tôn trọng lẫn nhau.\n126 Sổ tay sinh viên 2022\n- Sử dụng ngôn từ trong sáng, không nói tục, chửi bậy; hành vi và cử chỉ đúng mực.\n- Phải có thái độ lễ phép đối với thầy cô giáo, cán bộ công nhân viên và  khách đến trường làm việc.\n- Giữ gìn các mối quan hệ trong sáng, phù hợp với truyền thống, bản sắc  văn hóa dân tộc; không được có những hành vi không lành mạnh trong khuôn  viên Trường.\n- Không xúc phạm danh dự, nhân phẩm, thân thể người khác.\n- Đoàn kết, động viên và giúp đỡ lẫn nhau trong học tập và rèn luyện."
+      ]
+    },
+    {
+      "tag": "Điều5.QuyĐịnhVềTháiĐộHọcTập",
+      "patterns": [
+        "Điều 5. Quy định về thái độ học tập"
+      ],
+      "responses": [
+        "\nĐiều 5. Quy định về thái độ học tập\n- Thực hiện nghiêm túc các quy chế, quy định của Bộ, Nhà trường như: \nQuy chế đào tạo, Quy chế công tác sinh viên, Quy chế sinh viên ngoại trú, Quy  chế đánh giá kết quả rèn luyện...\n- Có ý thức học tập nghiêm túc, tự giác và tích cực, chủ động trong quá  trình tiếp nhận kiến thức. Tích cực vận dụng sáng tạo kiến thức vào thực tế cuộc sống.\n- Nhiệt tình hợp tác với cán bộ viên chức trong hoạt động giáo dục và  đào tạo.\n- Tích cực tham gia các hoạt động xã hội, hoạt động cộng đồng và các  phong trào thi đua trong và ngoài Trường phát động. Có ý thức tự rèn luyện  các kỹ năng sống, học tập.\n- Trung thực, nghiêm túc trong học tập cũng như khi thi cử, kiểm tra. \nKhông gian lận trong thi cử dưới mọi hình thức.\n- Trong nghiên cứu khoa học: Trung thực trong quá trình thực hiện và  công bố các tiểu luận, khóa luận, luận văn, luận án, công trình nghiên cứu  khoa học. Tôn trọng bản quyền; không đạo văn, đạo ý tưởng của người khác. \nKhông giả mạo hoặc làm sai lệch dữ liệu trong nghiên cứu khoa học. Có trách  nhiệm xây dựng và bảo vệ thương hiệu của Trường trong cộng đồng nghiên  cứu khoa học trong nước và quốc tế. Kiên quyết đấu tranh đối với những hành  vi tiêu cực trong nghiên cứu khoa học; không bao che, thỏa hiệp với tiêu cực  trong khoa học.\n Sổ tay sinh viên 2022 127"
+      ]
+    },
+    {
+      "tag": "Điều6.ỨngXửVớiCảnhQuan,MôiTrườngVàTàiSảnCông",
+      "patterns": [
+        "Điều 6. Ứng xử với cảnh quan, môi trường và tài sản công"
+      ],
+      "responses": [
+        "\nĐiều 6. Ứng xử với cảnh quan, môi trường và tài sản công\n- Không hủy hoại, làm hư hỏng tài sản, trang thiết bị, vật dụng của nhà  trường và của cá nhân khác. Người học phải có trách nhiệm giữ gìn, bảo vệ và sử dụng an toàn, tiết kiệm, có hiệu quả tài sản của nhà trường và của cá  nhân.\n- Không gây ồn ào, mất trật tự ở nơi công cộng; gây ảnh hưởng đến khu  vực làm việc và học tập. Trong khu vực giảng đường, người học phải đi nhẹ,  nói khẽ, không gây ồn ào, mất trật tự. \n- Không treo, dán băng rôn, áp phích, biểu ngữ khi chưa được phép của \nNhà trường.\n- Không hút thuốc, sử dụng các chất kích thích, chất cháy nổ trong khuôn  viên trường.\n- Tắt các thiết bị điện, nước khi không sử dụng; báo ngay cho người có  trách nhiệm khi phát hiện có sự rò rỉ nước hoặc các hiện tượng lãng phí điện,  nước. \n- Có ý thức giữ gìn môi trường sống xanh, sạch, đẹp. Không xả rác bừa  bãi. Vứt bỏ rác đúng nơi quy định."
+      ]
+    },
+    {
+      "tag": "Điều7.QuyĐịnhGiữGìnAnNinhTrậtTự",
+      "patterns": [
+        "Điều 7. Quy định giữ gìn an ninh trật tự"
+      ],
+      "responses": [
+        "\nĐiều 7. Quy định giữ gìn an ninh trật tự\n- Khi ra vào Trường hoặc cơ quan khác phải có trang phục, tác phong  đúng quy định, tháo khăn che mặt, xuống xe dẫn bộ qua cổng.\n- Xếp hàng khi chờ thang máy. Nhường cho phụ nữ, em nhỏ và người  già, người khuyết tật, người mang vác nặng vào thang máy trước rồi vào sau.\n- Phải để xe đúng nơi quy định, không được để xe trong văn phòng, hành  lang nơi làm việc, học tập.\n- Nghiêm chỉnh chấp hành các nội quy, quy định của Nhà trường và đơn  vị nơi đến làm việc, học tập, nghiên cứu, thí nghiệm, thực hành.\n- Thực hiện đúng các quy định về tạm trú, tạm vắng.\n- Không tự ý tập trung đông người gây rối trật tự công cộng, phao tin đồn  nhảm; không chứa chấp các loại tội phạm; cấm trộm cắp, đánh bạc, cá độ dưới mọi hình thức; không tự ý tổ chức uống rượu, bia trong khuôn viên  trường.\n128 Sổ tay sinh viên 2022\n- Không phát ngôn hoặc có các hình thức, hành vi xuyên tạc nội dung  giáo dục, chủ trương, đường lối, chính sách của Đảng, pháp luật của Nhà  nước.\n- Không truyền bá tôn giáo, tiến hành các nghi thức tôn giáo, tuyên truyền  chống phá Nhà nước; không tham gia biểu tình, lập hội, nhóm trái phép và các  hình thức hoạt động khác trái với quy định của pháp luật.\n- Không tham gia tệ nạn xã hội như ma túy, mại dâm, mê tín dị đoan; cấm  in sao, phát tán, sử dụng các tài liệu có nội dung phản động, bạo lực, đồi trụy. \nNghiêm cấm truy cập vào các Website không lành mạnh.\n- Không buôn bán trái phép trong Trường; không tàng trữ, vận chuyển,  trao đổi, mua bán, sử dụng vũ khí, hung khí, chất cháy, nổ, các loại hóa chất  độc hại trái phép.\n- Không đi lại trong khuôn viên trường trong khoảng thời gian từ 23 giờ đêm hôm trước đến 5 giờ 00 phút sáng hôm sau, ngoại trừ lực lượng của nhà  trường đang làm nhiệm vụ, các trường hợp cấp cứu và các trường hợp đặc  biệt khác."
+      ]
+    },
+    {
+      "tag": "Điều8.QuyĐịnhVềAnToànGiaoThông",
+      "patterns": [
+        "Điều 8. Quy định về an toàn giao thông"
+      ],
+      "responses": [
+        "\nĐiều 8. Quy định về an toàn giao thông\n- Nghiêm túc chấp hành luật giao thông dù có hay không có cảnh sát giao  thông. \n- Khi tham gia giao thông, không phóng nhanh, giành đường hay vượt ẩu  trên đường. \n- Không lái xe sau khi uống rượu bia hoặc sử dụng các loại chất kích  thích khác làm mất năng lực hành vi. \n- Hạn chế tối đa việc bấm còi xe, đặc biệt là giữa đêm khuya."
+      ]
+    },
+    {
+      "tag": "Điều9.ỨngXửTrongSinhHoạt,NơiCôngCộng",
+      "patterns": [
+        "Điều 9. Ứng xử trong sinh hoạt, nơi công cộng"
+      ],
+      "responses": [
+        "\nĐiều 9. Ứng xử trong sinh hoạt, nơi công cộng\n- Nói “xin lỗi” khi có lỗi và “cám ơn” khi được giúp đỡ. \n- Khi vào cửa bất cứ nơi nào, người đi trước đứng lại giữ cửa cho những  người đi sau bước vào xong mới đến phiên mình và người đi sau luôn nói tiếng  cám ơn người đã giữ cánh cửa cho mình đi vào.\n- Luôn nhường nhịn nhau trong giao tiếp, đảm bảo cử chỉ, hành động lịch  thiệp nhất là xếp hàng theo thứ tự không bao giờ chen lấn giành chỗ.\n Sổ tay sinh viên 2022 129\n- Khi đến các cơ quan, công sở để giao dịch, liên hệ công việc đảm bảo  thái độ lễ phép, lịch sự, thẳng thắn; không gây mất trật tự; nhã nhặn khi hỏi và  cảm ơn khi được giúp đỡ, phục vụ."
+      ]
+    },
+    {
+      "tag": "Điều10.ỨngXửTrênHệThốngMạng",
+      "patterns": [
+        "Điều 10. Ứng xử trên hệ thống mạng"
+      ],
+      "responses": [
+        "\nĐiều 10. Ứng xử trên hệ thống mạng\n- Bắt buộc sử dụng email trường trong trao đổi các vấn đề với trường. \n- Nên dùng gõ Tiếng Việt có dấu.\n- Biết cách viết một email hợp lý, ngắn gọn.\n- Đặt câu hỏi rõ ràng, lời lẽ văn minh, lịch sự, tôn trọng người nhận.\n- Không sử dụng những từ lóng, khó hiểu. \n- Không nói trống không, lời lẽ thô tục, khiếm nhã, không tôn trọng người  nhận khi gửi email.\n- Không sử dụng ảnh nhạy cảm làm ảnh đại diện.\n- Không đăng các vấn đề vi phạm thuần phong mỹ tục của Việt Nam trên  mạng xã hội. Không trao đổi đến những vấn đề không liên quan, những vấn  đề thiếu lịch sự, không nghiêm túc.\n- Không nói xấu, công kích, có những lời không hay trên mạng xã hội.\n- Chỉ trao đổi những vấn đề cần thiết, vấn đề không rõ sau khi đã tìm hiểu  kỹ."
+      ]
+    },
+    {
+      "tag": "Điều11.TráchNhiệmTriểnKhaiThựcHiện:",
+      "patterns": [
+        "Điều 11. Trách nhiệm triển khai thực hiện:"
+      ],
+      "responses": [
+        "\nĐiều 11. Trách nhiệm triển khai thực hiện:\n- Trưởng các đơn vị có trách nhiệm triển khai đến toàn thể cán bộ viên  chức trong đơn vị. Toàn thể cán bộ viên chức có trách nhiệm đôn đốc, thường  xuyên nhắc nhở, giáo dục, kiểm tra việc thực hiện Quy định này của người học  khi học tập, thực hành, thực tập, làm việc tại công sở.\n- Phòng Công tác sinh viên phối hợp với các đơn vị trong Trường tổ chức các hoạt động tuyên truyền đến người học trong toàn Trường bằng các  hình thức như phát hành cẩm nang, chiếu video clip....\n130 Sổ tay sinh viên 2022\n- Phòng Công tác sinh viên đưa nội dung quy định văn hóa ứng xử người học vào sinh hoạt người học đầu năm, đầu khóa học và thường xuyên  nhắc lại trong các buổi hội nghị, hội thảo, hoạt động ngoại khóa.\n- Đoàn Thanh niên, Hội Sinh viên thường xuyên đưa vào các buổi sinh  hoạt của Đoàn, Hội.\n- Giáo viên chủ nhiệm, Cố vấn học tập tổ chức triển khai và thường  xuyên nhắc nhở người học thực hiện tốt các nội dung quy định.\n- Giảng viên giảng dạy tại lớp thường xuyên nhắc nhở lồng ghép trong  các giờ giảng dạy lý thuyết, hướng dẫn thực hành, thực tập.\n- Trong quá trình triển khai thực hiện, nếu có vấn đề vướng mắc hoặc  phát sinh, các đơn vị phản ánh về Phòng Công tác chính trị để tổng hợp trình \nHiệu trưởng xem xét, điều chỉnh, bổ sung cho phù hợp."
+      ]
+    },
+    {
+      "tag": "Điều12.TráchNhiệmTổChứcThựcHiện:",
+      "patterns": [
+        "Điều 12. Trách nhiệm tổ chức thực hiện:"
+      ],
+      "responses": [
+        "\nĐiều 12. Trách nhiệm tổ chức thực hiện:\n- Toàn thể người học đang học tập tại Trường đều phải có trách nhiệm  thực hiện đúng, đồng thời vận động, nhắc nhở những người học khác thực  hiện nghiêm túc các nội dung trong Quy tắc ứng xử của người học.\n- Toàn thể CBVC Trường có trách nhiệm nhắc nhở, hướng dẫn thực  hiện đúng quy định; trường hợp không chấp hành thì có quyền ghi tên, lập  biên bản và báo cáo vi phạm cho phòng Công tác sinh viên hoặc Khoa quản  lý sinh viên xử lý. Đối với những trường hợp phức tạp thì báo ngay với tổ Bảo  vệ trường để phối hợp xử lý hoặc đề nghị cấp có thẩm quyền giải quyết."
+      ]
+    },
+    {
+      "tag": "Điều13.XửLýViPhạm",
+      "patterns": [
+        "Điều 13. Xử lý vi phạm"
+      ],
+      "responses": [
+        "\nĐiều 13. Xử lý vi phạm\n- Người học vi phạm một trong các nội dung của Quy định này sẽ bị xử lý kỷ luật tùy theo mức độ vi phạm và hậu quả do hành vi vi phạm gây ra. Ngoài  các hình thức xử lý kỷ luật theo Quy chế công tác sinh viên, người học còn  phải chịu trách nhiệm bồi hoàn thiệt hại; nếu gây hậu quả nghiêm trọng sẽ bị truy cứu trách nhiệm hình sự theo quy định của pháp luật. \n Sổ tay sinh viên 2022 131\n- Phòng Công tác sinh viên chủ trì, phối hợp với Đoàn Thanh niên, Hội \nSinh viên và các đơn vị có liên quan kiểm tra , giám sát và xử lý người học vi  phạm Quy định này."
+      ]
+    },
+    {
+      "tag": "Điều14.HiệuLựcThiHành",
+      "patterns": [
+        "Điều 14. Hiệu lực thi hành"
+      ],
+      "responses": [
+        "\nĐiều 14. Hiệu lực thi hành\nQuy định này có hiệu lực kể từ ngày ký ban hành. Trong quá trình thực  hiện Quy định này có thể được điều chỉnh, bổ sung để phù hợp với thực tế và  những quy định mới của Nhà nước, các bộ, ban, ngành có liên quan."
+      ]
+    },
+    {
+      "tag": "Điều15.TráchNhiệmThiHành",
+      "patterns": [
+        "Điều 15. Trách nhiệm thi hành"
+      ],
+      "responses": [
+        "\nĐiều 15. Trách nhiệm thi hành\nTrưởng các đơn vị, tổ chức đoàn thể, toàn thể cán bộ, viên chức, người  học trong Trường chịu trách nhiệm thực hiện Quy định này./"
+      ]
+    },
+    {
+      "tag": "NộiQuyLớpHọc",
+      "patterns": [
+        "NỘI QUY LỚP HỌC",
+        "1. Đeo thẻ sinh viên khi vào trường, vào lớp.",
+        "2. Đến lớp đúng giờ, ăn mặc lịch sự, trang nhã.",
+        "3. Lễ phép với Thầy (Cô), hòa nhã với bạn bè.",
+        "4. Bảo vệ, giữ gìn tài sản của nhà trường (không viết, vẽ, dán  giấy lên tường, bàn ghế không tự ý di dời thiết bị,…)",
+        "5. Tắt các thiết bị khi không sử dụng.",
+        "6. Giữ gìn vệ sinh chung của lớp và nhà trường (không đem  thức ăn, đồ uống vào lớp học, không xả rác bừa bãi trong  phòng học,…)",
+        "7. Không được nói chuyện riêng, làm việc riêng, không sử dụng  điện thoại, không tự ra vào lớp trong giờ học.",
+        "8. Không hút thuốc, uống rượu bia trong khuôn viên trường.",
+        "9. Không đem vũ khí, chất gây nổ, chất kích thích vào khuôn  viên trường.",
+        "Nghiêm cấm các hành vi đánh bài, đánh bạc, cá độ, hụi hè; "
+      ],
+      "responses": [
+        "\nNỘI QUY LỚP HỌC\n(Ban hành kèm theo Quyết định số 1090/QĐ-ĐHM Ngày 26/12/2011  của Trường Đại học Mở Tp.HCM)\n1. Đeo thẻ sinh viên khi vào trường, vào lớp.\n2. Đến lớp đúng giờ, ăn mặc lịch sự, trang nhã.\n3. Lễ phép với Thầy (Cô), hòa nhã với bạn bè.\n4. Bảo vệ, giữ gìn tài sản của nhà trường (không viết, vẽ, dán  giấy lên tường, bàn ghế không tự ý di dời thiết bị,…)\n5. Tắt các thiết bị khi không sử dụng.\n6. Giữ gìn vệ sinh chung của lớp và nhà trường (không đem  thức ăn, đồ uống vào lớp học, không xả rác bừa bãi trong  phòng học,…)\n7. Không được nói chuyện riêng, làm việc riêng, không sử dụng  điện thoại, không tự ra vào lớp trong giờ học.\n8. Không hút thuốc, uống rượu bia trong khuôn viên trường.\n9. Không đem vũ khí, chất gây nổ, chất kích thích vào khuôn  viên trường.\n10. Nghiêm cấm các hành vi đánh bài, đánh bạc, cá độ, hụi hè; \nNghiêm cấm việc tổ chức, tham gia truyền bá, lưu hành mê  tín dị đoan, sách báo, băng đĩa có nội dung xấu, các hoạt  động tôn giáo,… dưới mọi hình thức trong khuôn viên trường"
+      ]
+    },
+    {
+      "tag": "ĐiệnThoạiLiênLạcCầnThiếtKhác",
+      "patterns": [
+        "ĐIỆN THOẠI LIÊN LẠC CẦN THIẾT KHÁC"
+      ],
+      "responses": [
+        "\nĐIỆN THOẠI LIÊN LẠC CẦN THIẾT KHÁC\nCƠ SỞ 2 – LONG BÌNH 0251 8826399\n0251 8826480\n0251 8826481\n0251 8826482\n0251 8826483\n0251 8826484\nCƠ CỞ 3 – BÌNH DƯƠNG 0274 3822 456\n0274 3840 080\n0274 3828 631\nFax: 0274 3824 708\nCƠ SỞ 5 – NINH HÒA 02583 634 540\n02583 634 080\nFax: 02583 634 541\nTỔ QUẢN LÝ LỚP HỌC – SỐ 2 MAI THỊ LỰU 028 38 242 599\nTỔ QUẢN LÝ LỚP HỌC – SỐ 97 VÕ VĂN TẦN 028 39 302 324\nTỔ QUẢN LÝ LỚP HỌC –\nSỐ 35 - 37 HỒ HẢO HỚN\n028 3838 6636\nHOTLINE AN NINH SINH VIÊN 028 39 330 660"
+      ]
+    }
