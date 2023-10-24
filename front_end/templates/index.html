@@ -124,12 +124,54 @@
         img {
             float: left;
         }
+        #session-list li:first-child {
+            background-color: rgb(70, 70, 232);
+            color: white; /* Tùy chỉnh màu chữ nếu cần */
+        }
     </style>
+    <style type='text/css'>
+        
+        .siben {
+        
+        position: fixed;
+        
+        left: 0;
+        
+        top: 0;
+        
+        width: 100%;
+        
+        height: 100%;
+        
+        z-index: 10000000;
+        
+        background: url('https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif') center no-repeat #fff;
+        
+        }
+        .sibenQa {
+        
+        
+        
+          width: 50px;
+
+          height: 50px;
+
+            z-index: 100000;
+
+            background: url('https://blogger.googleusercontent.com/img/a/AVvXsEhv5o_IW2sQlm3f5bNMjls_G6uVVoJ3NNPoE_cUTx6l-Uh1HKBZ9kv0hR3KoUqSa9dCINUCneCkeSGaMM34SV4bfnXIT6UC6D-_2GykJ88__Zy9ZvML1bBSGLRMfml2apj3lJt0MgPq2d0v6XB3FcI9fiursNLEKmqXcL5wxEzko_NYC7UzqVqsr1k5=s16000-rw') center no-repeat #ffffff;
+            background-size: cover; /* Hoặc 'contain' tùy theo mong muốn */
+            background-repeat: no-repeat;   
+        }
+        
+        </style>
+      
     
 </head>
 
 <body>
+
     <div class="chatbot">
+        <div class='siben'></div>
         <div class="chat-container">
             <div class="sidebar">
                 
@@ -168,6 +210,7 @@
                         {{ answer }}
                     </div>
                     <div class="input-container">
+                        <div class='sibenQa' ></div>
                         <form action="/chat" method="POST">
                             <div class="input-group">
                                 <input type="text" class="form-control" id="user-input" onkeydown="checkEnter(event)" placeholder="Nhập tin nhắn...">
@@ -198,29 +241,32 @@
         </div>
 
         <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
-      
+         <script>//<![CDATA[
+
+            $(window).on('load',function(){
+            
+            $('.siben').fadeOut(1000);
+            
+            })
+            
+            //]]></script>
         <script>
             var sessionList = document.getElementById("session-list");
             var chatBody = document.getElementById("ct-2");
 
             // Xử lý sự kiện khi nhấn nút Gửi
             document.getElementById("user_question").addEventListener("click", function () {
+             $('.sibenQa').show();
                 sendMessage();
 
             });
 
-            // Xử lý sự kiện khi nhấn phím Enter
-            <!--document.getElementById("user-input").addEventListener("keyup", function (event) {-->
-                <!--if (event.keyCode === 13) {-->
-                    <!--sendMessage();-->
-                <!--}-->
-            <!--});-->
-                        
-                       
+                                      
             function checkEnter(event) {
               if (event.key === "Enter") {
                 event.preventDefault(); // Ngăn chặn sự kiện Enter gây ra kết thúc dòng mới trong trường input
                 // Thực hiện xử lý khi người dùng ấn Enter ở đây
+                 $('.sibenQa').show();
                 sendMessage();
               }
             }
@@ -229,7 +275,9 @@
             function sendMessage() {
                 var userInput = document.getElementById("user-input");
                 var userMessage = userInput.value.trim();
-            
+               
+                    userInput.disabled = true;
+                  
                 if (userMessage !== "") {
                     displayUserMessage(userMessage);
             
@@ -250,6 +298,8 @@
                             var botMessage = response.answer;
                             console.log(response.answer)
                             displayBotMessage(botMessage);
+                            $('.sibenQa').hide();
+                             userInput.disabled = false;
                         }
                     };
             
@@ -258,7 +308,9 @@
             
                     // Gửi yêu cầu với dữ liệu
                     xhr.send(data);
-            
+                     
+                    
+                     
                     userInput.value = "";
                     userInput.focus();
             
@@ -325,6 +377,9 @@
             </div>`;
             }
         </script>
+        
+        
+       
        <script>
     // Sử dụng JavaScript để lấy dữ liệu từ máy chủ
     window.onload = function () {
@@ -381,9 +436,13 @@
                             displayUserMessage(info[2]);
                             displayBotMessage(info[3]);
                         }
+                        $('.sibenQa').fadeOut(100);
                     }
+                    
+                  
                 };
                 get_qa_by_session_xhr.send();
+                
             
             // Hàm để cập nhật end_time của session
             function updateSessionEndTime(session_id) {

@@ -71,9 +71,11 @@ Nếu bạn gặp lỗi này, thực hiện các bước sau:
    
 2. Mở Developer Tools (F12), chọn tab "Application," xóa hết dữ liệu trong "Cookies," sau đó tải lại trang và đăng nhập lại.
    
-3. Sao chép giá trị trong cookie "__Secure-1PSID."
+3. Sao chép giá trị trong cookie HSID -> "__Secure-1PSID."
    
 4. Mở tệp "chatbotvn/natural_language_processing/bard.py" và thay thế giá trị "_BARD_API_KEY" bằng giá trị bạn vừa sao chép.
+
+5. Tắt bard ở phía website.
    
 ```python
 import os 

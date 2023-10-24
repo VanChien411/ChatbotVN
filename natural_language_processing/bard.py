@@ -1,6 +1,6 @@
 from bardapi import Bard
 import os 
-os.environ["_BARD_API_KEY"] = "cQh9MiwI3L1hbB6gsOWWFbzKUNmoyR65if7wP_1_vyoJ_mkKzxOlVpgjIjG6BiB-PvGx2Q."
+os.environ["_BARD_API_KEY"] = "cQh9Mkvu7kd-aHTF_ncGFL-S5GA18BepRPzhvQEoKLZaC4zBNW284u5rEvNvvE6grEvwwg."
 
 """
 enter: tôi cần bạn liệt kê các từ đồng nghĩa và từ viết tắc của "công nghệ thông tin" vào mảng wordSum. Tuyệt đối không nói gì thêm, không cần giải thích hay chỉ cách làm

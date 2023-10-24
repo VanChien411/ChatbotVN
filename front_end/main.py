@@ -26,10 +26,11 @@ def chat():
     
         # Gọi hàm xử lý câu trả lời từ tệp chatvn.py
         chatvn = get_chatbot_response(user_question)
-        
+        id_session = mySQL.get_session()[0][0]
+        mySQL.add_question_answer(id_session, user_question,chatvn)
         print(chatvn)
         return jsonify(answer=chatvn) # Trả về kết quả dưới dạng JSON
-    return render_template('index.html', user_question=user_question, answer=chatvn)
+    return render_template('index.html', user_question=user_question, answer=answer)
 
 # Tuyến đường để cung cấp dữ liệu từ bảng `information` dưới dạng JSON
 @app.route('/get_information')
